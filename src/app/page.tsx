@@ -312,7 +312,7 @@ export default function LandingPage() {
           {/* Range Attribution */}
           <div className="mt-6 pt-6 border-t flex flex-col items-center gap-2">
             <a
-              href="https://www.withinran.ge"
+              href="https://withinran.ge"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 hover:opacity-80 transition-opacity"
