@@ -11,6 +11,31 @@ import {
   Sparkles
 } from 'lucide-react'
 
+// Range brand colors
+const rangeColors = {
+  forest: '#1e3a2f',
+  sage: '#4a7c67',
+  stone: '#94a39b',
+}
+
+// Range Logo Component (from brand guide)
+function RangeLogo({ size = 48, light = false }: { size?: number; light?: boolean }) {
+  const primary = light ? '#ffffff' : rangeColors.forest
+  const accent = light ? '#ffffff' : rangeColors.sage
+
+  return (
+    <svg width={size} height={size * 0.55} viewBox="0 0 48 26" fill="none">
+      {/* Input bracket */}
+      <path d="M8 4V22M8 4H13M8 22H13" stroke={primary} strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" />
+      {/* Arrow */}
+      <path d="M17 13H31" stroke={primary} strokeWidth="2" strokeLinecap="round" />
+      <path d="M27 8L33 13L27 18" stroke={accent} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+      {/* Output */}
+      <circle cx="40" cy="13" r="4.5" fill={accent} />
+    </svg>
+  )
+}
+
 const features = [
   {
     icon: Brain,
@@ -281,6 +306,30 @@ export default function LandingPage() {
             </div>
             <p className="text-sm text-gray-500">
               Built for Chicago students and families.
+            </p>
+          </div>
+
+          {/* Range Attribution */}
+          <div className="mt-6 pt-6 border-t flex flex-col items-center gap-2">
+            <a
+              href="https://www.withinran.ge"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-2 hover:opacity-80 transition-opacity"
+            >
+              <RangeLogo size={28} />
+              <span
+                className="text-lg font-light italic"
+                style={{ color: rangeColors.forest }}
+              >
+                Range
+              </span>
+            </a>
+            <p
+              className="text-xs"
+              style={{ color: rangeColors.stone }}
+            >
+              Built and maintained by Range
             </p>
           </div>
         </div>
