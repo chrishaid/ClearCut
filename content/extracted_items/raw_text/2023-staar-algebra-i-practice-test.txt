@@ -1,0 +1,646 @@
+Algebra I
+Practice Assessment
+Copyright © 2023, Texas Education Agency. All rights reserved. Reproduction of all or portions of this work is prohibited without express
+written permission from the Texas Education Agency.
+
+STAAR ALGEBRA I
+REFERENCE MATERIALS
+FACTORING
+Perfect square trinomials
+Difference of squares
+PROPERTIES OF EXPONENTS
+Product of powers
+Quotient of powers
+Power of a power
+Rational exponent
+2 2 2
+a + 2ab + b = (a + b)
+2 2 2
+a − 2ab + b = (a − b)
+a2 − b2 = (a − b)(a + b)
+m n (m + n)
+a a = a
+m
+a (m − n)
+= an
+a
+m n mn
+(a ) = a
+m nn m
+a = a
+Negative exponent
+LINEAR EQUATIONS
+Standard form
+Slope-intercept form
+Point-slope form
+Slope of a line
+QUADRATIC EQUATIONS
+Standard form
+Vertex form
+Quadratic formula
+Axis of symmetry
+1−n =a a n
+Ax + By = C
+y = mx + b
+y − y = m(x − x )1 1
+y − y2 1
+m = x − x2 1
+f x( ) = ax2 + bx + c
+2 + kf x( ) = a x −( h)
+b2
+− b − 4ac
+x = 2a
+− b
+x = 2a
+
+
+
+ALGEBRA IAlgebra I
+Page 7
+82306
+82344
+DIRECTIONS
+Read each question carefully. Choose the best answer to each
+question. For open-response questions, determine the best answer
+to the question.
+1 Which expression is equivalent to (2m4
+)(5m8)?
+A 7m12
+B 10m12
+C 7m32
+D 10m32
+2 The function f(x) = x was transformed to form g(x) = f(x) − 23.
+Which statement is true about the graphs of f and g?
+A The graphs of f and g are not parallel, and the graph of f is
+translated 23 units up to create the graph of g.
+B The graphs of f and g are not parallel, and the graph of f is
+translated 23 units down to create the graph of g.
+C The graphs of f and g are parallel, and the graph of f is
+translated 23 units up to create the graph of g.
+D The graphs of f and g are parallel, and the graph of f is
+translated 23 units down to create the graph of g.
+Algebra I
+Page 8
+82457
+3 A graph of a quadratic function is shown. What are the x-intercepts of
+the function?
+Shade the TWO correct circles that represent the points.
+Algebra I
+Page 9
+82434
+4 An artist bought a set of 10 paintbrushes that contained x small
+paintbrushes and y large paintbrushes. The number of small
+paintbrushes in the set was 4 times the number of large paintbrushes
+in the set.
+Which system of equations can be used to find the numbers of small
+paintbrushes and large paintbrushes in the set?
+A x + y = 10
+x = 4y
+B x − y = 10
+x = 4y
+C x + y = 10
+y = 4x
+D x − y = 10
+y = 4x
+Algebra I
+Page 10
+82519
+5 Which graph represents f(x) = 3 2 x
+?
+3
+A C
+B D
+Algebra I
+Page 11
+82507
+82521
+6 For quadratic function f, the solutions to the equation f(x) = 0 are
+7
+x = 5 and x = − 2
+3.
+Which function could represent f?
+A f(x) = 14x2 + 11x − 15
+B f(x) = 15x2 − 11x − 14
+C f(x) = 14x2 − 11x − 15
+D f(x) = 15x2 + 11x − 14
+7 A store manager adjusts the price of an item each week that the item
+goes unsold. The price of the unsold item, in dollars, after x weeks can
+be modeled by the exponential function f(x) = 320(0.90)x.
+Select ONE correct answer in each box to complete each sentence.
+The initial price of the item before the store manager made any
+A $288
+adjustments was B $320 .
+C $352
+The price of the item A increases
+B decreases
+A 10%
+at a rate of B 90%
+C 110%
+each week.
+Algebra I
+Page 12
+82312
+8 Which expression is equivalent to 75?
+A
+B 15 5
+C
+D 5
+3 5
+15
+5 3
+Algebra I
+Page 13
+Fish Tank
+82323
+9 A fish tank is being drained at a constant rate. The graph shows the
+linear relationship between the volume of water in the fish tank in
+liters and the time in minutes the tank has been draining.
+Which value best represents the rate of change of the volume of water
+in the fish tank with respect to time?
+A –6 L/min
+B 6 L/min
+C − 1 L/min
+6
+1
+D L/min
+6
+Algebra I
+Page 14
+82456
+82283
+10 What is the solution set for 12 − 4w > 2(w − 18)?
+A w > 8
+B w < 5
+C w < 8
+D w > 5
+11 What are the factors of 2x2 + x − 15?
+Select TWO correct answers.
+` x + 3
+` 2x − 3
+` x + 5
+` 2x − 5
+` x − 3
+` 2x + 5
+Algebra I
+Page 15
+82481
+12 A part of quadratic function f is graphed on the grid.
+What is the domain of the part of the function shown?
+A All real numbers greater than or equal to −1
+B All real numbers greater than or equal to 1
+C All real numbers
+D All real numbers greater than or equal to −1 and less than or
+equal to 5
+Algebra I
+Page 16
+82369
+13 The graph of a linear function is shown on the coordinate plane.
+Which function best represents the relationship shown in the graph?
+A y = 2x − 4
+B y = 2x + 2
+1
+C y = x − 4
+2
+1
+D y = x + 2
+2
+Algebra I
+Page 17
+82516
+14 Which statement about f(x) = 12x2 − 36x + 27 is true?
+A The zeros are ± 2 because f(x) = 3(2x − 3)(2x + 3).
+3
+B The zeros are ± 3 because f(x) = 3(2x − 3)(2x + 3).
+2
+C The only zero is 2 because f(x) = 3(2x − 3)2.
+3
+D The only zero is 3 because f(x) = 3(2x − 3)2.
+2
+Algebra I
+Page 18
+82324
+15 The graph of a linear function is shown.
+What are the slope and the y-intercept that best represent this
+linear function?
+Select the correct answer for each box. Each answer may be used
+more than once. Not all answers will be used.
+A −4 B −2 C −0.5 D 0.5 E 2 F 4
+Slope:
+y-intercept:
+A B C D E F
+A B C D E F
+Algebra I
+Page 19
+82310
+82501
+16 Which expression is equivalent to (z + 5)(z2 − 4z + 6)?
+A z3 + 5z2 + 6z + 30
+B z2 + z + 11
+C z3 + z2 − 14z + 30
+D z2 − 3z + 11
+17 The graph of a quadratic function is shown on the grid.
+Which statement is best supported by the graph?
+A The function has a zero at 6.
+B The minimum value of the function is 9.
+C The vertex of the graph is (9, −3).
+D The equation of the axis of symmetry of the graph is x = −3.
+Algebra I
+Page 20
+82522
+18 New houses are being built in a neighborhood. The table shows the
+exponential change in the number of houses in the neighborhood over
+the last 6 years.
+Houses in Neighborhood
+Year, x Number of Houses, f(x)
+1 27
+2 35
+3 45
+4 68
+5 93
+6 124
+Which exponential function best models the data?
+A f(x) = 1.4(18.9)x
+B f(x) = 27(1.3)x
+C f(x) = 18.9(1.4)x
+D f(x) = 1.3(27)x
+Algebra I
+Page 21
+82435
+82321
+19 What is the solution to 10 − 3(m − 5) = 2(5 − m)?
+Record your answer in the space provided.
+20 Which value represents the rate of change of y with respect to x for
+this function?
+2 x − 4 y
+5 7 = 3
+2
+A − 21
+8
+B 8
+35
+C − 6
+7
+D 7
+10
+Algebra I
+Page 22
+Algebra I
+Page 23
+21 A system of linear equations is shown.
+x − 3y = 7
+x − 2y = 2
+What is the value of x in the solution to this system of equations?
+A 5
+B −5
+C 8
+D −8
+82451
+22 A shipping company started with 40 employees. The number
+of employees at the shipping company increases at a rate of
+7.5% each year.
+Which function can be used to model the number of employees,
+f(x), at the shipping company after x years?
+A f(x) = 43(1.075)x
+B f(x) = 40(1.075)x
+C f(x) = 43(0.075)x
+D f(x) = 40(0.075)x
+82517
+Algebra I
+Page 24
+23 The graph of 3x − y = 1 is shown on the grid.
+Which points are in the solution set of 3x − y ≥ 1?
+Shade the THREE correct circles that represent the points.
+82326
+Algebra I
+Page 25
+24 A sequence can be generated by using the equation shown,
+where a1 = 5 and n is a whole number greater than 1.
+an = −3 + a(n−1)
+What are the first four terms in the sequence?
+A –3 2 7 12
+B 5 2 −1 −4
+C −3 −15 −75 −375
+D 5 8 11 14
+82314
+Football Player's Sprint
+Time (sec)
+Algebra I
+Page 26
+25 A football player sprinted at a constant rate. The part of the linear
+function shown represents the distance the football player sprinted in
+yards, y, as a function of the time in seconds, x.
+What is the range of the function for this situation?
+A 0 ≤ y ≤ 9
+B 0 ≤ x ≤ 9
+C 0 ≤ y ≤ 80
+D 0 ≤ x ≤ 80
+82367
+26 Which expression is a factor of −6x2 − 19x + 20?
+A 3x − 5
+B 6x − 5
+C x − 5
+D 2x − 5
+82288
+Algebra I
+Page 27
+27 The function f(x) = x2 was transformed to create the function
+g(x) = f(x − 2) + 5. Complete the sentence about this transformation.
+Select ONE correct answer in each box to complete the sentence.
+The graph of f is translated 2 units
+A down
+B up
+C left
+D right
+and
+5 units
+A down
+B up
+C left
+D right
+to create the graph of function g.
+82475
+28 Which expression is equivalent to x−6y4
+x3y for all values of x and y where
+the expression is defined?
+A y3
+x9
+B y4
+x9
+C y5
+x3
+D y4
+x2
+82305
+-1 -12
+1 -2
+5 18
+-1 16
+2 4
+6 -12
+Algebra I
+Page 28
+29 The tables of ordered pairs represent some points on the graphs of
+two lines.
+Line 1 Line 2
+yx yx
+Which system of equations is represented by the two lines?
+A y = 5x − 7
+4x − y = 4
+B y = 5x − 7
+4x + y = 12
+C y = 7x − 9
+4x − y = 4
+D y = 7x − 9
+4x + y = 12
+82430
+30 A function is shown.
+f(x) = 2
+5 (x − 25)2 + 13
+What is the range of the function?
+A All real numbers
+B All real numbers greater than or equal to 25
+C All real numbers greater than or equal to 10
+D All real numbers greater than or equal to 13
+82479
+Algebra I
+Page 29
+31 Indicate whether each statement is an example of association,
+causation, both association and causation, or neither association
+nor causation.
+Select ONE correct answer in each row.
+Statement Association
+Only
+Causation
+Only
+Both
+Association
+and
+Causation
+Neither
+Association
+nor
+Causation
+As the outside temperature
+in degrees Celsius increases,
+the number of minutes it
+takes for a bowl of ice cream
+to melt decreases.
+A B C D
+As the sales of winter
+coats increase, the outside
+temperature decreases. A B C D
+82335
+32 Dance lessons are offered at two studios. The cost of dance lessons at
+each studio is shown.
+• Studio Q charges a $30 registration fee plus $80 per month.
+• Studio R charges a $105 registration fee plus $65 per month.
+After how many months will the total cost of the dance lessons be
+equal at the two studios?
+A 5
+B 280
+C 9
+D 430
+82452
+Algebra I
+Page 30
+33 The graph of a linear function is shown on the grid.
+Which statement is best supported by the graph of the function?
+A The slope of the graph is 1
+2.
+B The x-intercept of the graph is 6.
+C The zero of the function is 1
+2.
+D The y-intercept of the graph is 6.
+82325
+34 Which expression is a factor of 16m2 − 81?
+A 2m − 9
+B 16m + 9
+C 8m − 9
+D 4m + 9
+82311
+Algebra I
+Page 31
+35 The equation of line k is y = −x + 17. Line n is parallel to line k and
+passes through the point (−5, 7).
+Determine an equation that represents the relationship between x
+and y for line n.
+Record your answer in the space provided.
+82454
+Algebra I
+Page 32
+36 A bicycle rental company charges a fixed rental fee for the first
+30 minutes and a cost per minute for each additional minute. The
+table shows the linear relationship between the total cost in dollars
+to rent a bicycle and the number of additional minutes a bicycle
+is rented.
+Bicycle Rental
+Number of Additional Minutes Total Cost (dollars)
+15 3.05
+20 3.40
+35 4.45
+55 5.85
+What is the rate of change of the total cost in dollars with respect to
+the number of additional minutes?
+A $0.17 per min
+B $0.35 per min
+C $0.07 per min
+D $0.56 per min
+82322
+Algebra I
+Page 33
+37 A student borrowed $480 from a friend. He agreed to make monthly
+payments of $96 with no interest until the loan balance was paid
+off. The function shown models this situation, where f(x) represents
+the remaining loan balance in dollars after the student has made
+x monthly payments.
+f(x) = 480 − 96x
+Which statements are true about the domain and range of the function
+for this situation?
+Select TWO correct answers.
+` The domain of the function is the set of all real numbers.
+` The domain of the function is {0, 1, 2, 3, 4, 5}.
+` The domain of the function is {0, 96, 192, 288, 384, 480}.
+` The range of the function is the set of all real numbers.
+` The range of the function is {0, 1, 2, 3, 4, 5}.
+` The range of the function is {0, 96, 192, 288, 384, 480}.
+82364
+38 What are the solutions to the equation (x + 13)(x − 6) = 0?
+A x = 6 and x = 13
+B x = −13 and x = 6
+C x = −6 and x = 13
+D x = −13 and x = −6
+82503
+Algebra I
+Page 34
+39 A sample of a substance with an initial mass of 963 grams is decaying
+at a rate of 27% per hour.
+Create a function that can be used to find y, the mass of the
+substance in grams remaining after x hours.
+Record your answer in the space provided.
+82518
+Algebra I
+Page 35
+40 Which graph best represents the solution set of 3x < 2y + 6?
+A C
+B D
+82327
+Algebra I
+Page 36
+41 What is the slope of the line that passes through the points (10, 18)
+and (−5, −12)?
+A 1
+2
+B 2
+C −2
+D − 1
+2
+82361
+42 What are the solutions to the equation x2 − 2 = −3x?
+A 3 ± 17
+2
+B −1 and 2
+C −3 ± 17
+2
+D −2 and 1
+82505
+Algebra I
+Page 37
+43 In the expression shown, x is a value where the expression is defined.
+(2x8
+)(3x–1
+) 2
+What is the simplest form of the expression? Write your answer in the
+form axb.
+Record your answer in the space provided.
+82295
+Algebra I
+Page 38
+44 The table represents some points on the graph of a linear function.
+x y
+−1 27
+7
+3 11
+7
+6 − 1
+7
+10 − 17
+7
+Which function represents this relationship?
+A y = − 4
+7 x + 23
+7
+B y = − 4
+7 x + 31
+7
+C y = 19
+7 x + 8
+7
+D y = 19
+7 x + 46
+7
+82370
+Algebra I
+Page 39
+45 Quadratic function f has vertex (4, 15) and passes through the
+point (1, 20). Which equation represents f?
+A f(x) = − 5
+9 (x − 4)2 + 15
+B f(x) = 5
+9 (x − 4)2 + 15
+C f(x) = − 35
+9 (x − 4)2 − 15
+D f(x) = 35
+9 (x − 4)2 − 15
+82506
+Algebra I
+Page 40
+46 A line is graphed on a coordinate grid.
+y
+x
+Which statement best describes the line?
+A The equation of the line is x = 6, and the slope is equal to 0.
+B The equation of the line is y = 6, and the slope is undefined.
+C The equation of the line is y = 6, and the slope is equal to 0.
+D The equation of the line is x = 6, and the slope is undefined.
+82455
+Algebra I
+Page 41
+47 The graph shows two lines representing the equations y = 2x + 5 and
+x + y = 1.
+y
+x
+Which ordered pair is in the solution set for the system of inequalities
+y ≥ 2x + 5 and x + y ≤ 1?
+A (−5, 0)
+B (0, 7)
+C (5, 0)
+D (0, −7)
+82354
+STOP
+BE SURE YOU HAVE RECORDED ALL OF YOUR ANSWERS
+IN THE TEST BOOKLET.
+Algebra I
+Page 42
+48 For linear function f, f(−3) = 0 and f(5) = −4.
+Complete function f in slope-intercept form.
+Select the correct answer for each box. Not all answers will be used.
+A −3 B −2 C −1.5 D −0.5 E 0.5 F 1.5 G 2 H 3
+f(x) = A B C D E F G H x + A B C D E F G H
+82453
+49 Which statement about the graph of the function f(x) = 35(1.4)x
+is true?
+A The y-intercept of the function is (0, 35).
+B The x-intercept of the function is (1.4, 0).
+C The graph of the function is decreasing for all values of x.
+D The asymptote of the function is y = 0.4.
+82520
+50 Which expression is equivalent to k2 − 5k − 6?
+A (k − 1)(k + 6)
+B (k − 3)(k + 2)
+C (k − 6)(k + 1)
+D (k − 2)(k + 3)
+82286
+
+STAAR
+Algebra I
+PRACTICE

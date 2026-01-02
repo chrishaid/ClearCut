@@ -1,0 +1,241 @@
+June 2024
+Massachusetts Department of
+Elementary and Secondary Education
+Release of Spring 2024
+MCAS Test Information
+from the
+Grade 7 Mathematics Test
+This document was prepared by the
+Massachusetts Department of Elementary and Secondary Education
+Russell D. Johnston
+Acting Commissioner
+The Massachusetts Department of Elementary and Secondary Education, an affirmative action employer,
+is committed to ensuring that all of its programs and facilities are accessible to all members of the public.
+We do not discriminate on the basis of age, color, disability, national origin, race, religion, sex, gender identity,
+or sexual orientation. Inquiries regarding the Department’s compliance with Title IX and other civil rights laws may be
+directed to the Human Resources Director, 135 Santilli Highway, Everett, MA 02149. Phone: 781-338-6105.
+© 2024 Massachusetts Department of Elementary and Secondary Education
+Permission is hereby granted to copy for non-commercial educational purposes any or all parts of
+this document with the exception of English Language Arts passages that are not designated as in
+the public domain. Permission to copy all other passages must be obtained from the copyright holder.
+Please credit the “Massachusetts Department of Elementary and Secondary Education.”
+Massachusetts Department of Elementary and Secondary Education
+135 Santilli Highway, Everett, MA 02149
+Phone 781-338-3000 TTY: N.E.T. Relay 800-439-2370
+www.doe.mass.edu
+1
+Overview of Grade 7 Mathematics Test
+The spring 2024 grade 7 Mathematics test was administered in two formats: a computer-based version and a paper-based
+version. Most students took the computer-based test. The paper-based test was offered as an accommodation for eligible
+students who were unable to use a computer. More information can be found on the MCAS Test Administration Resources page
+at www.doe.mass.edu/mcas/admin.html.
+Most of the operational items on the grade 7 Mathematics test were the same, regardless of whether a student took the computer-
+based version or the paper-based version. In places where a technology-enhanced item was used on the computer-based test, an
+adapted version of the item was created for use on the paper test. These adapted paper items were multiple-choice, multiple-select,
+or short-answer items that tested the same Mathematics content and assessed the same standard as the technology-enhanced item.
+The Department is not releasing items from the spring 2024 MCAS grades 3–8 tests. Released items from previous years’
+computer-based tests are available on the MCAS Resource Center website at mcas.pearsonsupport.com/released-items.
+Test Sessions and Content Overview
+The grade 7 Mathematics test was made up of two separate test sessions. Each session included selected-response, short-answer,
+and constructed-response questions. On the paper-based test, the selected-response questions were multiple-choice items and
+multiple-select items, in which students select the correct answer(s) from among several answer options.
+Standards and Reporting Categories
+The grade 7 Mathematics test was based on standards in the five domains for grade 7 in the Massachusetts Curriculum
+Framework for Mathematics (2017). The five domains are listed below.
+• Ratios and Proportional Relationships
+• The Number System
+• Expressions and Equations
+• Geometry
+• Statistics and Probability
+The Massachusetts Curriculum Framework for Mathematics is available on the Department website at
+www.doe.mass.edu/frameworks/current.html.
+Mathematics test results are reported under five MCAS reporting categories, which are identical to the five framework domains
+listed above.
+The tables at the conclusion of this document provide the following information about each operational item: reporting
+category, standard(s) covered, item type, and item description.
+Reference Materials and Tools
+Each student taking the grade 7 Mathematics test was provided with a ruler and a grade 7 Mathematics Reference Sheet. A copy
+of the reference sheet can be found on the next page of this document.
+During Session 2, each student had sole access to a calculator. Calculator use was not allowed during Session 1.
+During both Mathematics test sessions, the use of authorized bilingual word-to-word dictionaries and glossaries was allowed for
+students who are currently or were ever reported as English learners. No other reference tools or materials were allowed.
+Massachusetts Comprehensive Assessment System
+Grade 7 Mathematics Reference Sheet
+Grade 7 Mathematics
+Spring 2024 Computer-Based Operational Items
+CBT
+Item No. Reporting Category Standard Item
+Type* Item Description
+1 The Number System 7.NS.A.3 SR Solve a real-world problem involving the four operations using
+fractions and mixed numbers.
+2 Statistics and Probability 7.SP.B.3 SA Determine the difference of the medians in two different box plots.
+3 Expressions and Equations 7.EE.B.3 SR Determine which equation is equivalent to a given equation.
+4 Statistics and Probability 7.SP.C.8 SR Find the probability of a compound event using an organized list.
+5 Geometry 7.G.B.5 CR
+Solve a multi-step problem involving simple equations for unknown
+angles by using facts about supplementary, complementary, vertical,
+and adjacent angles.
+6 The Number System 7.NS.A.2 SR Determine if the products of positive and negative rational numbers
+have positive or negative values.
+7 Ratios and Proportional
+Relationships 7.RP.A.2 SA Determine the unit rate in a real-world problem, given a graph.
+8 The Number System 7.NS.A.2 SA Convert a fraction into a decimal.
+9 Ratios and Proportional
+Relationships 7.RP.A.1 SR Determine the unit rate associated with ratios of fractions in a real-
+world context.
+10 Expressions and Equations 7.EE.A.1 SR Use the distributive property to determine which linear expressions
+are equivalent to a given expression.
+11 The Number System 7.NS.A.2 SA Determine one of the values of a variable that will make an algebraic
+expression positive and rational.
+12 Expressions and Equations 7.EE.B.4 CR Write and solve expressions and inequalities to model a real-world
+problem.
+13 Ratios and Proportional
+Relationships 7.RP.A.1 SR Determine the unit rate associated with ratios of fractions and use the
+unit rate to solve a real-world problem.
+14 Geometry 7.G.A.3 SR Determine the two-dimensional shapes of the faces of figures that
+result from slicing both a cube and a pyramid in given directions.
+15 Expressions and Equations 7.EE.A.2 SR Determine which equivalent expressions can be used to represent a
+real-world problem.
+16 The Number System 7.NS.A.3 SR Determine which expression is equivalent to a given expression.
+17 The Number System 7.NS.A.2 SR Determine whether fractions convert to a decimal that terminates in
+0s.
+18 Ratios and Proportional
+Relationships 7.RP.A.2 SA Use proportional relationships to create an equation that can be used
+to find a quantity.
+19 The Number System 7.NS.A.1 SA Use integers to solve a real-world problem.
+20 Expressions and Equations 7.EE.A.1 SR Determine which expression is equivalent to a given expression.
+21 Ratios and Proportional
+Relationships 7.RP.A.3 SR Solve a multi-step, real-world problem involving percent decrease.
+22 Expressions and Equations 7.EE.A.2 SR Identify equivalent algebraic expressions for the perimeter of a given
+rectangle in a real-world context.
+23 Statistics and Probability 7.SP.B.4 SR Compare the mean and range of two data sets.
+24 Ratios and Proportional
+Relationships 7.RP.A.2 SR Determine which proportion represents a given real-world
+relationship.
+25 Ratios and Proportional
+Relationships 7.RP.A.3 CR Use proportional relationships to solve multi-step ratio, rate, and
+percent problems within a real-world context.
+26 Statistics and Probability 7.SP.C.5 SR Determine which probability could represent the likelihood of an
+event in a real-world context.
+3
+CBT
+Item No. Reporting Category Standard Item
+Type* Item Description
+27 Expressions and Equations 7.EE.B.4 SR Determine which inequality represents a real-world context.
+28 Statistics and Probability 7.SP.C.6 SR Determine the probabilities of chance events within a simple context.
+29 Statistics and Probability 7.SP.A.1 SR Determine which sampling strategy will produce a valid
+representative sample for a given population.
+30 The Number System 7.NS.A.3 SA Solve a multi-step, real-world problem involving percents and
+fractions and using money as a context.
+31 Expressions and Equations 7.EE.A.2 SR Rewrite an expression in a different form and then evaluate the
+expression for a given value.
+32 Statistics and Probability 7.SP.C.8 CR Determine probabilities of compound events and use these
+probabilities to solve mathematical problems.
+33 Geometry 7.G.A.1 SR
+Given a real-world context and a scale drawing in the shape of a
+rectangle, calculate actual side lengths and missing side lengths of the
+scale drawing.
+34 The Number System 7.NS.A.3 SA Solve real-world problems involving whole numbers, fractions, and
+mixed numbers.
+35 Expressions and Equations 7.EE.B.3 SR Solve a multi-step, real-life problem involving a positive whole
+number, a percent, and a fraction.
+36 Geometry 7.G.A.2 SA Draw a geometric shape with given conditions.
+37 Ratios and Proportional
+Relationships 7.RP.A.3 SR Determine the percent increase in a real-world problem.
+38 The Number System 7.NS.A.3 SA Compute with and order rational numbers in a real-world situation.
+39 Expressions and Equations 7.EE.A.1 SR Apply properties of operations to add and subtract linear expressions
+with rational coefficients.
+40 Statistics and Probability 7.SP.C.8 SR Determine the probability of a compound event, given a verbal
+description of a real-world sample space.
+* Mathematics item types are: selected-response (SR), short-answer (SA), and constructed-response (CR).
+4
+Grade 7 Mathematics
+Spring 2024 Paper-Based Operational Items
+PBT
+Item No. Reporting Category Standard Item
+Type* Item Description
+1 The Number System 7.NS.A.3 SR Solve a real-world problem involving the four operations using
+fractions and mixed numbers.
+2 Statistics and Probability 7.SP.B.3 SA Determine the difference of the medians in two different box plots.
+3 Expressions and Equations 7.EE.B.3 SR Determine which equation is equivalent to a given equation.
+4 Statistics and Probability 7.SP.C.8 SR Find the probability of a compound event using an organized list.
+5 Geometry 7.G.B.5 CR
+Solve a multi-step problem involving simple equations for unknown
+angles by using facts about supplementary, complementary, vertical,
+and adjacent angles.
+6 The Number System 7.NS.A.2 SR Determine if the products of positive and negative rational numbers
+have positive or negative values.
+7 Ratios and Proportional
+Relationships 7.RP.A.2 SA Determine the unit rate in a real-world problem, given a graph.
+8 The Number System 7.NS.A.2 SA Convert a fraction into a decimal.
+9 Ratios and Proportional
+Relationships 7.RP.A.1 SR Determine the unit rate associated with ratios of fractions in a real-
+world context.
+10 Expressions and Equations 7.EE.A.1 SR Use the distributive property to determine which linear expressions
+are equivalent to a given expression.
+11 The Number System 7.NS.A.2 SA Determine one of the values of a variable that will make an algebraic
+expression positive and rational.
+12 Expressions and Equations 7.EE.B.4 CR Write and solve expressions and inequalities to model a real-world
+problem.
+13 Ratios and Proportional
+Relationships 7.RP.A.1 SR Determine the unit rate associated with ratios of fractions and use the
+unit rate to solve a real-world problem.
+14 Geometry 7.G.A.3 SR Determine the two-dimensional shapes of the faces of figures that
+result from slicing both a cube and a pyramid in given directions.
+15 Expressions and Equations 7.EE.A.2 SR Determine which equivalent expressions can be used to represent a
+real-world problem.
+16 The Number System 7.NS.A.3 SR Determine which expression is equivalent to a given expression.
+17 The Number System 7.NS.A.2 SR Determine whether fractions convert to a decimal that terminates in
+0s.
+18 Ratios and Proportional
+Relationships 7.RP.A.2 SR Use proportional relationships to choose an equation that can be used
+to find a quantity.
+19 The Number System 7.NS.A.1 SA Use integers to solve a real-world problem.
+20 Expressions and Equations 7.EE.A.1 SR Determine which expression is equivalent to a given expression.
+21 Ratios and Proportional
+Relationships 7.RP.A.3 SR Solve a multi-step, real-world problem involving percent decrease.
+22 Expressions and Equations 7.EE.A.2 SR Identify equivalent algebraic expressions for the perimeter of a given
+rectangle in a real-world context.
+23 Statistics and Probability 7.SP.B.4 SR Determine which sentences that compare the mean and range of two
+data sets are true.
+24 Ratios and Proportional
+Relationships 7.RP.A.2 SR Determine which proportion represents a given real-world
+relationship.
+25 Ratios and Proportional
+Relationships 7.RP.A.3 CR Use proportional relationships to solve multi-step ratio, rate, and
+percent problems within a real-world context.
+26 Statistics and Probability 7.SP.C.5 SR Determine which probability could represent the likelihood of an
+event in a real-world context.
+5
+PBT
+Item No. Reporting Category Standard Item
+Type* Item Description
+27 Expressions and Equations 7.EE.B.4 SR Determine which inequality represents a real-world context.
+28 Statistics and Probability 7.SP.C.6 SR Determine the probabilities of chance events within a simple context.
+29 Statistics and Probability 7.SP.A.1 SR Determine which sampling strategy will produce a valid
+representative sample for a given population.
+30 The Number System 7.NS.A.3 SA Solve a multi-step, real-world problem involving percents and
+fractions and using money as a context.
+31 Expressions and Equations 7.EE.A.2 SR Identify an expression equivalent to given expression and then
+evaluate the expression for a given value.
+32 Statistics and Probability 7.SP.C.8 CR Determine probabilities of compound events and use these
+probabilities to solve mathematical problems.
+33 Geometry 7.G.A.1 SR
+Given a real-world context and a scale drawing in the shape of a
+rectangle, calculate actual side lengths and missing side lengths of the
+scale drawing.
+34 The Number System 7.NS.A.3 SA Solve real-world problems involving whole numbers, fractions, and
+mixed numbers.
+35 Expressions and Equations 7.EE.B.3 SR Solve a multi-step, real-life problem involving a positive whole
+number, a percent, and a fraction.
+36 Geometry 7.G.A.2 SR Identify the graph that shows a geometric shape with given
+conditions.
+37 Ratios and Proportional
+Relationships 7.RP.A.3 SR Determine the percent increase in a real-world problem.
+38 The Number System 7.NS.A.3 SR Compute with and order rational numbers in a real-world situation.
+39 Expressions and Equations 7.EE.A.1 SR Apply properties of operations to add and subtract linear expressions
+with rational coefficients.
+40 Statistics and Probability 7.SP.C.8 SR Determine the probability of a compound event, given a verbal
+description of a real-world sample space.
+* Mathematics item types are: selected-response (SR), short-answer (SA), and constructed-response (CR).
+6

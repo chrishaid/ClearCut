@@ -1,0 +1,494 @@
+New York State Testing Program
+Grade 7
+Mathematics Test
+Released Questions
+June 2019
+New York State administered the Mathematics Tests in May 2019
+and is now making approximately 75% of the
+questions from these tests available for review and use.
+THE STATE EDUCATION DEPARTMENT / THE UNIVERSITY OF THE STATE OF NEW YORK / ALBANY, NY 12234
+New York State Testing Program
+Grades 3–8 Mathematics
+Released Questions from 2019 Exams
+Background
+In 2013, New York State began administering tests designed to assess student performance in accordance with
+the instructional shifts and rigor demanded by the new New York State P-12 Learning Standards in
+Mathematics. To help in this transition to new assessments, the New York State Education Department (SED)
+has been releasing an increasing number of test questions from the tests that were administered to students
+across the State in the spring. This year, SED is again releasing large portions of the 2019 NYS Grades 3-8
+English Language Arts and Mathematics test materials for review, discussion, and use.
+For 2019, included in these released materials are at least 75 percent of the test questions that appeared on
+the 2019 tests (including all constructed-response questions) that counted toward students’ scores.
+Additionally, SED is also providing a map that details what each released question measures and the correct
+response to each question. These released materials will help students, families, educators, and the public
+better understand the tests and the New York State Education Department’s expectations for students.
+Understanding Math Questions
+Multiple-Choice Questions
+Multiple-choice questions are designed to assess the New York State P-12 Learning Standards for
+Mathematics. Mathematics multiple-choice questions will be used mainly to assess standard algorithms and
+conceptual standards. Multiple-choice questions incorporate both the grade-level standards and the
+“Standards for Mathematical Practices.” Many questions are framed within the context of real-world
+applications or require students to complete multiple steps. Likewise, many of these questions are linked to
+more than one standard, drawing on the simultaneous application of multiple skills and concepts.
+Short-Response Questions
+Short-response questions require students to complete tasks and show their work. Like multiple-choice
+questions, short-response questions will often require multiple steps, the application of multiple mathematics
+skills, and real-world applications. Many of the short-response questions will cover conceptual and application
+of the standards.
+Extended-Response Questions
+Extended-response questions ask students to show their work in completing two or more tasks or a more
+extensive problem. Extended-response questions allow students to show their understanding of mathematical
+procedures, conceptual understanding, and application. Extended-response questions may also assess student
+reasoning and the ability to critique the arguments of others.
+The scoring rubric for short and extended constructed-response questions can be found in the grade-level
+Educator Guides at https://www.engageny.org/resource/test-guides-english-language-arts-andmathematics.
+New York State P-12 Learning Standards Alignment
+The alignment(s) to the New York State P-12 Learning Standards for Mathematics is/are intended to identify
+the primary analytic skills necessary to successfully answer each question. However, some questions measure
+proficiencies described in multiple standards, including a balanced combination of procedure and conceptual
+understanding. For example, two-point and three-point constructed-response questions require students to
+show an understanding of mathematical procedures, concepts, and applications.
+These Released Questions Do Not Comprise a “Mini Test”
+To ensure future valid and reliable tests, some content must remain secure for possible use on future exams.
+As such, this document is not intended to be representative of the entire test, to show how operational tests
+look, or to provide information about how teachers should administer the test; rather, its purpose is to provide
+an overview of how the test reflects the demands of the New York State P-12 Learning Standards.
+The released questions do not represent the full spectrum of the standards assessed on the State tests, nor do
+they represent the full spectrum of how the standards should be taught and assessed in the classroom. It
+should not be assumed that a particular standard will be measured by an identical question in future
+assessments. Specific criteria for writing test questions, as well as additional assessment information, are
+available at http://www.engageny.org/common-core-assessments.
+RELEASED QUESTIONS
+Developed and published under contract with the New York State Education Department by Questar Assessment Inc., 5550 Upper 147th
+Street West, Minneapolis, MN 55124. Copyright © 2019 by the New York State Education Department.
+Session 1
+CONVERSIONS
+FORMULAS
+Grade 7 Mathematics Reference Sheet
+Parallelogram
+1 inch = 2.54 centimeters
+1 meter = 39.37 inches
+1 mile = 5,280 feet
+1 mile = 1,760 yards
+1 mile = 1.609 kilometers
+1 kilometer = 0.62 mile
+1 pound = 16 ounces
+1 pound = 0.454 kilogram
+1 kilogram = 2.2 pounds
+1 ton = 2,000 pounds
+1 cup = 8 fluid ounces
+1 pint = 2 cups
+1 quart = 2 pints
+1 gallon = 4 quarts
+1 gallon = 3.785 liters
+1 liter = 0.264 gallon
+1 liter = 1,000 cubic centimeters
+A = bh
+Triangle A = 1 bh
+2
+General Prisms V = Bh
+Circle
+Circle
+A = πr 2
+C = πd or C = 2πr
+Session 1
+TIPS FOR TAKING THE TEST
+Here are some suggestions to help you do your best:
+• Read each question carefully and think about the answer before making your choice.
+• You have been provided with mathematics tools (a ruler, a protractor, and a calculator)
+and a reference sheet to use during the test. It is up to you to decide when each tool and
+the reference sheet will be helpful. You should use mathematics tools and the reference
+sheet whenever you think they will help you to answer the question.
+Page 1Session 1
+
+Jordan is baking brownies and will choose to use either a round or a rectangular pan. The
+dimensions of the bottom of each pan are shown below.
+Which statement correctly describes how the area of the bottom of the round pan
+compares to the area of the bottom of the rectangular pan?
+A The area of the bottom of the round pan is greater than the area of the bottom
+of the rectangular pan by about 8.5 square inches.
+B The area of the bottom of the round pan is greater than the area of the bottom
+of the rectangular pan by about 244.2 square inches.
+C The area of the bottom of the round pan is less than the area of the bottom of the
+rectangular pan by about 7.2 square inches.
+D The area of the bottom of the round pan is less than the area of the bottom of the
+rectangular pan by about 38.6 square inches.
+On average, Shawnte drinks of a -ounce glass of water in hour. How much water
+does she drink in an hour?
+A ounce
+B ounces
+C ounces
+D ounces
+4
+5
+Page 3Session 1
+GO ON
+
+The ratio of boys to girls in Mr. Johnson’s after-school club is the same as the ratio
+of boys to girls in Ms. Greene’s after-school club. There are 4 boys and 12 girls in
+Mr. Johnson’s club. There are 6 boys in Ms. Greene’s club. How many girls are
+in Ms. Greene’s club?
+A 2
+B 12
+C 14
+D 18
+The regular price of an item at a store is dollars. The item is on sale for off the
+regular price. Some of the expressions shown below represent the sale price, in dollars,
+of the item.
+Expression A:
+Expression B:
+Expression C:
+Expression D:
+Expression E:
+Which two expressions each represent the sale price of the item?
+A Expression A and Expression E
+B Expression B and Expression C
+C Expression B and Expression D
+D Expression C and Expression D
+13
+14
+Page 8GO ON
+Session 1
+Last week, the price of apples at a grocery store was per pound. This week, apples
+at the same grocery store are on sale at a discount. What is the total price
+of pounds of apples this week at the grocery store?
+A
+B
+C
+D
+An object travels along a horizontal straight path at a constant rate. The object travels
+of the length of the path in second. At that rate, how many seconds does it take
+the object to travel the entire length of the path?
+A
+B
+C
+D
+15
+16
+Page 9Session 1
+GO ON
+Which table shows a proportional relationship between and ?
+A
+B
+C
+D
+Which expression is equivalent to ?
+A
+B
+C
+D
+19
+20
+Page 11Session 1
+GO ON
+Danielle constructs a scale model of a building with a rectangular base. Her model is
+2 inches in length and 1 inch in width. The scale on the model is 1 inch = 47 feet.
+What is the actual area, in square feet, of the base of the building?
+A 141
+B 282
+C 2,209
+D 4,418
+What value will make the equation true?
+?
+A
+B
+C
+D
+27
+28
+Page 15Session 1
+GO ON
+Manny goes bowling.
+He has to spend.
+He spends to rent shoes.
+He spends for each game he bowls.
+Which inequality can Manny use to determine , the greatest number of games
+he can bowl?
+A
+B
+C
+D
+A middle school principal wants to change the lunch menu at the school. The principal
+surveys the students to determine how the students would feel about the changes.
+Which survey method will produce the best representative sample?
+A survey every fifth student who rides in a car to school
+B survey 3 randomly selected students from every homeroom
+C survey every tenth seventh-grade student during lunch
+D survey 5 randomly selected students from every art, drama, and music class
+29
+30
+Page 16GO ON
+Session 1
+Kerry has a bag containing white and yellow marbles. Kerry randomly selects one marble
+from the bag, records the result, and returns the marble to the bag. The results of the
+first 65 selections are shown below.
+A white marble was selected 41 times.
+A yellow marble was selected 24 times.
+Based on these results, what is the probability that the next marble Kerry selects, rounded
+to the nearest percent, will be white?
+A 41%
+B 50%
+C 59%
+D 63%
+Which situation results in a final value of zero?
+A the overall change in temperature when the temperature goes from to
+B the total profit made when a person buys an item for and then sells the item
+for
+C the overall change in altitude of a hot air balloon after rising kilometers from
+sea level
+D the total distance a person travels when he bikes miles to school and then bikes
+miles back home
+31
+32
+Page 17Session 1
+GO ON
+Grade 7
+2019
+Mathematics Test
+Session 1
+May 1 – 3, 2019
+RELEASED QUESTIONS
+Developed and published under contract with the New York State Education Department by Questar Assessment Inc., 5550 Upper 147th
+Street West, Minneapolis, MN 55124. Copyright © 2019 by the New York State Education Department.
+Session 2
+CONVERSIONS
+FORMULAS
+Grade 7 Mathematics Reference Sheet
+Parallelogram
+1 inch = 2.54 centimeters
+1 meter = 39.37 inches
+1 mile = 5,280 feet
+1 mile = 1,760 yards
+1 mile = 1.609 kilometers
+1 kilometer = 0.62 mile
+1 pound = 16 ounces
+1 pound = 0.454 kilogram
+1 kilogram = 2.2 pounds
+1 ton = 2,000 pounds
+1 cup = 8 fluid ounces
+1 pint = 2 cups
+1 quart = 2 pints
+1 gallon = 4 quarts
+1 gallon = 3.785 liters
+1 liter = 0.264 gallon
+1 liter = 1,000 cubic centimeters
+A = bh
+Triangle A = 1 bh
+2
+General Prisms V = Bh
+Circle
+Circle
+A = πr 2
+C = πd or C = 2πr
+Session 2
+TIPS FOR TAKING THE TEST
+Here are some suggestions to help you do your best:
+• Read each question carefully and think about the answer before making your choice or
+writing your response.
+• You have been provided with mathematics tools (a ruler, a protractor, and a calculator)
+and a reference sheet to use during the test. It is up to you to decide when each tool and
+the reference sheet will be helpful. You should use mathematics tools and the reference
+sheet whenever you think they will help you to answer the question.
+• Be sure to show your work when asked.
+Page 1Session 2
+The table below shows a proportional relationship between and .
+Which equation represents the relationship between and ?
+A
+B
+C
+D
+Which expression is equivalent to ?
+A
+B
+C
+D
+34
+35
+Page 2GO ON
+Session 2
+The students in a class collected data on the number of minutes per day some kids spend
+brushing their teeth. Their data is shown in the dot plot below.
+Which statement correctly describes these data?
+A The median is 0.5 and the mean is less than the median.
+B The median is 0.5 and the mean is greater than the median.
+C The median is 1.5 and the mean is less than the median.
+D The median is 1.5 and the mean is greater than the median.
+36
+Page 3Session 2
+GO ON
+A company sells artwork using a website. Information about the number of people that
+visited the website and the number of pieces of artwork purchased on a single day is
+listed below.
+people did not purchase any artwork
+people purchased one piece of artwork
+people purchased more than one piece of artwork
+Based on the data from that day, what is the probability that the next person to visit the
+website will purchase more than one piece of artwork?
+A
+B
+C
+D
+A coach of a baseball team orders hats for the players on his team. Each hat costs .
+The shipping charge for the entire order is . There is no tax on the order. The total
+cost of the coach’s order is less than . Which inequality can be used to determine
+the greatest number of hats, , the coach orders?
+A
+B
+C
+D
+37
+38
+Page 4GO ON
+Session 2
+What is the value of ?
+A
+B
+C
+D
+A worker at a snack stand opened a new box of cups. The first day, the worker used
+30 cups from the box. The second day, the worker used 15% of the remaining cups in the
+box. A total of 90 cups were used on the second day. What was the original number
+of cups in the box before any cups were used?
+A 400
+B 570
+C 630
+D 800
+39
+40
+Page 5Session 2
+GO ON
+Susan buys the items listed below at a grocery store.
+packages of chicken priced at per package
+pound of broccoli priced at per pound
+gallon of milk priced at per gallon
+There is no sales tax on the food she buys. Susan pays for the items and receives
+in change. What amount of money does Susan use to pay for the items?
+Show your work.
+Answer
+41
+Page 6GO ON
+Session 2
+A company starts to track the number of phone calls received each month. Information
+about the number of phone calls the company received the first three months of tracking
+is listed below.
+During the first month, the company received 4,264 phone calls.
+During the second month, the company received 25% more phone calls than in
+the first month.
+During the third month, the company received 6,396 phone calls.
+What was the percent increase in the number of phone calls from the second month to the
+third month?
+Show your work.
+Answer %
+42
+Page 7Session 2
+GO ON
+A car travels miles in of an hour. What is the average speed, in miles per hour,
+of the car?
+Show your work.
+Answer miles per hour
+43
+Page 8GO ON
+Session 2
+Todd orders pictures from a photographer. Each picture costs $7.50. A one-time
+shipping fee of $3.25 is added to the cost of the order. The total cost of Todd’s order
+before tax is $85.75. How many pictures did Todd order?
+Show your work.
+Answer pictures
+44
+Page 9Session 2
+GO ON
+A museum employee surveys a random sample of 350 visitors to the museum. Of those
+visitors, 266 stopped at the gift shop. Based on these results, about how many people
+out of 2,300 visitors to the museum would be expected to stop at the gift shop?
+Show your work.
+Answer visitors
+45
+Page 10GO ON
+Session 2
+
+At a grocery store, the price of a watermelon is determined by how many pounds the
+watermelon weighs. The price of a watermelon that weighs 7.3 pounds is $4.38.
+Write an equation that can be used to determine the price,
+p, in dollars, of any
+watermelon based on the number of pounds,
+w, the watermelon weighs.
+Explain the process you used to determine the equation.
+Equation
+Explain your answer.
+47
+Page 12GO ON
+Session 2
+Omar and Caleb each had a repair made on their cars. The initial cost of each repair is
+$1,000. Omar and Caleb each have two coupons. Each of them uses both of his coupons
+toward the cost of the repair. One coupon is for $80 off the repair cost. The other coupon
+is for 15% off the repair cost. Omar and Caleb use their coupons in a different order, as
+shown below.
+Omar uses the $80 off the repair cost coupon first. He then uses the 15% off the
+repair cost coupon on the remaining balance.
+Caleb uses the 15% off the repair cost coupon first. He then uses the $80 off the
+repair cost coupon on the remaining balance.
+Who paid the least amount of money for his car repair and how much less did he pay?
+Show your work.
+Answer paid $ less
+48
+Page 13Session 2
+STOP
+Grade 7
+2019
+Mathematics Test
+Session 2
+May 1 – 3, 2019
+Multiple Choice Questions:
+Percentage of Students
+Who Answered Correctly
+(P-Value)
+Average
+Points
+Earned
+P-Value
+(Average Points Earned
+÷ Total Possible Points)
+1 Multiple Choice A 1 CCSS.Math.Content.7.EE.B.4a Expressions and Equations 0.81
+2 Multiple Choice B 1 CCSS.Math.Content.7.NS.A.2d The Number System 0.84
+3 Multiple Choice D 1 CCSS.Math.Content.7.RP.A.3 Ratios and Proportional Relationships 0.66
+4 Multiple Choice A 1 CCSS.Math.Content.7.G.B.4 Geometry 0.47
+5 Multiple Choice C 1 CCSS.Math.Content.7.RP.A.1 Ratios and Proportional Relationships 0.49
+9 Multiple Choice C 1 CCSS.Math.Content.7.RP.A.2b Ratios and Proportional Relationships 0.42
+10 Multiple Choice A 1 CCSS.Math.Content.7.NS.A.1a The Number System 0.72
+13 Multiple Choice D 1 CCSS.Math.Content.7.RP.A.3 Ratios and Proportional Relationships 0.56
+14 Multiple Choice C 1 CCSS.Math.Content.7.EE.A.2 Expressions and Equations 0.36
+15 Multiple Choice B 1 CCSS.Math.Content.7.NS.A.3 The Number System 0.64
+16 Multiple Choice A 1 CCSS.Math.Content.7.RP.A.1 Ratios and Proportional Relationships 0.65
+19 Multiple Choice D 1 CCSS.Math.Content.7.RP.A.2a Ratios and Proportional Relationships 0.8
+20 Multiple Choice C 1 CCSS.Math.Content.7.EE.A.1 Expressions and Equations 0.68
+27 Multiple Choice D 1 CCSS.Math.Content.7.G.A.1 Geometry 0.53
+28 Multiple Choice C 1 CCSS.Math.Content.7.NS.A.1c The Number System 0.49
+29 Multiple Choice D 1 CCSS.Math.Content.7.EE.B.4b Expressions and Equations 0.58
+30 Multiple Choice B 1 CCSS.Math.Content.7.SP.A.1 Statistics and Probability 0.59
+31 Multiple Choice D 1 CCSS.Math.Content.7.SP.C.6 Statistics and Probability 0.51
+32 Multiple Choice B 1 CCSS.Math.Content.7.NS.A.1a The Number System 0.57
+Session 2
+34 Multiple Choice B 1 CCSS.Math.Content.7.RP.A.2c Ratios and Proportional Relationships 0.78
+2019 Mathematics Tests Map to the Standards
+Grade 7 Released Questions on EngageNY
+Constructed Response Questions:
+Session 1
+Question Type Key Points Standard Cluster
+THE STATE EDUCATION DEPARTMENT
+THE UNIVERSITY OF THE STATE OF NEW YORK / ALBANY, NY 12234
+35 Multiple Choice C 1 CCSS.Math.Content.7.EE.A.1 Expressions and Equations 0.68
+36 Multiple Choice D 1 CCSS.Math.Content.6.SP.B.5c Statistics and Probability 0.54
+37 Multiple Choice C 1 CCSS.Math.Content.7.SP.C.6 Statistics and Probability 0.63
+38 Multiple Choice D 1 CCSS.Math.Content.7.EE.B.4b Expressions and Equations 0.64
+39 Multiple Choice B 1 CCSS.Math.Content.7.NS.A.2c The Number System 0.66
+40 Multiple Choice C 1 CCSS.Math.Content.7.EE.B.4a Expressions and Equations 0.44
+41 Constructed Response 2 CCSS.Math.Content.7.EE.B.3 Expressions and Equations 1.24 0.62
+42 Constructed Response 2 CCSS.Math.Content.7.RP.A.3 Ratios and Proportional Relationships 0.8 0.4
+43 Constructed Response 2 CCSS.Math.Content.7.RP.A.1 Ratios and Proportional Relationships 1.03 0.52
+44 Constructed Response 2 CCSS.Math.Content.7.EE.B.4a Expressions and Equations 1.37 0.69
+45 Constructed Response 2 CCSS.Math.Content.7.SP.A.2 Statistics and Probability 0.91 0.46
+46 Constructed Response 2 CCSS.Math.Content.7.NS.A.3 The Number System 1.23 0.61
+47 Constructed Response 2 CCSS.Math.Content.7.RP.A.2c Ratios and Proportional Relationships 0.72 0.36
+48 Constructed Response 3 CCSS.Math.Content.7.EE.B.3 Expressions and Equations 1.58 0.53
+*This item map is intended to identify the primary analytic skills necessary to successfully answer each question. However, some questions measure proficiencies described in multiple standards, including a
+balanced combination of procedural and conceptual understanding.

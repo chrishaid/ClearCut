@@ -1,0 +1,575 @@
+GRADEGRADE 88
+MathematMathematicsics
+Practice AssessmentPractice Assessment
+Copyright © 2023, Texas Education Agency. All rights reserved. Reproduction of all or portions of this work is prohibited without express
+written permission from the Texas Education Agency.GRADE 8
+Mathematics
+Practice Assessment
+Copyright © 2023, Texas Education Agency. All rights reserved. Reproduction of all or portions of this work is prohibited without express
+written permission from the Texas Education Agency.
+
+r
+)
+y mx b
+y k x
+m y y
+x x
+
+
+2 1
+2 1
+orC r2 C d
+A h1
+2 b
+A bh
+A b1
+2 1 2
+(b h
+A r 2
+Lateral Total
+S Ph S Ph B2
+S rh r2 2 2
+S rh2
+V Bh
+V Bh1
+3
+V 34
+3
+a b c2 2 2
+I P rt
+A P r t
+( )1
+STAAR GRADE 8 MATHEMATICS
+REFERENCE MATERIALS
+LINEAR EQUATIONS
+Slope-intercept form
+Direct variation
+Slope of a line
+CIRCUMFERENCE
+Circle
+AREA
+Triangle
+Rectangle or parallelogram
+Trapezoid
+Circle
+SURFACE AREA
+Prism
+Cylinder
+VOLUME
+Prism or cylinder
+Pyramid or cone
+Sphere
+ADDITIONAL INFORMATION
+Pythagorean theorem
+Simple interest
+Compound interest
+
+
+
+MATHEMATICSMATHEMATICS
+Mathematics
+Page 7
+Mathematics
+Page 8
+DIRECTIONS
+Read each question carefully. Choose the best answer to each
+question. For open-response questions, determine the best answer
+to the question.
+1 Triangle 1 is dilated by a scale factor of 4.1 using the origin as the
+center of dilation to create Triangle 2. Which statement about the area
+and perimeter of Triangle 2 is true?
+A The perimeter is 4.1 times the perimeter of Triangle 1, and the
+area is 4.1 times the area of Triangle 1.
+B The perimeter is 8.2 times the perimeter of Triangle 1, and the
+area is 8.2 times the area of Triangle 1.
+C The perimeter is 4.1 times the perimeter of Triangle 1, and the
+area is 16.81 times the area of Triangle 1.
+D The perimeter is 16.4 times the perimeter of Triangle 1, and the
+area is 16.81 times the area of Triangle 1.
+81741
+2 What value of x makes this equation true?
+0.17x – 0.03 = 0.03x – 0.002
+Record your answer in the space provided.
+80888
+Mathematics
+Page 9
+3 A family has a hot dog cookout every year. The scatterplot shows the
+number of people who have attended each cookout and the number of
+hot dogs that were eaten each year.
+This year 45 people are expected to attend the cookout. Based on the
+scatterplot, about how many hot dogs should the family prepare?
+A 83
+B 52
+C 36
+D 40
+81755
+Mathematics
+Page 10
+4 A gas company charges a $16 monthly service fee and $0.6924
+per hundred cubic feet of natural gas used during a month. Which
+equation best represents y, the gas company’s monthly charges in
+dollars for using x hundred cubic feet of natural gas?
+A y = 0.6924x – 16
+B y = 16x + 0.6924
+C y = 16x – 0.6924
+D y = 0.6924x + 16
+80792
+5 Which set of side length measurements in meters does NOT make a
+right triangle?
+A 9 m 11 m 13 m
+B 18 m 24 m 30 m
+C 7 m 24 m 25 m
+D 20 m 21 m 29 m
+81724
+Mathematics
+Page 11
+6 A faucet leaks 0.8 gallon of water every 2 hours. Which graph has a
+slope that best represents the number of gallons per hour leaked by
+the faucet?
+A
+B
+C
+D
+80695
+Mathematics
+Page 12
+7 A poster storage tube in the shape of a cylinder has a diameter of
+3.5 inches and a volume of 122.5π cubic inches. What is the height of
+the poster storage tube in inches?
+Record your answer in the space provided.
+81719
+Mathematics
+Page 13
+8 Which graph represents y as a function of x?
+A
+B
+C
+D
+80718
+Mathematics
+Page 14
+9 A triangular prism and its dimensions in centimeters are shown in
+the diagram.
+What is the total surface area of the prism in square centimeters?
+A 720 cm2
+B 600 cm2
+C 460 cm2
+D 520 cm2
+81721
+Mathematics
+Page 15
+10 The total annual cost to attend a community college is $4,000. The
+college offered a high school senior a scholarship for $1,500. The
+student can get a student loan for $1,000 but will need to earn
+enough to pay the remaining cost. It is 5 months until the remaining
+cost must be paid.
+What is the minimum amount the student needs to earn per month to
+save enough money to pay the remaining cost?
+A $300
+B $600
+C $500
+D $800
+81758
+11 Determine whether each situation represents a proportional or a
+non‑proportional relationship.
+Select ONE correct answer in each row.
+Situation Proportional Non‑proportional
+The total number of text messages sent if
+4 were already sent and 6 messages are
+sent per day A B
+The number of characters in a text
+message if each word contains 6 characters A B
+The number of minutes it takes to enter a
+text message at 50 characters per minute A B
+The time it takes to send a text message
+if it takes 30 seconds to open the app and
+the sender enters 1 character per second A B
+81039
+Mathematics
+Page 16
+12 The tables show the ordered pairs that represent the vertices of
+Triangle 1 and its image, Triangle 2, after a dilation with the origin as
+the center of dilation.
+Triangle 1 Triangle 2
+x y x y
+2 –2 10 –10
+3 –6 15 –30
+5 –4 25 –20
+Which rule best represents the dilation that was applied to Triangle 1
+to create Triangle 2?
+A (x, y) → (0.2x, 0.2y)
+B (x, y) → (5x, 5y)
+C (x, y) → (8x, 8y)
+D (x, y) → (10x, 10y)
+81714
+Mathematics
+Page 17
+13 After x hours of rainfall today, Yvette recorded the amount of rain in
+inches, y, in a rain gauge. The table shows the linear relationship for
+the recorded rainfall.
+Rain Gauge
+Time, x (hours) 3 4 5
+Amount of Rain in Gauge, y (inches) 3.75 4.5 5.25
+How many inches of rain was in the gauge before the rain began
+today, and what was the rate at which the rain fell in inches per hour?
+A There was 0 inches in the rain gauge before the rain began, and
+the rain fell at a rate of 1.25 inches per hour.
+B There was 2.5 inches in the rain gauge before the rain began, and
+the rain fell at a rate of 1.25 inches per hour.
+C There was 3 inches in the rain gauge before the rain began, and
+the rain fell at a rate of 0.75 inch per hour.
+D There was 1.5 inches in the rain gauge before the rain began, and
+the rain fell at a rate of 0.75 inch per hour.
+80715
+Mathematics
+Page 18
+14 Four numbers are shown.
+–31
+4  9 –3.2 –π
+Which list shows the numbers in order from greatest to least?
+A  9 –π –3.2 –31
+4
+B  9 –π –31
+4 –3.2
+C –π –31
+4 –3.2  9
+D –31
+4 –3.2 –π  9
+80342
+15 A circle with center R(–4, –4) on a coordinate plane is transformed
+so that its image forms a circle with center R’(–4, 4).
+Which rules describe transformations that result in a circle with
+center R’?
+Select TWO correct answers.
+` (x, y) → (x, y + 4)
+` (x, y) → (–x, y)
+` (x, y) → (x, y + 8)
+` (x, y) → (x, –y)
+` (x, y) → (–y, x)
+81703
+Mathematics
+Page 19
+16 The two lines graphed on the coordinate grid represent a system of
+linear equations.
+Which ordered pair best represents a solution to both equations?
+A (4, –11)
+B (0, 4)
+C (9, –2)
+D (6, 11)
+81701
+Mathematics
+Page 20
+17 Jackson invested $680.00 in an account that earns 1.5% simple
+interest annually. He made no additional deposits or withdrawals for
+2 years.
+What was Jackson’s account balance at the end of 2 years?
+A $700.40
+B $690.20
+C $884.00
+D $782.00
+81753
+18 Which equation does NOT show a proportional relationship between x
+and y?
+A y = x
+12
+B y = –15x
+C y = 2
+3x
+D y = 7x – 9
+81037
+Mathematics
+Page 21
+19 Each of these four diagrams shows a pair of parallel lines intersected
+by a transversal that forms the angles shown.
+Complete the equations to make them true.
+Select the correct answer for each box. Not all answers will be used.
+A 60 B 90 C 120 D 180
+x = A B C D
+x + y = A B C D
+81744
+Mathematics
+Page 22
+20 An online candy store sells 3 pounds of fudge for $54.99. Which
+function represents the relationship between x, the number of pounds
+of fudge ordered, and y, the total cost in dollars?
+A y = 3(54.99)x
+B y = 54.99
+3 x
+C y = (54.99 – 3)x
+D y = 54.99x – 3
+81028
+Mathematics
+Page 23
+21 A mail carrier recorded the number of people in each household on the
+mail route and the number of pieces of mail each household received
+in one day. The scatterplot shows the data the mail carrier recorded.
+Based on the data, how many pieces of mail should a household with
+8 people expect to receive?
+A 16
+B 29
+C 27
+D 21
+81756
+Mathematics
+Page 24
+22 Which table does NOT represent y as a function of x?
+A
+x y
+–5 –5
+–2 0
+–5 5
+–2 10
+B
+x y
+–5 5
+0 0
+2 –2
+4 –4
+C
+x y
+–5 –15
+–2 –6
+5 15
+8 24
+D
+x y
+–5 10
+0 10
+5 10
+10 10
+80719
+Mathematics
+Page 25
+23 Triangle FGH is shown on the coordinate plane.
+Triangle FGH is rotated 90° clockwise to create triangle F’G’H’.
+Select ONE correct answer in each box to complete each sentence.
+Triangle F’G’H’ is
+A congruent
+B similar but not congruent
+C not similar
+to triangle FGH.
+The orientation of the vertices of triangle F’G’H’ A is
+B is not the same as
+the orientation of the vertices of triangle FGH.
+81740
+Mathematics
+Page 26
+24 The volume of salt water on Earth’s surface is approximately
+350,000,000,000,000,000,000 gallons. How is this number written in
+scientific notation?
+A 3.5 × 1016
+B 3.5 × 1020
+C 35 × 1016
+D 35 × 1020
+80345
+Mathematics
+Page 27
+25 Maren made an initial deposit into her savings account. Each month
+Maren deposits the same amount into the savings account. The graph
+shows the linear relationship between x, the number of months
+Maren’s savings account has been open, and y, the amount of money
+in the account.
+Which amount best represents Maren’s initial deposit in dollars?
+A $450
+B $900
+C $1,350
+D $1,575
+80716
+Mathematics
+Page 28
+26 A triangle is shown, with Squares 1, 2, and 3 drawn on its sides.
+Which measurements in units for the sides of the squares show that
+the triangle is a right triangle?
+A x = 10, y = 6, z = 8
+B x = 4, y = 2, z = 3
+C x = 9, y = 5, z = 7
+D x = 7, y = 3, z = 4
+81743
+Mathematics
+Page 29
+27 A pentagon has side lengths in units of 325, 183
+5, 17.99, 18 5
+12 and
+290.
+Which statements about the side lengths of the pentagon are true?
+Select TWO correct answers.
+` The shortest side of the pentagon has a length of 290 units.
+` The longest side of the pentagon has a length of 18 5
+12 units.
+` 325 > 183
+5
+` 17.99 < 290
+` 183
+5 > 18 5
+12
+80343
+28 A box of rice is shaped like a rectangular prism. The box has a length
+of 6 inches, a width of 1.5 inches, and a height of 8.5 inches.
+What is the total surface area of the box in square inches?
+A 136.5 in.2
+B 76.5 in.2
+C 145.5 in.2
+D 127.5 in.2
+81722
+Mathematics
+Page 30
+29 The model represents an equation.
+Based on the model, what is the value of x?
+A x = 3
+B x = 2
+C x = 4
+D x = 1
+80887
+Mathematics
+Page 31
+30 Triangle KLM is rotated 270° clockwise about the origin to create
+triangle K’L’M’. Which rule describes the transformation that is applied
+to triangle KLM?
+A (x, y) → (y, –x)
+B (x, y) → (–x, –y)
+C (x, y) → (–x, y)
+D (x, y) → (–y, x)
+81702
+31 The table shows several pairs of x‑ and y‑values for a linear
+relationship.
+x y
+–4 –10
+–1 –3
+2 4
+5 11
+Create an equation in slope‑intercept form that can be used to model
+this relationship.
+Select the correct answer for each box. Not all answers will be used.
+A –51
+3 B –24
+7 C –2
+3 D 3
+7 E 2
+3 F 7
+3
+y = A B C D E F x + A B C D E F
+80809
+Mathematics
+Page 32
+32 The diagram shows the distance between Odina’s house and the
+library in miles. It also shows the distance between the library and
+the school.
+Which measurement is closest to x, the distance in miles from Odina’s
+house to the school?
+A 8.9 mi
+B 4 mi
+C 6.9 mi
+D 12 mi
+81723
+Mathematics
+Page 33
+33 An investor deposited $6,100.00 in an investment account.
+• The account pays 3.1% interest compounded annually.
+• The investor leaves the money in the account for 2 years.
+• The investor makes no additional deposits or withdrawals.
+What is the balance in the account at the end of the 2 years?
+A $6,289.10
+B $6,478.20
+C $6,484.06
+D $6,686.21
+81754
+Mathematics
+Page 34
+34 The value of y is 6 less than the quotient of x and 4. Which graph best
+shows this relationship?
+A
+B
+C
+D
+81031
+Mathematics
+Page 35
+35 The scatterplot shows the number of practice shots a basketball team
+took during each practice and the number of free throws the team
+missed in its next game.
+Complete the sentences to describe the trend in the data.
+Select ONE correct answer in each box to complete each sentence.
+The data show that as the number of practice shots taken increases,
+the number of free throws missed A decreases
+B increases .
+This trend has a A strong
+B weak
+A negative
+B positive linear association.
+81757
+Mathematics
+Page 36
+36 A triangle on a coordinate plane has one vertex at (–7, –14). After
+a dilation with the origin as the center of dilation, the corresponding
+vertex of the dilated triangle is located at (–1, –2).
+Which rule represents the dilation applied to the triangle?
+A (x, y) → 1
+7 x, 1
+7y
+B (x, y) → 1
+2 x, 1
+2y
+C (x, y) → (7x, 7y)
+D (x, y) → (2x, 2y)
+81715
+37 Which situation can be represented by the inequality
+2x + 18 < 3x + 11?
+A Tori is on the 18th step from the bottom of a staircase and goes up
+3 steps every second. Naoki is on the 11th step from the bottom
+and goes up 2 steps every second. After how many seconds, x, will
+Naoki pass Tori?
+B Ana has made 18 bracelets and continues to make 2 bracelets each
+day. Elliot has made 11 bracelets and continues to make 3 bracelets
+each day. After how many days, x, will Elliot have more bracelets
+than Ana?
+C Gina has $2 in her savings account and adds $18 each week. Hiram
+has $3 in his savings account and adds $11 each week. After how
+many weeks, x, will Gina have more money in her savings account
+than Hiram?
+D Dhara has eaten 18 french fries and continues to eat 2 with each
+bite. Kendrick has eaten 11 french fries and continues to eat 3 with
+each bite. After how many bites, x, will Dhara have eaten more
+french fries than Kendrick?
+81700
+Mathematics
+Page 37
+38 A cone has a radius of 6 centimeters and a height of 10 centimeters.
+What is the volume of the cone in cubic centimeters?
+A 480𝜋 cm3
+B 120𝜋 cm3
+C 360𝜋 cm3
+D 60𝜋 cm3
+81720
+39 A student took 32 minutes to complete a 20‑question history
+assignment. Choose two points that lie on the line with the slope that
+best represents the number of questions completed per minute.
+Shade the TWO correct circles that represent the points.
+80697
+STOP
+BE SURE YOU HAVE RECORDED ALL OF YOUR ANSWERS
+IN THE TEST BOOKLET.
+Mathematics
+Page 38
+40 Figure 1 and Figure 2 are similar and have the measurements shown
+in units.
+Based on the figures, which proportion is true?
+A x
+y = 3
+5
+B x
+y = 2
+4
+C x
+y = 4
+2
+D x
+y = 5
+3
+81742
+STAAR
+GRADE 8
+Mathematics
+PRACTICESTAAR
+GRADE 8
+Mathematics
+PRACTICE

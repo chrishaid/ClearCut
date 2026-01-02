@@ -1,0 +1,914 @@
+New York State administered the English Language Arts Tests
+in March 2022 and is now making approximately 75% of the
+questions from these tests available for review and use.
+New York State Testing Program
+Grade 7
+English Language Arts Test
+Released Questions
+2022
+THE STATE EDUCATION DEPARTMENT / THE UNIVERSITY OF THE STATE OF NEW YORK / ALBANY, NY 12234
+New York State Testing Program
+Grades 3–8 English Language Arts
+Released Questions from 2022 Exams
+Background
+As in past years, the State Education Department (SED) is releasing large portions of the 2022 NYS
+Grades 3–8 English Language Arts and Mathematics test materials for review, discussion, and use.
+For 2022, included in these released materials are at least 75 percent of the test questions that appeared on
+the 2022 tests (including all constructed-response questions) that counted toward students’ scores.
+Additionally, SED is providing information about the released passages; the associated text complexity for each
+passage; and a map that details what learning standards each released question measures and the correct
+response to each question. These released materials will help students, families, educators, and the public better
+understand the tests and the New York State Education Department’s expectations for students.
+Understanding ELA Questions
+Multiple-Choice Questions
+Multiple-choice questions are designed to assess the New York State P–12 Learning Standards in English
+Language Arts. These questions ask students to analyze different aspects of a given text, including central idea,
+style elements, character and plot development, and vocabulary. Almost all questions, including vocabulary
+questions, will be answered correctly only if the student comprehends and makes use of the whole passage.
+Short-Response Questions
+Short-response questions are designed to assess New York State P–12 Reading and Language Standards.
+These are single questions in which a student uses textual evidence to support their answer to an
+inferential question. These questions ask the student to make an inference (a claim, position, or conclusion)
+based on their analysis of the passage, and then provide two pieces of text-based evidence to support their
+answer.
+The purpose of the short-response questions is to assess a student’s ability to comprehend and analyze text.
+In responding to these questions, students are expected to write in complete sentences. Responses require no
+more than three complete sentences. The rubric used for evaluating short-response questions can be found in
+the grade-level Educator Guides at http://www.nysed.gov/state-assessment/grades-3-8-ela-and-math-test-
+manuals.
+Extended-Response Questions
+Extended-response questions are designed to measure a student’s ability to write from sources. Questions that
+measure Writing from Sources prompt students to communicate a clear and coherent analysis of one or two
+texts. The comprehension and analysis required by each extended response is directly related to grade-
+specific reading standards. Student responses are evaluated on the degree to which they meet grade-level writing
+and language expectations. This evaluation is made by using a rubric that incorporates demands of grade-
+specific New York State P–12 Reading and Language standards.
+The integrated nature of the standards for ELA and literacy requires that students are evaluated across the
+strands (Reading, Writing, and Language) with longer pieces of writing, such as those prompted by the
+extended-response questions. The rubric used for evaluating extended-response questions can be found in the
+grade-level Educator Guides at http://www.nysed.gov/state-assessment/grades-3-8-ela-and-math-test-
+manuals.
+New York State P–12 Learning Standards Alignment
+The alignment to the New York State P–12 Learning Standards for English Language Arts is intended to identify
+the analytic skills necessary to successfully answer each question. However, some questions measure
+proficiencies described in multiple standards, including writing and additional reading and language standards.
+For example, two-point and four-point constructed-response questions require students to first conduct the
+analyses described in the mapped standard and then produce written responses that are rated based on
+writing standards. To gain greater insight into the measurement focus for constructed-response questions,
+please refer to the rubrics.
+These Released Questions Do Not Comprise a “Mini Test”
+To ensure it is possible to develop future tests, some content must remain secure. This document is not
+intended to be representative of the entire test, to show how operational tests look, or to provide
+information about how teachers should administer the test; rather, its purpose is to provide an overview of how
+the test reflects the demands of the New York State P–12 Learning Standards.
+The released questions do not represent the full spectrum of the standards assessed on the State tests, nor do
+they represent the full spectrum of how the standards should be taught and assessed in the classroom. It
+should not be assumed that a particular standard will be measured by an identical question in future
+assessments.
+2022 Grade 7 ELA Test Text Complexity Metrics for
+Released Questions Available
+Selecting high-quality, grade-appropriate passages requires both objective text
+complexity metrics and expert judgment. For the Grades 3–8 assessments based on the
+New York State P-12 Learning Standards for English Language Arts, both quantitative
+and qualitative rubrics are used to determine the complexity of the texts and their
+appropriate placement within a grade-level ELA exam.
+Quantitative measures of text complexity are used to measure aspects of text
+complexity that are difficult for a human reader to evaluate when examining a text.
+These aspects include word frequency, word length, sentence length, and text cohesion.
+These aspects are efficiently measured by computer programs. While quantitative text
+complexity metrics are a helpful start, they are not definitive.
+Qualitative measures are a crucial complement to quantitative measures. Using
+qualitative measures of text complexity involves making an informed decision about the
+difficulty of a text in terms of one or more factors discernible to a human reader
+applying trained judgment to the task. To qualitatively determine the complexity of a
+text, educators use a rubric composed of five factors; four of these factors are required
+and one factor is optional. The required criteria are: meaning, text structure, language
+features, and knowledge demands. The optional factor, graphics, is used only if a
+graphic appears in the text.
+To make the final determination as to whether a text is at grade-level and thus
+appropriate to be included on a Grades 3–8 assessment, New York State uses a two-step
+review process, which is an industry best-practice. First, all prospective passages
+undergo quantitative text complexity analysis using three text complexity measures. If
+at least two of the three measures suggest that the passage is grade-appropriate, the
+passage then moves to the second step, which is the qualitative review using the text-
+complexity rubrics. Only passages that are determined appropriate by at least two of
+three quantitative measures of complexity and are determined appropriate by the
+qualitative measure of complexity are deemed appropriate for use on the exam.
+Text Complexity Metrics for 2022 Grade 7 Passages
+Passage Title Word
+Count
+Lexile
+Flesch-Kincaid
+ATOS
+Qualitative
+Review
+Excerpt from The Last Wild Place 920 1030 6.4 6.4 Appropriate
+"Susan Butcher" from Ladies First 877 1070 9 7.6 Appropriate
+Uncommon Instruments 843 1130 9.3 9.3 Appropriate
+Unearthing the Arabia 902 920 7.5 7.6 Appropriate
+"Persistent" from Words with Wings 209 N/A N/A N/A Appropriate
+Excerpt from The Strictest School in the
+World 540 920 6.1 6.6 Appropriate
+New York State 2022 Quantitative Text Complexity Chart for Assessment and Curriculum
+To determine if a text’s quantitative complexity is at the appropriate grade level, New
+York State uses the table below. In cases where a text is excerpted from a large work,
+only the complexity of the excerpt that students see on the test is measured, not the
+large work, so it is possible that the complexity of a book might be above or below grade
+level, but the text used on the assessment is at grade level. Because the measurement
+of text complexity is inexact, quantitative measures of complexity are defined by grade
+band rather than by individual grade level and then paired with the qualitative review by
+an educator.
+Grade
+Band ATOS
+Degrees of
+Reading
+Power Flesch-Kincaid
+The Lexile
+Framework
+Reading
+Maturity SourceRater
+2nd –3rd 2.75 – 5.14 42 – 54 1.98 – 5.34 420 – 820 3.53 – 6.13 0.05 – 2.48
+4th –5th 4.97 – 7.03 52 – 60 4.51 – 7.73 740 – 1010 5.42 – 7.92 0.84 – 5.75
+6th –8th 7.00 – 9.98 57 – 67 6.51 – 10.34 925 – 1185 7.04 – 9.57 4.11 – 10.66
+9th –10th 9.67 – 12.01 62 – 72 8.32 – 12.12 1050 – 1335 8.41 – 10.81 9.02 – 13.93
+11th –12th 11.20 – 14.10 67 – 74 10.34 – 14.20 1185 – 1385 9.57 – 12.00 12.30 – 14.50
+Source: Student Achievement Partners
+
+Excerpt from The Last Wild Place by Rosa Jordan. Copyright © 2008 by Rosa Jordan. Used with permission of Peachtree Publishers, Inc. via
+Copyright Clearance Center.
+“Susan Butcher” by Elizabeth Cody Kimmel, from Ladies First: 40 Daring American Women Who Were Second to None. Copyright © 2006
+by Elizabeth Cody Kimmel. Published by the National Geographic Society. Used with permission of National Geographic Partners via
+Copyright Clearance Center.
+“Uncommon Instruments” by the Library of Congress.
+Developed and published under contract with the New York State Education Department by Questar Assessment Inc., 5550 Upper 147th
+Street West, Minneapolis, MN 55124. Copyright © 2022 by the New York State Education Department.
+Session 1
+
+EExxcceerrpptt ffrroomm
+ee LLaasstt WWiilldd PPllaaccee
+by Rosa Jordan
+During those first two weeks aer Luther stopped being his friend, Chip dreaded
+going to school. e only hour of his day that was bearable was science class. Chip used
+to think of science as a bunch of boring words in a textbook, but Mr. O’Dell had
+changed all that. And kind of by accident, Chip had become one of Mr. O’Dell’s
+favorite students.
+1
+It started when Mr. O’Dell announced how students could get a good grade in his
+class—not by memorizing a lot of facts but by
+thinking. e students stared at him,
+either wondering what he was talking about or else marveling at the fringe of reddish
+brown hair surrounding his shiny bald head. . . .
+2
+Mr. O’Dell had answered by asking another question. “What common substance can
+take the form of a liquid, a solid, or a gas?”
+3
+Nobody answered. e class just sat there, waiting for Mr. O’Dell to explain what
+that had to do with anything. en Chip got it. Mr. O’Dell meant that he was likely to
+throw out questions about things that weren’t in the book and expect students to figure
+out the answers for themselves. To Chip the question seemed more like a riddle.
+4
+e first liquid Chip thought of was water, and then he thought of ice. Ice is a solid.
+And when water gets super hot, it turns to steam. He wasn’t sure if steam was a gas or
+not, but when nobody else spoke, Chip blurted out, “Water?”
+5
+Aer that Chip could tell that Mr. O’Dell liked him. Chip liked him too—at least
+most of the time. In English, social studies, and math, Mr. O’Dell was just an average
+teacher. But the minute the lesson turned to science, Mr. O’Dell practically exploded
+with energy and enthusiasm.
+6
+e best part about science class was the field trips. e principal usually allowed
+outdoor field trips only once or twice a semester, but Mr. O’Dell had special permission
+to take his class once a month to a big vacant lot down the street to study biology
+“in the field.” Kate had told Chip that Mr. O’Dell had once taught in college and had
+7
+Page 2GO ON
+Session 1
+Read this story. Then answer questions 1 through 7.
+written a book on field biology. She figured that was the reason he got special
+privileges.
+Chip quickly discovered that what Mr. O’Dell called field biology was what he had
+been doing all his life: paying attention to other living things. Chip had favorites—
+ducks and turtles, for example, and lightning bugs. But Mr. O’Dell seemed to be
+interested in every living creature. Once when a student pointed out an anthill,
+Mr. O’Dell put his nose down so close to watch that Chip expected an ant to climb
+right onto it and march up through the freckles to stare back at him through his gold-
+rimmed glasses. Another time, Mr. O’Dell had the whole class sit cross-legged in a
+circle to watch a chameleon change from brown to bright green. While they waited still
+and quiet, they got to see it let down a flap of bright red skin under its chin to attract
+insects. Anyone who wasn’t paying close attention missed the important moment when
+the lizard flicked out its long tongue and whisked a fly back into its mouth.
+8
+Mr. O’Dell had the students take detailed notes on each animal or insect they were
+observing. He also encouraged them to make sketches of what they saw. e trips with
+Mr. O’Dell had taught Chip a different way of looking at things.
+9
+Out where Chip lived there wasn’t a lot of wildlife in the plowed fields, which were
+heavily pesticided. But quite a few interesting creatures still lived in the drainage
+ditches and the high grass along the banks. When Luther first came to live with his
+grandparents, Chip had showed him where to find the birds’ nests built so low to the
+ground that you could look right in and watch the eggs hatch. He’d also taught Luther
+—a boy raised in New York City who knew nothing about Florida wildlife—how to tell
+the difference between slow land turtles and snapping turtles. For one thing, if you
+didn’t catch a snapping turtle just right, it could give you a bite that really hurt. . . .
+10
+Mr. O’Dell never talked about an animal’s feelings, but about its purpose, and why it
+ought to be right where it was, doing whatever it was doing. Like the day aer Luther
+got mad at Chip, when Chip brought a blue skink11 to class. Mr. O’Dell was as excited as
+if it was a baby dinosaur. In about five minutes he had everybody in the class involved
+in trying to find out more about skinks. But when the class ended, he’d called Chip up
+to his desk and said, “Now, you’ll take this skink back and put it right where you found
+it, won’t you?” . . .
+11
+Mr. O’Dell looked at the skink, then at Chip. “If somebody put you in a car and
+drove you far away and dumped you out, would that be okay with you?”
+12
+“Probably not,” Chip admitted. “I’d want to go home.”13
+Page 3Session 1
+GO ON
+_______________________
+11sskkiinnkk:: a type of lizard
+“Most critters do,” Mr. O’Dell pointed out. “ings do happen that displace us from
+our homes. Humans are pretty good at adapting to new locations, but even for them it’s
+stressful. And some creatures can’t manage it at all. If you take them out of their
+natural environment, they just die.” . . .
+14
+Chip took the skink back to the drainage ditch where he’d found it and let it go.15
+Page 4GO ON
+Session 1
+How does Chip change as a result of the way Mr. O’Dell teaches?
+A He improves his memory.
+B He becomes confused.
+C He develops enthusiasm.
+D He loses confidence.
+Read this sentence from paragraph 8.
+OOnnccee wwhheenn aa ssttuuddeenntt ppooiinntteedd oouutt aann aanntthhiillll,, MMrr.. OO’’DDeellll ppuutt hhiiss nnoossee ddoowwnn ssoo cclloossee ttoo
+wwaattcchh tthhaatt CChhiipp eexxppeecctteedd aann aanntt ttoo cclliimmbb rriigghhtt oonnttoo iitt aanndd mmaarrcchh uupp tthhrroouugghh tthhee
+ffrreecckklleess ttoo ssttaarree bbaacckk aatt hhiimm tthhrroouugghh hhiiss ggoolldd--rriimmmmeedd ggllaasssseess..
+What tone does this sentence add to the story?
+A a curious tone
+B a humorous tone
+C an anxious tone
+D an observant tone
+How do the details about Mr. O’Dell in paragraph 11 support a central idea of the story?
+A ey show his fascination with blue skinks.
+B ey show his appreciation for living animals.
+C ey show his excitement about baby dinosaurs.
+D ey show his passion for reading animals’ feelings.
+1
+2
+3
+Page 5Session 1
+GO ON
+Which word is a synonym for “displace” as it is used in paragraph 14?
+A guard
+B return
+C change
+D remove
+In the story, how does the author develop Chip’s point of view of Mr. O’Dell?
+A by mentioning that Chip is one of Mr. O’Dell’s favorite students
+B by showing Chip answering a tough question that Mr. O’Dell asks
+C by explaining why Mr. O’Dell has special field trip privileges
+D by describing events that make an impression on Chip
+How do Chip’s explorations in the outdoors influence him?
+A ey lead to his initial interest in a variety of local animals.
+B ey make it difficult for him to understand Luther’s point of view.
+C ey prompt him to discover wildlife in plowed fields.
+D ey enable him to show Luther how to handle a skink.
+4
+5
+6
+Page 6GO ON
+Session 1
+Which detail would be mmoosstt important to include in a summary of “Excerpt from
+e Last
+Wild Place”?
+A Mr. O’Dell treats students differently based on their interests.
+B Mr. O’Dell teaches science better than he teaches other subjects.
+C Mr. O’Dell values the purpose and habitat of every animal.
+D Mr. O’Dell previously taught in college and wrote a book.
+7
+Page 7Session 1
+GO ON
+““SSuussaann BBuuttcchheerr”” ffrroomm
+LLaaddiieess FFiirrsstt::
+4400 DDaarriinngg AAmmeerriiccaann WWoommeenn WWhhoo WWeerree
+SSeeccoonndd ttoo NNoonnee
+by Elizabeth Cody Kimmel
+e Iditarod is one of the toughest races in the world, and it takes place over some of
+the most challenging landscape on the planet. It is a race by dogsled that follows a route
+over a thousand miles long through the wilderness of Alaska. No woman has
+triumphed more consistently over this relentless challenge than Susan Butcher.
+1
+Born in Massachusetts in 1954, Butcher was drawn as a child to the wilderness and
+to the animals that filled it. Her parents were interested in boats and sailing, but
+Butcher seems to have been born with a passion for the outdoors not shared with
+family members. When she was eight, she wrote a two-sentence essay that read: “I hate
+the city. I love the country.”
+2
+Two pet Siberian huskies kindled her interest in dogsled racing. Butcher had always
+known she would spend her life working in some way with animals. When she decided
+to move to Colorado at age 17 to become a professional dog musher, or driver, her
+parents were less than pleased. ey would have preferred their daughter go to college.
+But Butcher had always been a child who knew what she wanted to do, and did it. She
+moved with her two huskies to Colorado in 1972. In her spare time she studied
+veterinary medicine at a nearby university, focusing on the care of dogs. In 1973, she
+heard about the first Iditarod Trail Sled Dog Race being organized in Alaska.
+Everything about Alaska, especially the pioneer-style living its wilderness offered,
+appealed to Butcher. In 1975, she found work at the University of Alaska and moved to
+Fairbanks. At the same time, she began to put together a team of dogs to enter in the
+Iditarod.
+3
+Page 8GO ON
+Session 1
+Read this article. Then answer questions 8 through 14.
+Training for the Iditarod encompasses a wide scope of activities. To begin with, both
+the musher of the dogsled and the entire team of dogs must be in top physical
+condition. Both Susan and her dogs trained up to 16 hours a day, seven days a week.
+ey had to develop the physical stamina they would need to endure over two weeks of
+peak performance under challenging and sometimes dangerous conditions. Training to
+work with each other is also a crucial part of preparation for the Iditarod.
+4
+e musher must have faith in each and every dog on her team, and most important,
+she must have a lead dog whom she can trust with her life. A lead dog must be able to
+assert himself over the other dogs and make snap judgments on the trail if an obstacle
+suddenly looms into view. And a lead dog must be able to make decisions even if they
+go against what the musher is commanding. One of Butcher’s lead dogs refused to turn
+le on a river path early on in the training. It was only aer the dog pulled Butcher and
+the team in the opposite direction that the reason became clear. e portion of trail to
+the le was a flimsy snow bridge that would have collapsed under the weight of the
+team, sending dogs, sled, and musher into the river. e lead dog’s instinct had been
+absolutely correct. To cultivate and recognize this instinct, Butcher bonded with her
+dogs and treated them as friends, family, and professional athletes. In her earliest years
+training for the Iditarod, Butcher explains that living in the wilderness to train, the
+dogs were not just friends to her, they were her only friends at all.
+5
+By the time Butcher was ready to enter her first Iditarod in 1978, the race was still
+largely the domain of men. Only three women had previously completed the course.
+Butcher was not welcomed with open arms, but she chose to ignore the resistance from
+the male mushers. She finished the race in 19th place, which was an extremely
+respectable showing for a newcomer, man or woman, and made her the first woman to
+place in the top 20.
+6
+Butcher ran the Iditarod every year aer that, and by 1984 she had placed second in
+two races. She now felt she was good enough to win the Iditarod outright, but in 1985
+her dreams were cut violently short. Early on in the race she and her team came upon a
+pregnant and hungry moose, which charged the dogs, attacking them with its massive
+hooves. Two of Butcher’s dogs were killed, and many others badly hurt. Butcher chose
+to withdraw from the race to tend to her dogs’ injuries, leaving another woman,
+Libby Riddles, to become the first woman to win the Iditarod.
+7
+Page 9Session 1
+GO ON
+In 1986, it was Butcher’s turn. ough two of her dogs fell through the ice while
+they were leading the sled over a river, Butcher was able to pull the dogs to safety and
+continue the race. Sleeping only a few hours each night, she overtook other teams one
+at a time, until she had taken the lead. Eleven days aer starting, Butcher and her team
+crossed the finish line in first place. She had not only won the race, she had also set a
+new speed record. Nine years aer running her first Iditarod as a “rookie,”
+Susan Butcher had now earned the respect and admiration of almost every other
+musher, male and female alike.
+8
+Page 10GO ON
+Session 1
+What is mmoosstt lliikkeellyy the author’s purpose in paragraph 1?
+A to demonstrate Susan Butcher’s significant contribution to women’s sports
+B to introduce the relationship between Susan Butcher and her dogs
+C to explain that more men than women compete in the Iditarod
+D to convey the challenges of the Iditarod race
+What do the details in paragraph 4 explain about the Iditarod?
+A why more men than women enter the Iditarod
+B why Susan Butcher had to withdraw from the Iditarod
+C how much preparation is needed to compete in the Iditarod
+D how Susan Butcher selected her team of dogs for the Iditarod
+What is the effect of the author’s use of the word “must” four times in the sentences at the
+beginning of paragraph 5?
+A It emphasizes that the ideas in these sentences are critical for the race.
+B It demonstrates that the ideas in these sentences reflect what the
+musher believes.
+C It indicates that the ideas in these sentences are essentially the same.
+D It shows that the ideas in these sentences are the only important traits.
+8
+9
+10
+Page 11Session 1
+GO ON
+Which claim by the author is mmoosstt strongly supported with evidence?
+A “Two pet Siberian huskies kindled her interest in dogsled racing.”
+(paragraph 3)
+B “e musher must have faith in each and every dog on her team . . .”
+(paragraph 5)
+C “. . . the race was still largely the domain of men.” (paragraph 6)
+D “In 1986, it was Butcher’s turn.” (paragraph 8)
+Which quotation bbeesstt portrays Susan Butcher’s relationship with her dogs?
+A “. . . she studied veterinary medicine at a nearby university, focusing on the
+care of dogs.” (paragraph 3)
+B “. . . both the musher of the dogsled and the entire team of dogs must be in
+top physical condition.” (paragraph 4)
+C “. . . Butcher bonded with her dogs and treated them as friends, family, and
+professional athletes.” (paragraph 5)
+D “. . . Butcher was able to pull the dogs to safety and continue the race.”
+(paragraph 8)
+Which statement bbeesstt expresses the relationship between paragraph 3 and paragraph 8?
+A Paragraph 3 provides a summary, and paragraph 8 lists details.
+B Paragraph 3 explains a cause, and paragraph 8 reveals effects.
+C Paragraph 3 describes goals, and paragraph 8 presents an outcome.
+D Paragraph 3 identifies problems, and paragraph 8 explains a solution.
+11
+12
+13
+Page 12GO ON
+Session 1
+Which detail would be mmoosstt important to include in a summary of the article?
+A “. . . Butcher was drawn as a child to the wilderness and to the animals that
+filled it.” (paragraph 2)
+B “Training for the Iditarod encompasses a wide scope of activities.”
+(paragraph 4)
+C “e portion of trail to the le was a flimsy snow bridge that would have
+collapsed . . .” (paragraph 5)
+D “She had not only won the race, she had also set a new speed record.”
+(paragraph 8)
+14
+Page 13Session 1
+GO ON
+
+
+_______________________
+11vvaauuddeevviillllee:: a type of live entertainment that was popular in the early 1900s
+is played by touching the strings with a steel bar or some hard object. Although it’s not
+clear who invented the steel guitar style, legend has it that the first person to develop
+this technique was Hawaiian schoolboy Joseph Kekuku. He discovered the sound while
+walking along a railroad track strumming his guitar with a metal bolt that he found
+along the tracks.
+In country and bluegrass music, the band plays stringed instruments like the guitar,
+banjo, fiddle, stand-up bass, and mandolin, but did you know that years ago, a band
+might play these same instruments made out of gourds? Gourds are hard-shelled,
+round-shaped fruits. During the Great Depression, people couldn’t afford store-bought
+instruments so they made their own. . . .
+8
+WWiinndd IInnssttrruummeennttss
+Just like percussion and strings, most wind instruments evolved from much older
+folk instruments. e misnice is a bagpipe-like instrument made out of the skin of a
+goat. In Europe, references to the misnice are found as early as the ninth century. e
+misnice was found in North Africa and in somewhat different forms in Eastern Europe
+(Serbia, Hungary, Ukraine, and elsewhere). . . .
+9
+e zurna, also known as the surna, is an instrument from Islamic areas including
+Iran, Mesopotamia, and Syria. e popularity of the zurna quickly spread through
+areas conquered by the Arabs. e Arabs first used it in military bands, and later used it
+to greet important persons, mark the beginnings of pilgrimages, and in other
+important ceremonies. Today the zurna still exists as a folk instrument used mainly in
+festive village music in Islamic areas, as well as Greece, Cyprus, and Armenia. e
+modern day version of the zurna is the oboe, which is a staple of any symphony
+orchestra.
+10
+If you don’t have any instruments at all, and you can’t make one, you can always
+whistle. Whistling is a way to use your vocal cords as a musical instrument. Just put
+your lips together and blow, and you can take that song with you anywhere you go.
+11
+Page 28GO ON
+Session 1
+What does the word “precision” mean as it is used in paragraph 3?
+A frequency
+B force
+C accuracy
+D speed
+What idea do paragraphs 7 and 8 share?
+A Stringed instruments are characterized by natural materials.
+B Some instruments are more popular and appealing than others.
+C New instruments can be created from everyday materials.
+D Even simple instruments can produce beautiful music.
+What does the word “version” mean as it is used in paragraph 10?
+A a special edition
+B a specific performance
+C a related form of an earlier object
+D an example from a variety of types
+29
+30
+31
+Page 29Session 1
+GO ON
+How is paragraph 10 mmaaiinnllyy structured?
+A by comparing and contrasting ideas
+B by presenting events in time order
+C by stating causes and effects
+D by detailing solutions to problems
+Which quotation bbeesstt conveys a central idea of the article?
+A “Many of the instruments we know and play today, like the piano, the
+guitar, and the oboe, evolved from these older instruments.” (paragraph 1)
+B “e fact that marimba songs were well liked by Americans shows the
+increased exposure the public had to foreign styles of music.” (paragraph 4)
+C “During the Great Depression, people couldn’t afford store-bought
+instruments so they made their own.” (paragraph 8)
+D “Whistling is a way to use your vocal cords as a musical instrument.”
+(paragraph 11)
+What point of view is the author mmoosstt lliikkeellyy expressing in paragraph 11?
+A Musical instruments should be made available to everyone.
+B e ability to make music is widespread.
+C Everyone should involve themselves with music.
+D Listening to music brings great joy.
+32
+33
+34
+Page 30GO ON
+Session 1
+Which sentence would be mmoosstt important to include in a summary of the article?
+A Many musical instruments have been made by using simple
+available materials.
+B Percussion instruments make sounds when struck, shaken, or scraped.
+C Guitars are used by Hawaiian, country, rock, and bluegrass musicians.
+D e zurna was first used in military bands and to greet important persons.
+35
+Page 31Session 1
+STOP
+Grade 7
+2022
+English Language Arts Test
+Session 1
+March 29–31, 2022
+
+“Unearthing the Arabia” by Lynn Rymarz, Highlights, March 2016. Copyright © 2016 by Highlights for Children, Inc. Used with
+permission of Highlights for Children, Inc. via Copyright Clearance Center.
+“Persistent” from Words with Wings by Nikki Grimes. Copyright © 2013 by Nikki Grimes. Published by WordSong. Used with permission of
+Boyds Mill Kane Press via Copyright Clearance Center.
+Excerpt from The Strictest School in the World: Being the Tale of a Clever Girl, a Rubber Boy and a Collection of Flying Machines, Mostly
+Broken by Howard Whitehouse. Used with permission of Kids Can Press via Copyright Clearance Center.
+Developed and published under contract with the New York State Education Department by Questar Assessment Inc., 5550 Upper 147th
+Street West, Minneapolis, MN 55124. Copyright © 2022 by the New York State Education Department.
+Session 2
+Session 2
+TIPS FOR TAKING THE TEST
+Here are some suggestions to help you do your best:
+• Be sure to read all the directions carefully.
+• Most questions will make sense only when you read the whole passage. You may read
+the passage more than once to answer a question. When a question includes a quotation
+from a passage, be sure to keep in mind what you learned from reading the whole
+passage. You may need to review both the quotation and the passage in order to answer
+the question correctly.
+• Read each question carefully and think about the answer before writing your response.
+• In writing your responses, be sure to
+– clearly organize your writing and express what you have learned;
+– accurately and completely answer the questions being asked;
+– support your responses with examples or details from the text; and
+– write in complete sentences using correct spelling, grammar, capitalization,
+and punctuation.
+• For the last question in this test book, you may plan your writing on the Planning Page
+provided, but do NOT write your final answer on this Planning Page. Writing on this
+Planning Page will NOT count toward your final score. Write your final answer on the
+lined response pages provided.
+Page 1Session 2
+UUnneeaarrtthhiinngg tthhee
+AArraabbiiaa
+by Lynn Rymarz
+e
+Arabia’s paddle wheels churned the muddy waters of the Missouri River as it
+made its way upriver on September 5, 1856. e white wooden steamboat carried
+200 tons of cargo, 130 passengers, and 1 mule.
+1
+Men, women, and children were headed west to new frontier towns along the
+Missouri River. All of their personal belongings were onboard. Below deck, in the cargo
+hold, wooden crates and barrels filled with new merchandise waited to be delivered to
+the towns’ settlers.
+2
+As passengers sat down to dinner in the boat’s dining room, the
+Arabia rounded the
+river’s bend outside of Kansas City, Missouri. Without warning, the steamboat struck a
+submerged tree, causing a gaping hole in the oak hull.
+3
+Water gushed in and immediately the boat started sinking. Passengers screamed as
+water flooded over the deck and the boat keeled to one side. Chairs and stools tumbled
+into the Missouri River. Children began sliding off the boat as frantic parents rushed to
+save them. Several men pushed the one lifeboat into the water and rowed scared
+passengers to shore. People living along the river also helped with the rescue. All the
+passengers were saved, but the precious cargo and the mule were lost as the
+Arabia sank
+to the bottom of the Missouri River. ere the steamboat remained in the mud for
+132 years.
+4
+SSeeaarrcchhiinngg ffoorr TTrreeaassuurree
+In 1985, Dave Hawley heard a story about sunken steamboats buried with treasure.
+He persuaded his brother Greg, their father Bob, and family friend Jerry Mackey to go
+treasure hunting. Sunken steamboats loaded with gold, silver, and valuable cargo could
+make them rich!
+5
+Treasure hunting had been a big part of the Hawleys’ family life. Growing up in
+Missouri, Dave and Greg had dug in gold mines, explored the banks of the Missouri
+River, and searched for ghost towns.
+6
+Page 2GO ON
+Session 2
+Read this article. Then answer questions 36 through 38.
+e four men began by visiting libraries, courthouses, and the National Archives in
+Washington, D.C. ey searched for clues about lost steamboats rich in cargo. Records
+showed that 289 steamboats had sunk on the Missouri River. ey narrowed their hunt
+to 10.
+7
+Over time, the Missouri River had changed its course, and many of these sunken
+steamboats now appeared to be buried beneath dry land. e men knocked on people’s
+doors asking permission to search their fields. Aer countless miles and three years,
+their search for nine steamboats le them empty-handed.
+8
+But one sunken steamboat remained: the
+Arabia.9
+FFiinnddiinngg tthhee
+AArraabbiiaa
+Maps revealed that the
+Arabia lay buried in a Kansas cornfield on Norman Sortor’s
+property. Sortor had heard stories about the sunken steamboat that had been passed
+down for generations in his family. ree other treasure-hunting teams had tried to
+reach it but failed. So when the four men asked Sortor for permission to search on his
+land, he warned, “You can try to dig the
+Arabia, but you won’t reach her. No one else
+has.”
+10
+e men were not discouraged. ey agreed to give the landowner a percentage of
+any artifacts they found. en they set out to find the steamboat. Aer hiking through
+rows of corn with his magnetometer, a device used to find metal, Dave got a reading. It
+was the
+Arabia!
+11
+But they had to wait until the corn was harvested before they could stake out the
+boat’s dimensions. Finally, they began digging. When they hit water, pumps were
+needed to remove it. Sometimes using heavy equipment, the four men dug through
+sand and mud—deeper and deeper. Eighteen days later, one of their shovels unearthed
+part of a paddle wheel.
+12
+ee
+AArraabbiiaa EEmmeerrggeess
+e paddle wheel was just the beginning. Within days, the first artifact appeared: a
+worn rubber shoe with “Goodyears Rubber Co., 1849” stamped on the bottom. e
+men kept digging and more personal belongings emerged from the muddy ruins:
+clothes, books, toys, and tools. ey discovered wooden crates and barrels full of beaver
+hats; dishware and hardware; brightly colored fabric; fancy buttons; and bottles of
+spices, medicines, and sweet pickles—which were still good enough to eat. ey even
+found the skeleton of the mule, still bridled and saddled.
+13
+Page 3Session 2
+GO ON
+Each discovery revealed more about the men, women, and children who headed
+west. “Excavating the
+Arabia was like shaking hands with the pioneers,” Greg wrote in
+his book. Although their adventure had not led them to gold and silver, it had led them
+to treasures beyond their “wildest dreams.”
+14
+ey had unearthed 200 tons of artifacts, discovering more than 100,000 items—the
+country’s biggest collection of pre-Civil War artifacts ever found. And because the
+cargo had existed in an oxygen-free environment, the washed-off items looked new. But
+they needed preserving, which would require more money than these adventurers had.
+15
+ee RReeaall TTrreeaassuurree
+e men faced the decision of what to do with the
+Arabia’s precious cargo. If they
+sold the priceless artifacts, they would be rich. But they knew they couldn’t sell them.
+As Greg later said, “e most priceless thing discovered aboard the
+Arabia was not the
+cargo, but the story it told.”
+16
+e men decided to create the Arabia Steamboat Museum in Kansas City, Missouri,
+and showcase the lost treasures. Norman Sortor also chose to have his share of the
+artifacts remain with the others in the museum. He kept just a few for his family. e
+Arabia’s story, once buried in the mud for 132 years, is now open to the public for all to
+enjoy.
+17
+Page 4GO ON
+Session 2
+In paragraph 10 of “Unearthing the
+Arabia,” why does the author include the information
+about property owner Norman Sortor? Use ttwwoo details from the article to support your
+response.
+36
+Page 5Session 2
+GO ON
+How does the author of “Unearthing the
+Arabia” support the claim that treasure hunting was a
+lifelong interest for the Hawley family? Use ttwwoo details from the article to support your
+response.
+37
+Page 6GO ON
+Session 2
+In the article “Unearthing the
+Arabia,” what is the meaning of the final heading “e Real
+Treasure”? Use ttwwoo details from the article to support your response.
+38
+Page 7Session 2
+GO ON
+5
+10
+15
+20
+““PPeerrssiisstteenntt”” ffrroomm
+WWoorrddss wwiitthh WWiinnggss
+by Nikki Grimes
+Teacher keeps an eye on me
+all week.
+I give him no reason
+to call me aside,
+but he does.
+“Talk to me, Gabby,” he says.
+“Tell me what’s wrong.
+I can see you’re not happy.”
+I’d argue but my sigh
+gives me away.
+“I miss daydreaming.”
+“en daydream!” says Mr. Spicer,
+confusing me.
+“But you’re always telling me
+to stop daydreaming!
+You and my mom.”
+Teacher taps his top lip
+like a door the right words
+are hiding behind.
+“Dreams are great things, Gabby,”
+he finally says.
+“e best thinkers,
+writers, inventors in the world
+allow their thoughts
+Page 8GO ON
+Session 2
+Read this poem. Then answer questions 39 and 40.
+25
+30
+35
+40
+to carry them away,
+now and then.
+Take the Wright brothers.
+We wouldn’t have airplanes
+if they hadn’t dreamed of them, first.
+Still, sometimes you have to
+slide your daydreams
+in a drawer
+and let them wait until later,
+like aer I’m done
+teaching a lesson
+you need to learn.
+Got it?”
+I nod, wondering if
+the Wright brothers
+knew anything about
+bringing daydreams in
+for a landing.
+Page 9Session 2
+GO ON
+How do Gabby’s feelings change during the course of the poem “Persistent”? Use ttwwoo details
+from the poem to support your response.
+39
+Page 10GO ON
+Session 2
+In “Persistent,” how do the phrases “carry them away” (line 25) and “bringing daydreams in for
+a landing” (lines 41–42) relate to each other? Use ttwwoo details from the poem to support your
+response.
+40
+Page 11Session 2
+GO ON
+is story is set in the late 1800s.
+EExxcceerrpptt ffrroomm
+ee SSttrriicctteesstt SScchhooooll iinn
+tthhee WWoorrlldd:: BBeeiinngg tthhee TTaallee ooff aa CClleevveerr GGiirrll,,
+aa RRuubbbbeerr BBooyy aanndd aa CCoolllleeccttiioonn ooff FFllyyiinngg
+MMaacchhiinneess,, MMoossttllyy BBrrookkeenn
+by Howard Whitehouse
+Everyone dreams about flying. Soaring above the clouds, banking your wings11 to
+make graceful curves through the air, swooping like a hawk from great heights.
+Jumping off the toolshed roof. Spending a week with a bandage round your head. Being
+told how lucky you were not to break your neck.
+1
+Everyone dreams about flying. Emmaline did.2
+Emmaline Cayley was a pioneering scientist. She had declared this when she turned
+eleven. She was a leader in the field of aeronautics,22 as she would tell anyone who
+would listen; at least, she would be one day. e girls she knew said that Emmaline was
+mad and that she probably still believed in fairies. Emmaline didn’t care what other
+girls thought. She didn’t care about dolls or new dresses or tea parties; she cared about
+aeronautics. She was an aviatrix.33 By her thirteenth birthday, Emmaline had decided
+that she was going to invent a flying machine. at was more than a year ago in
+Calcutta, India, where she had been brought up.
+3
+Now she was in England, waiting to go to boarding school.4
+Emmaline sat on a fallen tree, looking out over a valley. It was smooth grassland
+with no rocks, no trees or tangly bushes and no patches of bog to get sucked into.
+Emmaline considered it a perfect place for an experiment with flight. What she actually
+thought was, “is would be a fine place to try out a flying machine—if I had one—and
+could get somebody (but not me) to sit in it and see what happened when it le the
+ground.”
+5
+Page 12GO ON
+Session 2
+Read this story. Then answer questions 41 through 43.
+_______________________
+11bbaannkkiinngg yyoouurr wwiinnggss:: turning by positioning one wing of the plane higher than the other
+22aaeerroonnaauuttiiccss:: the science of air travel
+33aavviiaattrriixx:: female airplane pilot
+44pplluummmmeett:: fall fast
+e truth is that Emmaline was afraid of flying. She didn’t admit this to herself,
+however. She told herself that if she were to plummet44 to her doom, then all her
+experimental knowledge as a pioneer in aeronautics would die with her. Emmaline
+thought this would be a tragedy indeed. . . .
+6
+Emmaline’s great-great-uncle, Sir George Cayley, had tried inventing flying
+machines long ago. As a boy he’d made model gliders, studied birds’ wings and
+conducted strange experiments with wind tunnels. But he hadn’t built an actual,
+full-sized flying machine until 1849, when he was much older. He had ordered a boy
+to sit in the machine. Sir George was seventy-six at the time, so nobody felt he was
+letting anyone down by not flying it himself (when you are ancient, you can get away
+with a lot). e contraption worked as Sir George had hoped, sailing through the air a
+hundred yards or thereabouts, and nobody was injured.
+7
+A few years later, Cayley tried again with a bigger, better cra. is time, Sir George
+“volunteered” his coachman, a light skinny man (just the type he needed) to fly the
+glider. A team of big, brawny farmhands from Cayley’s estate hauled it up a hill above a
+valley known as Brompton Dale. e machine was a marvel. e lads pushed, and it
+rose in the air, soared two hundred yards and landed in a meadow with a splintering
+sickening crash. e coachman, John Appleby, tottered from the wreckage, limped back
+up the hill and resigned on the spot. . . .
+8
+Emmaline knew there was a simple moral to the story. Get somebody else to sit in
+the pilot’s seat.
+9
+Page 13Session 2
+GO ON
+In paragraph 3, what is mmoosstt lliikkeellyy the author’s purpose for including details about the girls
+Emmaline knows? Use ttwwoo details from the story to support your response.
+41
+Page 14GO ON
+Session 2
+In “Excerpt from
+e Strictest School in the World,” how does the shi between paragraphs 6
+and 7 contribute to the story? Use ttwwoo details from the story to support your response.
+42
+Page 15Session 2
+GO ON
+
+e poem “Persistent” and the story “Excerpt from
+e Strictest School in the World ” convey a
+similar theme. What theme is shared in the poem and the story? How do the poet and the
+author develop this theme in each text? Use details from bbootthh the poem and the story to
+support your response.
+In your response, be sure to
+identify a theme that is shared in “Persistent” and “Excerpt from
+e Strictest School in
+the World ”
+explain how the poet and the author develop this theme in each text
+use details from bbootthh the poem and the story to support your response
+43
+Page 17Session 2
+GO ON
+Page 18Session 2
+S
+T
+O
+P
+Grade 7
+2022
+English Language Arts Test
+Session 2
+March 29–31, 2022
+Multiple Choice Questions
+Percentage of Students Who
+Answered Correctly
+(P-Value)
+Average
+Points
+Earned
+P-Value
+(Average Points Earned
+÷ Total Possible Points)
+1 Multiple Choice C 1 CCSS.ELA-Literacy.RL.7.3 Reading 0.81
+2 Multiple Choice B 1 CCSS.ELA-Literacy.RL.7.4 Reading 0.36
+3 Multiple Choice B 1 CCSS.ELA-Literacy.RL.7.2 Reading 0.71
+4 Multiple Choice D 1 CCSS.ELA-Literacy.L.7.4 Reading 0.76
+5 Multiple Choice D 1 CCSS.ELA-Literacy.RL.7.6 Reading 0.61
+6 Multiple Choice A 1 CCSS.ELA-Literacy.RL.7.3 Reading 0.69
+7 Multiple Choice C 1 CCSS.ELA-Literacy.RL.7.2 Reading 0.81
+8 Multiple Choice D 1 CCSS.ELA-Literacy.RI.7.6 Reading 0.56
+9 Multiple Choice C 1 CCSS.ELA-Literacy.RI.7.3 Reading 0.88
+10 Multiple Choice A 1 CCSS.ELA-Literacy.RI.7.4 Reading 0.72
+11 Multiple Choice B 1 CCSS.ELA-Literacy.RI.7.8 Reading 0.62
+12 Multiple Choice C 1 CCSS.ELA-Literacy.RI.7.3 Reading 0.85
+13 Multiple Choice C 1 CCSS.ELA-Literacy.RI.7.5 Reading 0.64
+14 Multiple Choice D 1 CCSS.ELA-Literacy.RI.7.2 Reading 0.49
+29 Multiple Choice C 1 CCSS.ELA-Literacy.L.7.4 Reading 0.7
+30 Multiple Choice C 1 CCSS.ELA-Literacy.RI.7.3 Reading 0.4
+31 Multiple Choice C 1 CCSS.ELA-Literacy.L.7.4 Reading 0.5
+32 Multiple Choice B 1 CCSS.ELA-Literacy.RI.7.5 Reading 0.61
+33 Multiple Choice A 1 CCSS.ELA-Literacy.RI.7.2 Reading 0.71
+34 Multiple Choice B 1 CCSS.ELA-Literacy.RI.7.6 Reading 0.59
+35 Multiple Choice A 1 CCSS.ELA-Literacy.RI.7.2 Reading 0.82
+36 Constructed Response 2 CCSS.ELA-Literacy.RI.7.3 Writing to Sources 1.54 0.77
+37 Constructed Response 2 CCSS.ELA-Literacy.RI.7.8 Writing to Sources 1.42 0.71
+38 Constructed Response 2 CCSS.ELA-Literacy.RI.7.4 Writing to Sources 1.46 0.73
+39 Constructed Response 2 CCSS.ELA-Literacy.RL.7.3 Writing to Sources 1.52 0.76
+40 Constructed Response 2 CCSS.ELA-Literacy.RL.7.4 Writing to Sources 1.31 0.65
+41 Constructed Response 2 CCSS.ELA-Literacy.RL.7.6 Writing to Sources 1.49 0.75
+THE STATE EDUCATION DEPARTMENT
+THE UNIVERSITY OF THE STATE OF NEW YORK / ALBANY, NY 12234
+2022 English Language Arts Tests Map to the Standards
+Grade 7 Released Questions
+Session 2
+Constructed Response Questions
+Session 1
+Question Type Key Points Standard Subscore
+42 Constructed Response 2 CCSS.ELA-Literacy.RL.7.5 Writing to Sources 1.38 0.69
+43 Constructed Response 4 CCSS.ELA-Literacy.RL.7.2 Writing to Sources 2.06 0.52
+*This item map is intended to identify the primary analytic skills necessary to successfully answer each question on the 2022 operational ELA test. However, each constructed-response question
+measures proficiencies described in multiple standards, including writing and additional reading and language standards. For example, two-point and four-point constructed-response questions
+require students to first conduct the analyses described in the mapped standard and then produce written responses that are rated based on writing standards. To gain greater insight into the
+measurement focus for constructed-response questions, please refer to the rubrics shown in the Educator Guides.

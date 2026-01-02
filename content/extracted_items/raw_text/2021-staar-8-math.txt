@@ -1,0 +1,1098 @@
+®
+STAAR
+State of Texas
+Assessments of
+Academic Readiness
+GRADE 8
+Mathematics
+Administered April 2021
+RELEASED
+Copyright © 2021, Texas Education Agency. All rights reserved. Reproduction of all or portions of this work is prohibited without express
+written permission from the Texas Education Agency.
+
+®
+STAAR
+State of Texas
+Assessments of
+Academic Readiness
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+m = y2 −
+x2 −
+y1
+x1
+A = 1 bh
+2
+A = 1
+2 (b +1 b )h2
+V = 1
+3 B
+V = 4
+3
+3
+πr
+LINEAR EQUATIONS
+Slope-intercept form y = mx + b
+Direct variation y = k x
+Slope of a line
+CIRCUMFERENCE
+Circle C = 2πr or C = πd
+AREA
+Triangle
+Rectangle or parallelogram A = bh
+Trapezoid
+Circle A = 2
+πr
+SURFACE AREA
+Lateral Total
+Prism S = P S = Ph + B2
+Cylinder S = 2πr S = 2πrh + 2πr 2
+VOLUME
+Prism or cylinder V = Bh
+Pyramid or cone
+Sphere
+ADDITIONAL INFORMATION
+Pythagorean theorem 2
+a + b 2 = c 2
+Simple interest I = P rt
+Compound interest A = P (1 + t
+r)
+h
+h
+h
+STAAR GRADE 8 MATHEMATICS
+REFERENCE MATERIALS
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+MATHEMATICS
+Mathematics
+Page 7
+−
+−
+− −
+DIRECTIONS
+Read each question carefully. For a multiple-choice question, determine the
+best answer to the question from the four answer choices provided. For a
+griddable question, determine the best answer to the question. Then fill in the
+answer on your answer document.
+1 Trapezoid WKRP was translated 4 units to the left and 5 units up on a coordinate grid to
+create trapezoid W K R P′ ′ ′ . Which rule describes this transformation?′
+A (x y, ) → (x − 4, y + 5)
+B (x y, ) → (x + 4, y − 5)
+C (x y, ) → (x + 4, y + 5)
+D (x y, ) → (x − 4, y − 5)
+Mathematics
+Page 8
+5
+4
+3
+2
+1
+− 5 − 4 − 3 − 2 − 1 − 1 1 2 3 4 5
+− 2
+− 3
+− 4
+− 5
+x
+y
+y
+5
+4
+3
+2
+1
+− 5 − 4 − 3 − 2 − 1 − 1 1 2 3 4 5
+− 2
+− 3
+− 4
+− 5
+x
+2 Which representation shows y as a function of x?
+x y
+21
+34
+47
+60
+−14
+−11
+−17
+−20
+F H
+x y
+18 21
+19
+23
+25
+27
+16
+20
+22
+G J
+3 A bowling ball shaped like a sphere has a diameter of 21.6 centimeters. Which measurement
+is closest to the volume of the bowling ball in cubic centimeters?
+A 1,954.3 cm 3
+B 5,276.7 cm 3
+C 488.6 cm 3
+D 42,213.4 cm 3
+Mathematics
+Page 9
+x y
+1 −−4
+3 −−12
+7 −−28
+15 −−60
+−
+−
+−
+−
+−
+− −
+−
+−
+4 A customer will borrow $12,000 to buy a car. Which loan option would allow the customer to
+pay the least amount of interest?
+F A 4-year loan with a 5.2% annual simple interest rate
+G A 5-year loan with a 4.2% annual simple interest rate
+H A 6-year loan with a 4.7% annual simple interest rate
+J A 3-year loan with an 8.4% annual simple interest rate
+5 Which table represents a non-proportional relationship between x and y?
+A C
+DB
+x y
+1 7.5
+4 30
+7 52.5
+10 75
+x y
+−17 93.5
+−5 27.5
+2 −11
+10 −55
+x y
+−5 11
+−1 −1
+1 −7
+8 −28
+Mathematics
+Page 10
+y
+6
+T 5
+4
+3
+2
+1
+− 6 6− 5 − 4 − 3 − 2 − 1
+− 1
+1 2 3 4 5
+− 2
+− 3
+− 4
+− 5
+R − 6 W
+x
+6 Triangle TRW is shown on the coordinate grid.
+Triangle TRW will be dilated by a scale factor of n with the origin as the center of dilation to
+create triangle T R′ ′W ′. Which ordered pair best represents the location of point R′?
+3 5
+(−− , −− )
+n n
+F
+G ( 3−− n, −−5n)
+H ( 3−− + n, −−5 + n)
+J ( 3−− −− n, −− −5 − n)
+7 A student’s parents invested $5,000 in a college savings account that pays 4.85% annual
+simple interest. No additional deposits or withdrawals will be made.
+Which amount is closest to the interest earned on the account at the end of 15 years?
+A $5,174.11
+B $10,174.11
+C $3,637.50
+D $8,637.50
+Mathematics
+Page 11
+y
+7
+6
+5 Z
+4
+Y 3
+2
+1
+− 7 7− 6 − 5 − 4 − 3 − 2 − 1
+− 1
+1 2 3 4 5 6
+− 2
+− 3 X
+− 4
+− 5
+− 6
+− 7
+x
+8 Triangle XYZ is rotated 90° clockwise about the origin to form triangle X Y′ ′Z .′
+Which statement is true?
+F The sum of the angle measures of triangle XYZ is 90° less than the sum of the angle
+measures of triangle X Y′ ′ ′Z .
+G The angle measures of triangle XYZ are less than the corresponding angle measures of
+triangle X Y′ ′ ′Z .
+H Triangle XYZ is not congruent to triangle X Y′ ′ ′Z .
+J The area of triangle XYZ is equal to the area of triangle X Y′ ′ ′Z .
+Mathematics
+Page 12
+−70 − 4x = 30 + 4x
+9 A college has two classrooms of students.
+• Classroom A had 70 students.
+• Classroom B had 30 students.
+• Classroom A sent groups of 4 students to Classroom B until both classrooms had the
+same number of students.
+The equation shown can be used to find the number of groups that Classroom A sent to
+Classroom B so each classroom had the same number of students.
+How many groups did Classroom A send to Classroom B?
+Record your answer and fill in the bubbles on your answer document. Be sure to use the
+correct place value.
+Mathematics
+Page 13
+10 A water tank currently contains 275 gallons of water. The amount of water in the tank will
+decrease at a constant rate of 15 gallons per week.
+Which function can be used to find t, the total number of gallons of water in the tank after
+w weeks?
+F t = 15w − 275
+G t = −15w + 275
+H t = 275w − 15
+J t = −275w + 15
+Weight (kg)
+Student Height and Weight
+y
+64
+60
+56
+52
+48
+44
+40
+36
+32
+28
+x
+0 134 138 142 146 150 154 158
+Height (cm)
+11 The scatterplot shows the height in centimeters and weight in kilograms of several students.
+−
+−
+−
+−
+Based on the scatterplot, which is the best prediction of the height in centimeters of a student
+with a weight of 64 kilograms?
+A 152 cm
+B 160 cm
+C 162 cm
+D 156 cm
+Mathematics
+Page 14
+12 A transformation is applied to a figure to create a new figure on a coordinate grid. Which
+transformation does NOT preserve congruence?
+F A rotation of 270° counterclockwise
+G A reflection across the y-axis
+H A dilation by a scale factor of 1.5
+J A translation of 50 units down
+13 A teacher bought markers at a cost of $3 per set. The teacher had a $2-off coupon to use
+toward the total cost of the markers bought.
+Which table shows the relationship between x, the number of sets of markers bought by the
+teacher, and y, the total cost of the markers?
+A Markers C Markers
+Sets of
+Markers Total Cost, y
+Bought, x
+3 $7
+9 $25
+12 $34
+24 $70
+Sets of
+Markers Total Cost, y
+Bought, x
+3 $11
+9 $29
+12 $38
+24 $74
+B Markers D Markers
+Sets of
+Markers Total Cost, y
+Bought, x
+9 $1
+12 $2
+15 $3
+24 $6
+Sets of
+Markers Total Cost, y
+Bought, x
+9 $5
+12 $6
+15 $7
+24 $10
+Mathematics
+Page 15
+y
+x
+12
+K 11
+10
+9
+M 8
+7
+L 6
+5
+P 4
+3
+2
+1
+− 1 2− 12 − 11 0 − 9 − 8 − 7 − 6 − 5 − 4 − 3 − 2 − 1
+− 1 1 2 3 4 5 6 7 8 9 10 11 1
+− 2
+− 3
+− 4
+− 5
+− 6
+− 7 S− 8
+R − 9
+− 10
+− 11
+− 12
+KL
+LM = PR
+RS
+RS
+SP = LM
+MK
+ML
+LK = SP
+RP
+PS
+PR = KM
+KL
+14 The diameter of a cylinder is 2.5 inches, and the height is 7.5 inches. Which equation can be
+used to find V, the volume of the cylinder in cubic inches?
+2
+V = π(2.5) (7.5)F
+2
+V = π(7.5) (2.5)G
+2
+V = π(1.25) (7.5)H
+2
+V = π(3.75) (2.5)J
+15 Triangle KLM and triangle PRS are similar right triangles.
+Which proportion can be used to show that the slope of KM is equal to the slope of PS?
+A
+B
+C
+D
+Mathematics
+Page 16
+12.25
+37
+144
+16 The table shows the diagonal lengths of TV screens at a store.
+TV Screen Diagonal Lengths
+Screen Length (feet)
+W
+X 1
+2 6
+Y
+Z 8
+3
+Which TV screen has the smallest diagonal length in feet?
+F W
+G X
+H Y
+J Z
+Mathematics
+Page 17
+17 A math teacher observed that as the number of hours students studied their multiplication
+facts increased, the number of errors the students made on their multiplication tests
+decreased. Which scatterplot could support this teacher’s observation?
+y Multiplication Tests
+6
+10
+Number of Errors
+8
+4
+2
+x
+0 1 2 3 4 5
+Study Time (hours)
+y Multiplication Tests
+10
+Number of Errors
+8
+6
+4
+2
+x
+0 1 2 3 4 5
+Study Time (hours)
+CA
+B
+Number of Errors
+y Multiplication Tests
+6
+10
+8
+4
+2
+x
+0 1 2 3 4 5
+Study Time (hours)
+Number of Errors
+y Multiplication Tests
+10
+8
+6
+4
+2
+x
+0 1 2 3 4 5
+Study Time (hours)
+D
+Mathematics
+Page 18
+4.5 in.
+− − −
+− − − − −
+− −
+18 The diagram shows the height of a cone that holds ice cream. The cone has a volume of
+1.5π cubic inches.
+Which measurement is closest to the radius of the cone in inches?
+F 0.6 in.
+G 1.4 in.
+H 1.0 in.
+J 0.5 in.
+19 Which set of ordered pairs represents y as a function of x?
+A (0, 0.5), (2, 1.5), (−5.5, 5), (−5.5, −6)
+B (5, −7), (3, −7), (−9.2, −7), (9.2, −7)
+C (9.3, −1), (7.3, −2), (7.3, 2), (9.3, 1)
+D (8.1, 9), (9.1, 10), (10.1, 9), (9.1, 8)
+Mathematics
+Page 19
+2 2
+x y) → ( x, y( , )
+7 7
+− −(x y, ) → (x − 15, y − 5)
+7 7
+x y) → ( x, y( , )
+2 2
+20 Polygon LMNPQR is shown on the coordinate grid and models the shape of a garden in a park.
+Polygon LMNPQR will be dilated with the origin as the center of dilation to create polygon
+L M′ ′N′P′Q′R′. The vertex Q′ will be located at (21, 7).
+y
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+M
+N
+P
+Q
+R
+L
+Garden
+x
+0 1 2 3 4 5 6 7 8 9 10 11
+Which rule best represents the dilation?
+F
+G (x y, ) → (x + 15, y + 5)
+H
+J
+Mathematics
+Page 20
+y
+2
+1
+− 2 − 1 1 2
+− 1
+− 2
+x
+− − −
+1 3
+( 1,− − ) and (1, − )
+4 4
+− −y = 1
+− 2 x − 1
+4
+y = 1
+2 x + 1
+4
+− −y = 1
+− 4 x − 1
+2
+y = 1
+4 x + 1
+2
+−
+−
+21 The graph of a linear function passes through the points .
+Which equation represents the function?
+A
+B
+C
+D
+22 The area of a piece of land is 4,951,000 square meters. How is this number of square meters
+written in scientific notation?
+F 4.951 × 106
+G 4.951 × 10−6
+H 4,951 × 103
+−
+J 4,951 × 10 3
+Mathematics
+Page 21
+23 The dimensions of a rectangular prism are shown in the diagram.
+8 in.
+10 in.
+16 in.
+What is the total surface area in square inches of the prism?
+Record your answer and fill in the bubbles on your answer document. Be sure to use the
+correct place value.
+Mathematics
+Page 22
+24 At a restaurant 600 customers were served during a 10-hour period of time. Which graph has
+a slope that best represents the number of customers that were served per hour at this
+restaurant?
+Customers
+y
+540
+480
+Number of Customers
+420
+360
+300
+240
+180
+120
+60
+x
+0 1 2 3 4 5 6 7
+Time (hours)
+Customers
+y
+400
+700
+Number of Customers
+600
+500
+300
+200
+100
+x
+0 1 2 3 4 5 6 7
+Time (hours)
+H
+Number of Customers
+Customers
+y
+1 2 3 4 5 6 7
+70
+60
+50
+40
+30
+20
+10
+x
+0
+Time (hours)
+Number of Customers
+Customers
+y
+Time (hours)
+540
+480
+420
+360
+300
+240
+180
+120
+60
+x
+0 1 2 3 4 5 6 7
+F
+G J
+Mathematics
+Page 23
+25 Ben deposits $1,750 into each of two savings accounts.
+• Account I earns 2.75% annual simple interest.
+• Account II earns 2.75% interest compounded annually.
+Ben does not make any additional deposits or withdrawals. Which amount is closest to the
+difference between the interest Ben will earn in Account I and the interest Ben will earn in
+Account II at the end of 2 years?
+A $96.25
+B $1.32
+C $97.57
+D $193.82
+Mathematics
+Page 24
+y
+9
+8
+7
+6 5
+5
+(0, )
+4
+3
+2
+1
+− 9 − 8 − 7 − 6 − 5 − 4 − 3 − 2 − 1− 1 1 2 3 4 5 6 7 8 9
+− 2
+− 3 (8, −2)
+− 4
+− 5
+− 6
+− 7
+− 8
+− 9
+x
+−
+−
+26 A linear function is represented on the coordinate grid.
+What is the y-intercept of the graph of this function?
+F 5
+G 6
+H 7
+− 8
+J 8
+− 7
+Mathematics
+Page 25
+27 In each diagram, line g is parallel to line k, and line t intersects lines g and k.
+g
+k
+t t
+61°
+61°
+g
+k
+123°
+123°
+42°
+x°
+136°
+g g
+42° k k
+t t
+Based on the diagrams, which statement about x is true?
+A The value of x is 180, because the labeled angles in each diagram are supplementary and
+the sum of the measures of supplementary angles is 180 degrees.
+B The value of x is 90, because the labeled angles in each diagram are complementary and
+the sum of the measures of complementary angles is 90 degrees.
+C The value of x is 44, because the sum of the measures of the labeled angles in each
+diagram is 180 degrees.
+D The value of x is 136, because the labeled angles in each diagram are congruent.
+Mathematics
+Page 26
+(4x − 2) yd
+2x yd
+2(x + 7) yd
+2.5x yd
+−
+28 The side lengths in yards of a triangle and a square are shown in the diagram.
+The perimeter of the triangle is equal to the perimeter of the square. What is the value of x?
+F −4
+G 2
+3
+H 6
+J 5
+2
+Mathematics
+Page 27
+29 A teacher opened an investment account at a bank. At the end of each year, the bank paid
+6.4% annual simple interest on the money in the account. The table shows the activity in the
+account for three years.
+Investment Account Activity
+Year
+Beginning
+Balance for
+Year
+Amount
+Deposited at
+Beginning of
+Year
+New
+Balance
+Interest
+Rate
+Interest
+Earned
+Ending
+Balance for
+Year
+1 $0.00 $500.00 $500.00 6.4% $32.00 $532.00
+2 $532.00 $500.00 $1,032.00 6.4% $66.05 $1,098.05
+3 $1,098.05 $500.00 $1,598.05 6.4% $102.28 $1,700.33
+Which statement explains why the balance in this account has grown?
+A The balance in the account has grown only because regular deposits were made to the
+account.
+B The balance in the account has grown because regular deposits were made to the account
+and interest was earned on the previous year’s balance.
+C The balance in the account has grown only because interest was earned on the account.
+D There is not enough information to determine why the balance in the account has grown.
+Mathematics
+Page 28
+− −( , ) → (−x,x y −y)30 A figure was transformed on a coordinate grid using the rule . Which of the
+following describes this transformation?
+F A reflection across the x-axis
+G A reflection across the y-axis
+H A 90° clockwise rotation about the origin
+J A 180° clockwise rotation about the origin
+31 A survey of customers at a restaurant revealed that 7 out of 10 customers preferred the
+restaurant’s new spaghetti sauce. Which graph shows the relationship between y, the number
+of customers who preferred the new spaghetti sauce, and x, the total number of customers?
+New Spaghetti Sauce
+y
+35
+63
+Customers Who
+Preferred New Sauce
+56
+49
+42
+28
+21
+14
+7
+x
+0 10 20 30 40
+Total Number of Customers
+New Spaghetti Sauce
+y
+63
+Customers Who
+Preferred New Sauce
+56
+49
+42
+35
+28
+21
+14
+7
+x
+0 10 20 30 40
+Total Number of Customers
+CA
+B
+Customers Who
+Preferred New Sauce
+New Spaghetti Sauce
+y
+25
+x
+0 14 28 42 56
+Total Number of Customers
+45
+40
+35
+30
+20
+15
+10
+5
+Customers Who
+Preferred New Sauce
+New Spaghetti Sauce
+y
+x
+0 14 28 42 56
+Total Number of Customers
+45
+40
+35
+30
+25
+20
+15
+10
+5
+D
+Mathematics
+Page 29
+− − 19
+38 , −6.35 , 63%, − 3
+− − 19
+−6.35 , − , 63%, 38
+3
+− −
+19
+63%, 38 , − , −6.35
+3
+− − 19
+−6.35 , − , 38 , 63%
+3
+− −
+19
+− , −6.35 , 63%, 38
+3
+32 Triangle ABC and triangle DEF are similar.
+B
+E
+6 in. 4 in.
+A C D F
+7 in. x in.
+Which proportion must be true?
+7 4
+=
+x 6
+F
+4 x
+=
+6 7
+G
+6 x
+=
+4 7
+H
+4 7
+=
+x 6
+J
+33 Which list shows these numbers in order from least to greatest?
+A
+B
+C
+D
+Mathematics
+Page 30
+A 9x − 16 units B
+1.5x + 42 units
+CD
+y
+9
+8
+7
+6
+5
+4
+3
+2 (6, 1)
+1
+− 9 − 8 − 7 − 6 − 5 − 4 − 3 − 2 − 1
+− 1 1 2 3 4 5 6 7 8 9
+− 2
+− 3
+− 4
+− 5
+−6 −5 − 6( , ) − 7
+− 8
+− 9
+x
+34 The graph of a linear function is shown on the coordinate grid.
+What is the slope of the graph of this function in decimal form?
+Record your answer and fill in the bubbles on your answer document. Be sure to use the
+correct place value.
+35 Rectangle ABCD is shown with the dimensions given in units.
+The length of AB is greater than the length of AD. Which inequality represents this situation?
+A 9x −− 16 < 1.5x + 42
+B 9x −− 16 > 1.5x + 42
+C 10.5x < 26
+D 10.5x > 26
+Mathematics
+Page 31
+y
+7
+6 X
+5
+4
+3
+2
+1
+− 7
+Y 7− 6 − 5 − 4 − 3 − 2 − 1
+− 1
+1 2 3 4 5 6
+− 2
+− 3
+− 4
+− 5
+− 6
+− 7
+x
+36 The coordinate grid shows XY .
+Which measurement is closest to the length of XY in units?
+F 7.8 units
+G 16.0 units
+H 13.0 units
+J 11.7 units
+Mathematics
+Page 32
+y
+9
+8
+7
+6
+5
+4
+3
+2
+1
+− 9 − 8 − 7 − 6 − 5 − 4 − 3 − 2 − 1− 1 1 2 3 4 5 6 7 8 9
+− 2
+− 3
+− 4
+− 5
+− 6
+− 7
+− 8
+− 9
+x
+37 The graph shows a relationship between x and y.
+Which statement is true?
+A The graph shows a non-proportional relationship because the graph has a negative slope.
+B The graph shows a non-proportional relationship because the graph does not contain the
+origin.
+C The graph shows a proportional relationship because the x and y intercepts both
+contain 7.
+D The graph shows a proportional relationship because the graph passes through 3 different
+quadrants.
+Mathematics
+Page 33
+38 The diagram represents a ramp in the shape of a right triangle and the lengths of two of its
+sides in feet.
+11 ft Ramp
+60 ft
+What is the length of the ramp in feet?
+Record your answer and fill in the bubbles on your answer document. Be sure to use the
+correct place value.
+Mathematics
+Page 34
+39 A student solved the equation x2 = 132 to find the length of the diagonal of a square in
+centimeters. Which measurement is closest to x, the length of the diagonal of this square, in
+centimeters?
+A 66 cm
+B 44 cm
+C 33 cm
+D 11 cm
+40 The table shows the dimensions of three cylinders.
+Cylinders
+Cylinder Radius (inches) Height (inches)
+W 3 9
+X 4 2
+Y 4.5 6
+Which two cylinders have the same lateral surface area in square inches?
+F Cylinders W and Y
+G Cylinders W and X
+H Cylinders X and Y
+J None of these
+Mathematics
+Page 35
+41 The scatterplot shows the low temperature and high temperature each day for a two-week
+period of time.
+Temperatures
+High Temperature (°F)
+y
+100
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+x
+0 71 72 73 74 75 76 77 78 79 80
+Low Temperature (°F)
+Based on the scatterplot, which is the best prediction of the high temperature in degrees
+Fahrenheit on a day when the low temperature is 71 °F?
+A 92 °F
+B 101 °F
+C 88 °F
+D 100 °F
+Mathematics
+Page 36
+45
+Cost of Pencils
+y
+40
+35
+Cost (cents)
+30
+25
+20
+15
+10
+5
+x
+0 1 2 3 4 5 6 7 8 9
+Number of Pencils
+42 The cost of 6 pencils at a store is 30 cents. Each pencil has the same cost.
+Which graph has a slope that best represents the cost of each pencil at this store?
+Cost of Pencils
+y
+45
+40
+35
+Cost (cents)
+30
+25
+20
+15
+10
+5
+x
+0 1 2 3 4 5 6 7 8 9
+Number of Pencils
+Cost (cents)
+Cost of Pencils
+y
+10
+5
+x
+0 1 2 3 4 5 6 7 8 9
+Number of Pencils
+25
+45
+40
+35
+30
+20
+15
+Cost (cents)
+Cost of Pencils
+y
+10
+5
+x
+0 1 2 3 4 5 6 7 8 9
+Number of Pencils
+45
+40
+35
+30
+25
+20
+15
+F H
+JG
+BE SURE YOU HAVE RECORDED ALL OF YOUR ANSWERS
+Mathematics
+Page 37 ON THE ANSWER DOCUMENT. STOP
+
+
+STAAR
+GRADE 8
+Mathematics
+April 2021

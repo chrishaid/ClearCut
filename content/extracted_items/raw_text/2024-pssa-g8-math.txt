@@ -1,0 +1,1382 @@
+The Pennsylvania System
+of School Assessment
+Mathematics
+Item and Scoring Sampler
+2024–2025
+Grade 8
+Pennsylvania Department of Education Bureau of Curriculum, Assessment and Instruction—August 2024
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 20242PSSA MATHEMATICS GRADE 8
+TABLE OF CONTENTS
+INFORMATION ABOUT MATHEMATICS 3
+Introduction 3
+General Introduction 3
+Pennsylvania Core Standards (P C S) 3
+What Is Included 3
+Purpose and Uses 4
+Item Format and Scoring Guidelines 4
+Item Alignment 4
+Testing Time and Mode of Test Delivery for the P S S A 5
+Mathematics Reporting Categories 5
+Item and Scoring Sampler Format 6
+General Description of Scoring Guidelines for Mathematics Open-Ended Questions 7
+Grade 8 Formula Sheet 8
+PSSA MATHEMATICS GRADE 8 9
+Mathematics Test Directions 9
+Multiple-Choice Items 10
+Open-Ended Item 42
+Item-Specific Scoring Guideline 44
+Mathematics—Summary Data 68
+3PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+INFORMATION ABOUT MATHEMATICS
+Introduction
+General Introduction
+The Pennsylvania Department of Education (P D E) provides districts and schools with tools to
+assist in delivering focused instructional programs aligned with the Pennsylvania Core Standards
+(P C S). These tools include Academic Standards, Assessment Anchors and Eligible Content (A A E C)
+documents, assessment handbooks, and content-based Item and Scoring Samplers. This Item and
+Scoring Sampler is a useful tool for Pennsylvania educators in preparing local instructional programs
+by providing samples of test item types and scored student responses. The Item and Scoring Sampler
+is not designed to be used as a pretest, a curriculum, or any other benchmark for operational testing.
+This Item and Scoring Sampler is available in Braille format. For more information regarding Braille,
+call (717) 901-2238.
+Pennsylvania Core Standards (P C S)
+This Item and Scoring Sampler contains examples of test questions designed to assess the
+Pennsylvania Assessment Anchors and Eligible Content aligned to the PCS. The Mathematics,
+Reading, and Writing PSSA transitioned to PCS-based operational Mathematics and English
+Language Arts assessments starting with the spring 2015 PSSA administration.
+The P C S-aligned Assessment Anchors and Eligible Content documents are posted on this portal:
+• www.education.pa.gov [Hover over “Data and Reporting,” select “Assessment and
+Accountability,” and select “P S S A-P A System of School Assessment.” Then select
+“Assessment Anchors/Eligible Content” on the right side of the screen.]
+What Is Included
+This Item and Scoring Sampler contains test questions, or test “items,” that have been written to align
+to the Assessment Anchors that are based on the P C S. The sample test questions model the types
+of items that may appear on an operational P S S A. Each sample test question has been through a
+rigorous review process to ensure alignment with the Assessment Anchors prior to being piloted in an
+embedded field test within a P S S A assessment and then used operationally on a P S S A assessment.
+Answer keys, scoring guidelines, and any related stimulus material are also included. Additionally,
+sample student responses are provided with each open-ended (O E) item to demonstrate the range of
+responses that students provided in response to these items.
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 20244PSSA MATHEMATICS GRADE 8
+Purpose and Uses
+The items in this Item and Scoring Sampler may be used1 as examples for creating assessment
+items at the classroom level. Classroom teachers may find it beneficial to have students respond to
+the open-ended item in this Item and Scoring Sampler. Educators may then use the Item and Scoring
+Sampler as a guide to score the responses either independently or together with colleagues within
+a school or district. This Item and Scoring Sampler also includes the General Description of Scoring
+Guidelines for Mathematics Open-Ended Questions that students will have access to during a P S S A
+mathematics administration. The general description of scoring guidelines may be distributed to
+students for use during local assessments and may also be used by educators when scoring local
+assessments.
+Item Format and Scoring Guidelines
+The multiple-choice (M C) items have four answer choices. Each correct response to an MC item is
+worth one point.
+Each O E item in mathematics is scored using an item-specific scoring guideline based on a 0–4-point
+scale. In this Item and Scoring Sampler, every item-specific scoring guideline is combined with
+examples of student responses that represent each score point to form a practical, item-specific
+scoring guide.
+Item Alignment
+All P S S A items are aligned to statements and specifications included in the Assessment Anchors
+and Eligible Content Aligned to the Pennsylvania Core Standards. The mathematics content, process
+skills, directives, and action statements included in the P S S A mathematics questions align with the
+Assessment Anchor Content Standards. The Eligible Content statements represent the limits of the
+content of the mathematics questions.
+1 The permission to copy and/or use these materials does not extend to commercial purposes.
+5PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+Testing Time and Mode of Test Delivery for the P S S A
+The P S S A is delivered in a traditional paper-and-pencil format as well as in an online format. The
+estimated time to respond to a test question is the same for both methods of test delivery. The
+estimated response time for each item type is listed below.
+• Multiple-Choice: 2 minutes
+• Open-Ended: 10 to 15 minutes
+During an official test administration, students are given as much additional time as is necessary to
+complete the test questions.
+Mathematics Reporting Categories
+The Assessment Anchors are organized into four classifications as listed below.
+• A = Numbers and Operations
+• B = Algebraic Concepts
+• C = Geometry
+• D = Data Analysis and Probability
+These four classifications are used throughout the grade levels. In addition to these classifications,
+there are five Reporting Categories for each grade level. The first letter of each Reporting Category
+represents the classification; the second letter represents the Domain as stated in the Common Core
+State Standards for Mathematics. Listed below are the Reporting Categories for Grade 8.
+• A–N = The Number System
+• B–E = Expressions and Equations
+• B–F = Functions
+• C–G = Geometry
+• D–S = Statistics and Probability
+Examples of M C and O E items assessing these categories are included in this Item and Scoring
+Sampler.
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 20246PSSA MATHEMATICS GRADE 8
+Item and Scoring Sampler Format
+This Item and Scoring Sampler includes the test directions and scoring guidelines that appear in
+the P S S A Mathematics assessments. Each MC item is followed by a table that includes the item
+alignment, the answer key, the depth of knowledge (D O K) level, the percentage2 of students who
+chose each answer option, and a brief answer-option analysis or rationale. The OE item is followed
+by a table that includes the item alignment, the D O K level, and the mean student score. Additionally,
+each of the included item-specific scoring guidelines is combined with sample student responses
+representing each score point to form a practical item-specific scoring guide. The General Description
+of Scoring Guidelines for Mathematics Open-Ended Questions used to develop the item-specific
+scoring guidelines should be used if any additional item-specific scoring guidelines are created for
+use within local instructional programs. The student responses in this Item and Scoring Sampler
+are actual student responses; however, the handwriting has been changed to protect the students’
+identities and to make the Item and Scoring Sampler accessible to as many people as possible.
+Example Multiple-Choice Item Information Table
+Category Item-Specific Information
+Alignment Assigned A A E C
+Answer Key Correct Answer
+Depth of Knowledge Assigned D O K
+p-value A Percentage of students who selected option A
+p-value B Percentage of students who selected option B
+p-value C Percentage of students who selected option C
+p-value D Percentage of students who selected option D
+Option Annotations Brief answer-option analysis or rationale
+Example Open-Ended Item Information Table
+Category Item-Specific Information
+Alignment Assigned A A E C
+Depth of Knowledge Assigned D O K
+Mean Score Average Score
+2 All p-value percentages listed in the item information tables have been rounded.
+7PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+General Description of Scoring Guidelines for Mathematics
+Open-Ended Questions
+4 –The response demonstrates a thorough understanding of the mathematical concepts and
+procedures required by the task.
+The response provides correct answer(s) with clear and complete mathematical procedures
+shown and a correct explanation, as required by the task. Response may contain a minor
+“blemish” or omission in work or explanation that does not detract from demonstrating a thorough
+understanding.
+3 –The response demonstrates a general understanding of the mathematical concepts and
+procedures required by the task.
+The response and explanation (as required by the task) are mostly complete and correct. The
+response may have minor errors or omissions that do not detract from demonstrating a general
+understanding.
+2 –The response demonstrates a partial understanding of the mathematical concepts and
+procedures required by the task.
+The response is somewhat correct with partial understanding of the required mathematical
+concepts and/or procedures demonstrated and/or explained. The response may contain some
+work that is incomplete or unclear.
+1 –The response demonstrates a minimal understanding of the mathematical concepts and
+procedures required by the task.
+0 –The response has no correct answer and insufficient evidence to demonstrate any
+understanding of the mathematical concepts and procedures required by the task for that
+grade level.
+Response may show only information copied from the question.
+Special Categories within zero reported separately:
+B L K (blank) Blank, entirely erased, or written refusal to respond
+O T Off task
+L O E Response in a language other than English
+I L Illegible
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 20248PSSA MATHEMATICS GRADE 8
+Formulas that you may need on this test are found below.
+You may refer back to this page at any time during the mathematics test.
+You may use calculator π or the number 3.14 as an approximation of π.
+2024
+Grade 8
+Exponential Properties
+a m • an = am + n
+(a m)n = am • n
+= am – na m
+a n
+1
+a – n
+a n
+=
+Algebraic Equations
+Slope: m = 2 1
+2 1
+y y
+x x
+–
+–
+Slope-Intercept Form: y = mx + b
+1y 1xPoint-Slope Form: y – = m(x – )
+Standard Form: Ax + By = C
+Pythagorean Theorem
+Cone
+Cylinder
+Sphere
+Distance Formula
+d = 2 2
+2 1 2 1( ) ( )x x y y– –+
+Grade 8 Formula Sheet
+9PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+PSSA MATHEMATICS GRADE 8
+Mathematics Test Directions
+On the following pages are the mathematics questions.
+• You may not use a calculator for question 1. You may use a calculator for all other
+questions on this test.
+Directions for Multiple-Choice Questions
+Some questions will ask you to select an answer from among four choices.
+For the multiple-choice questions:
+• First solve the problem on scratch paper.
+• Choose the correct answer and record your choice in the booklet.
+• If none of the choices matches your answer, go back and check your work for
+possible errors.
+• Only one of the answers provided is the correct response.
+Directions for Open-Ended Questions
+Some questions will require you to write your response.
+For the open-ended questions:
+• These questions have more than one part. Be sure to read the directions carefully.
+• You cannot receive the highest score for an open-ended question without completing all
+tasks in the question. For example,
+◦ if the question asks you to show your work or explain your reasoning, be sure to
+show your work or explain your reasoning in the space provided.
+◦ if the question asks you to explain, be sure to use words to explain your reasoning in
+the space provided.
+• If the question does not ask you to show your work or explain your reasoning, you
+may use the space provided, but only those parts of your response that the question
+specifically asks for will be scored.
+• Write your response in the appropriate location within the response box in the
+answer booklet. Some answers may require graphing, plotting, labeling, drawing, or
+shading. If you use scratch paper, be sure to transfer your final response and any needed
+work or reasoning to the answer booklet.
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202410PSSA MATHEMATICS GRADE 8
+Question 1 in this Item and Scoring Sampler is to be solved without the use of a calculator.
+Multiple-Choice Items
+1. The speed of sound is approximately 3 × 102 meters per second. The speed of light is
+approximately 3 × 108 meters per second. The speed of light is approximately how many times
+as fast as the speed of sound?
+A.1,000,000
+B.3,000,000
+C.10,000,000,000
+D.30,000,000,000
+889568889568
+11PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+Category Item-Specific Information
+Alignment B-E.1.1.3
+Answer Key A
+Depth of Knowledge 1
+p-value A 42% (correct answer)
+p-value B 28%
+p-value C 15%
+p-value D 15%
+Option Annotations A. Correct: divides × 8
+3 10 by × 2
+3 10 by dividing the coefficients
+as 3
+3 = 1 and the powers of 10 as −
+= =
+8 8 2 6
+2
+10 10 10
+10 , which
+results in a quotient of × 6
+1 10 , and then converts the quotient
+to standard form by moving the decimal point in 1.0 to the right
+6 places
+B. divides the powers of 10 as −
+= =
+8 8 2 6
+2
+10 10 10
+10 but then uses
+the common coefficient (3), resulting in a quotient of × 6
+3 10 ,
+and then converts to standard form
+C. divides the coefficients as 3
+3 = 1 but then divides the powers
+of 10 by adding the exponents
+8 8 2 10
+2
+10 10 10
+10
++ 
+= =  
+ 
+, resulting
+in a quotient of × 10
+1 10 , and then converts to standard form
+D. uses the common coefficient (3) and divides the powers of 10
+by adding the exponents
+8 8 2 10
+2
+10 10 10
+10
++ 
+= =  
+ 
+, resulting in a
+quotient of × 10
+3 10 , and then converts to standard form
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202412PSSA MATHEMATICS GRADE 8
+A calculator is permitted for use in solving questions 2–17 in this Item and Scoring Sampler.
+2. Which pair has one rational number and one irrational number?
+A. 0 9
+B. 4 5
+C. 3 6
+D. 4 9
+735258735258
+13PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+Category Item-Specific Information
+Alignment A-N.1.1.1
+Answer Key B
+Depth of Knowledge 1
+p-value A 20%
+p-value B 57% (correct answer)
+p-value C 12%
+p-value D 11%
+Option Annotations A. considers 0 to be irrational (may have confused 0 with
+“dividing by 0”)
+B. Correct: recognizes that 4 is a rational number since 4
+simplifies to 2 because 4 = 2
+2 and recognizes that 5 is an
+irrational number since 5 cannot be simplified to a rational
+number because there is no whole number that when squared
+equals 5
+C. considers 6 to be rational by identifying 6 as a composite
+number but does not recognize that the prime factors of 6 are
+2 and 3 (i.e., 6 = 2 ⋅ 3), which means 6 cannot be simplified
+to a rational number since the prime factors do not have even
+exponents (2 and 3 have exponents of 1)
+D. does not recognize that 4 simplifies to 2 and that 9
+simplifies to 3, which makes both numbers rational
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202414PSSA MATHEMATICS GRADE 8
+3. To determine the width, in units, of a rectangle, Jamal uses a calculator to divide the area of the
+rectangle by its length. The result on the calculator is shown below.
+3.188888889
+Which value is most likely the exact width, in units, of the rectangle?
+A.3 17
+99
+B.3 17
+90
+C.3 19
+99
+D.3 18
+90
+975482975482
+15PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+Category Item-Specific Information
+Alignment A-N.1.1.2
+Answer Key B
+Depth of Knowledge 1
+p-value A 11%
+p-value B 54% (correct answer)
+p-value C 17%
+p-value D 18%
+Option Annotations A. begins with the fraction 18
+100 and then subtracts 1 from the
+numerator and from the denominator
+B. Correct: recognizes that 3.188888889 on a calculator
+represents the repeating decimal number 3.18 and then
+either represents 3.18 as 3 + 0.1 + 0.08 , converts 0.1 to 1
+10 ,
+and converts 0.08 as 0.08 = 0.1 ⋅ 0.8 = 1
+10 ⋅ 8
+9 = 8
+90 ,
+resulting in 3.18 = 3 + 0.1 + 0.08 = 3 + 1
+10 + 8
+90 =
+3 + 9
+90 + 8
+90 = 3 + 17
+90 = 17
+3 90 OR writes the equation
+x = 3.18 , 10 x = 31.88 , and 100 x = 318.88 , and subtracts
+10 x = 31.88 from 100 x = 318.88 , resulting in a difference of
+90 x = 287, and then solves for x by dividing both sides by 90,
+resulting in x = 287
+90 = 17
+3 90
+C. uses the non-repeating decimal digits (1 and 9) to create a
+fraction using 99 as the denominator
+D. uses the 18 as if it were the repeating decimal digits and uses
+90 rather than 99 as the denominator
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202416PSSA MATHEMATICS GRADE 8
+4. Which set of statements correctly describes how to compare the values of 5 7 and 7 5??
+A.
+B.
+C.
+D.
+816614816614
+17PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+Category Item-Specific Information
+Alignment A-N.1.1.4
+Answer Key D
+Depth of Knowledge 2
+p-value A 12%
+p-value B 12%
+p-value C 14%
+p-value D 62% (correct answer)
+Option Annotations A. calculates 5 7 as 5 ⋅ 7
+2 and 7 5 as ⋅7 5
+B. calculates 5 7 as 5 + 7 and 7 5 as ⋅7 5
+C. calculates 5 7 as 5 ⋅ 7 but then calculates 7 5 as 7 ⋅ 5
+2
+D. Correct: calculates 5 7 as 5 ⋅ 7 , resulting in the product
+13.22875 . . ., calculates 7 5 as 7 ⋅ 5 , resulting in the
+product 15.65247 . . ., and then uses these values to compare
+the two expressions
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202418PSSA MATHEMATICS GRADE 8
+5. A computer monitor uses square pixels to display an image. The expression shown below
+represents the approximate area, in square inches, of one pixel on the computer monitor.
+(1.04 × 10 2
+) 2
+What is the approximate area, in square inches, of one pixel on the computer monitor?
+A.1.0816 × 10 4
+B.1.0816 × 10 2
+C.1.0816 × 10 0
+D.1.0816 × 10 4
+974963974963
+19PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+Category Item-Specific Information
+Alignment B-E.1.1.4
+Answer Key A
+Depth of Knowledge 1
+p-value A 60% (correct answer)
+p-value B 12%
+p-value C 17%
+p-value D 11%
+Option Annotations A. Correct: recognizes that the expression ( )× 2
+–2
+1.04 10
+can be represented as ( )× –2
+1.04 10 ( )× –2
+1.04 10 =
+( )× 2
+2 –2
+1.04 10 , squares the 1.04, resulting in 1.0816, and
+then applies the exponential property ( ) ⋅
+=
+n
+m m n
+a a to simplify
+( )2
+–2
+10 as − ⋅2 2
+10 , resulting in −4
+10
+B. squares only the 1.04
+C. squares the 1.04 but adds the exponents when
+simplifying ( )2
+–2
+10
+D. squares the 1.04 but squares the exponent –
+2 when
+simplifying ( )2
+–2
+10
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202420PSSA MATHEMATICS GRADE 8
+6. A line on a coordinate grid is shown below.
+y
+x
+(b, –b)
+( –a, b)
+Which equation can be used to determine the slope (m) of the line?
+A.m =
+– a b
+– b b
+B.m =
+– b b
+– a b
+C.m = b – a
+– b b
+D.m =
+– b b
+b – a
+10511321051132
+21PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+Category Item-Specific Information
+Alignment B-E.2.1
+Answer Key D
+Depth of Knowledge 1
+p-value A 27%
+p-value B 17%
+p-value C 16%
+p-value D 40% (correct answer)
+Option Annotations A. uses the reciprocal of the slope and reverses the order of the
+difference in the numerator
+B. reverses the order of the difference in the denominator
+C. uses the reciprocal of the slope
+D. Correct: applies the slope formula m = 2 1
+2 1
+y y
+x x , using ( )− ,a b
+for ( )1 1,x y and ( )−
+,b b for ( )2 2,x y by substituting − b for 2y ,
+b for 1y , b for 2x , and − a for 1x
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202422PSSA MATHEMATICS GRADE 8
+7. Information about the costs of apples at an orchard is listed below.
+• The cost of apples is $1.00 per pound when picked by an employee.
+• The equation t = 0.85 n describes the relationship between the total cost (t), in dollars,
+and the number of pounds of apples (n) when picked by a customer.
+An employee and a customer both pick some apples. The employee and the customer each
+picked $34.00 worth of apples. How many more pounds of apples did the customer pick than the
+employee picked?
+A.5.1
+B.6.0
+C.40.0
+D.62.9
+714891714891
+23PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+Category Item-Specific Information
+Alignment B-E.2.1.1
+Answer Key B
+Depth of Knowledge 2
+p-value A 16%
+p-value B 45% (correct answer)
+p-value C 32%
+p-value D 7%
+Option Annotations A. determines that the employee picked 34 pounds of
+apples since the cost is $1.00 per pound of apples but
+then determines that the customer picked 28.9 pounds of
+apples by substituting 34.00 for n (rather than for t) into the
+equation t = 0.85 n, resulting in t = 0.85(34.00) = 28.90, and
+then finds the difference between the two amounts picked
+(34 − 28.9 = 5.1)
+B. Correct: determines that the employee picked 34 pounds
+of apples since the cost is $1.00 per pound of apples,
+determines that the customer picked 40 pounds of apples by
+substituting 34.00 for t into the equation t = 0.85 n, resulting in
+34.00 = 0.85 n, and dividing both sides of the equation by 0.85,
+resulting in 40 = n, and then finds the difference between the
+two amounts picked (40 − 34 = 6)
+C. substitutes 34.00 for t into the equation t = 0.85 n, resulting in
+34.00 = 0.85 n, and then solves the equation for n by dividing
+both sides of the equation by 0.85, resulting in 40 pounds
+of apples picked by the customer, but does not consider the
+pounds of apples picked by the employee
+D. adds the two costs, resulting in 1 + 0.85 = 1.85, and then
+multiplies the sum by 34.00
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202424PSSA MATHEMATICS GRADE 8
+8. Mr. Klavier rents out two different studio spaces to bands. The equations shown below represent
+the total cost (y), in dollars, to rent each studio for x hours.
+large studio: y = 80 x + 40
+small studio: y = 60 x + 60
+Based on the system of equations, which statement about the rental costs is correct?
+A.There is no length of time at which the rental cost for the large studio is equal to the rental
+cost for the small studio since the graph consists of two curves that never intersect.
+B.There is no length of time at which the rental cost for the large studio is equal to the rental
+cost for the small studio since the graph consists of two straight lines that never intersect.
+C.There is a length of time at which the rental cost for the large studio is equal to the rental
+cost for the small studio since the graph consists of two curves that intersect at two points.
+D.There is a length of time at which the rental cost for the large studio is equal to the rental
+cost for the small studio since the graph consists of two straight lines that intersect at a
+single point.
+815816815816
+25PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+Category Item-Specific Information
+Alignment B-E.3.1.3
+Answer Key D
+Depth of Knowledge 2
+p-value A 13%
+p-value B 23%
+p-value C 19%
+p-value D 45% (correct answer)
+Option Annotations A. recognizes that the equations are not equivalent because
+the y-intercepts are not equal (40 ≠ 60) but thinks that each
+equation can be represented by a curve rather than a line and
+that the curves are “parallel” since 80 + 40 = 60 + 60
+B. recognizes that each equation can be represented by a line
+and that the lines are not collinear since the y-intercepts are
+not equal (40 ≠ 60) but thinks that the lines are parallel since
+80 + 40 = 60 + 60
+C. thinks that each equation can be represented by a curve
+rather than a line, which would make two points of intersection
+possible
+D. Correct: recognizes that each equation can be represented
+by a line since 80 x and 60 x both represent constant rates
+of change (80 and 60 are the rates of change, and the x
+indicates the rate of change is constant because the exponent
+for the x variable is 1) and recognizes that the lines will have
+a single point of intersection since the rates of change are not
+equal (80 ≠ 60)
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202426PSSA MATHEMATICS GRADE 8
+9. The Rodriguez family buys 4 student tickets and 2 adult tickets to the school play for a total
+of $22. The Delgado family buys 2 student tickets and 3 adult tickets for a total of $21. What is
+the price of an adult ticket to the school play?
+A.$3
+B.$5
+C.$7
+D.$8
+903528903528
+27PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+Category Item-Specific Information
+Alignment B-E.3.1.5
+Answer Key B
+Depth of Knowledge 2
+p-value A 15%
+p-value B 58% (correct answer)
+p-value C 18%
+p-value D 9%
+Option Annotations A. solves the system of equations 4 x + 2 y = 22 and 2 x + 3 y = 21
+for x, resulting in x = 3, but misinterprets this solution as the
+price of an adult ticket rather than the price of a student ticket
+(i.e., did not define the variables x and y prior to writing the
+system of equations)
+B. Correct: writes the equation for the Rodriguez family as
+4 s + 2 a = 22, writes the equation for the Delgado family as
+2 s + 3 a = 21, and then solves the system of two equations
+either by multiplying both sides of the second equation by 2,
+resulting in 4 s + 6 a = 42, subtracting the first equation from
+the second equation, resulting in 4 a = 20, and then dividing
+each side of the equation by 4, resulting in a = 5 OR by
+multiplying both sides of the first equation by 1
+2 , resulting in
+2 s + 1 a = 11, subtracting the first equation from the second
+equation, resulting in 2 a = 10, and then dividing each side of
+the equation by 2, resulting in a = 5
+C. writes the system of equations as 4 s + 2 a = 22 and
+2 s + 3 a = 21, multiplies both sides of the second equation by
+2, resulting in 4 s + 6 a = 42, but then eliminates the 4 s terms
+and uses only the remaining part of the second equation,
+resulting in 6 a = 42, and then divides each side of the
+equation by 6, resulting in a = 7
+D. writes the system of equations as 4 s + 2 a = 22 and
+2 s + 3 a = 21, multiplies both sides of the second equation
+by 2, resulting in 4 s + 6 a = 42, but then combines the
+two equations by eliminating the 4 s terms and adding the
+remaining terms of the equations, resulting in 8 a = 64, and
+then divides each side of the equation by 8, resulting in a = 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202428PSSA MATHEMATICS GRADE 8
+10. A relation is shown on the graph below.
+–6–8 –4 –2
+–2
+–4
+–6
+–8
+8
+6
+4
+2
+2 4 6 8
+y
+x
+Which statement explains why this relation is not a function?
+A.At x = –
+2, the relation has two closed points.
+B.Between x = –
+2 and x = 1, the relation is not a straight line.
+C.At x = 1, the relation has a closed point and an open point.
+D.Between x = 3 and x = 4, the relation has no values.
+974974974974
+29PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+Category Item-Specific Information
+Alignment B-F.1.1.1
+Answer Key A
+Depth of Knowledge 1
+p-value A 31% (correct answer)
+p-value B 30%
+p-value C 21%
+p-value D 18%
+Option Annotations A. Correct: either recognizes that a relation cannot be a function
+if there are two or more distinct y-values for any given x-value
+and that the two closed points at x = –
+2 represent two distinct
+y-values (2 and –
+4) OR uses the vertical line test and identifies
+two distinct points for the vertical line at x = –
+2, resulting in a
+failure of the vertical line test
+B. considers that functions can be represented only by straight
+lines and notices that the relation is represented by a curved
+segment between x = –
+2 and x = 1
+C. recognizes that a relation cannot be a function if there are
+two or more distinct y-values for any given x-value but does
+not realize that the open point at (1, 6) does not represent an
+actual value for x = 1 and that the open point only indicates
+that the line segment extends to the right of (1, 6)
+D. considers that functions must be continuous for all x-values
+and notices a gap in the relation between x = 3 and x = 4
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202430PSSA MATHEMATICS GRADE 8
+11. Which equation is a linear function?
+A.y = 65
+1.2x
+B.y = 1.2
+x + 65
+C.y = 65 + 1.2x
+D.y = 1.2x2 + 65
+902465902465
+31PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+Category Item-Specific Information
+Alignment B-F.1.1.3
+Answer Key C
+Depth of Knowledge 2
+p-value A 15%
+p-value B 15%
+p-value C 50% (correct answer)
+p-value D 20%
+Option Annotations A. considers any equation with no y-intercept to represent a
+proportional relationship and is therefore a linear function
+B. selects an equation that appears to be in the form y = m x + b
+but does not consider that the x-variable is in the denominator
+C. Correct: recognizes that the equation can be written in the
+form y = m x + b, with m = 1.2 and b = 65
+D. selects an equation that appears to be in the form y = m x + b
+but does not consider the exponent of the x-variable
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202432PSSA MATHEMATICS GRADE 8
+12. A library charges a flat fee of $0.50 for keeping a book past its due date. The library also
+charges $0.15 for each day the book is overdue. The table shown below represents some of the
+library’s fees.
+Library Overdue Fees
+Days
+Overdue Total Fee
+1 $0.65
+2 ?
+3 $0.95
+What is the total fee when a library book is 2 days overdue?
+A.$0.70
+B.$0.75
+C.$0.80
+D.$0.90
+969276969276
+33PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+Category Item-Specific Information
+Alignment B-F.2.1
+Answer Key C
+Depth of Knowledge 2
+p-value A 4%
+p-value B 14%
+p-value C 79% (correct answer)
+p-value D 3%
+Option Annotations A. uses $0.05 rather than $0.15 and adds $0.05 to the 1-day
+overdue fee ($0.65)
+B. adds $0.10 to the 1-day overdue fee ($0.65) since the change
+in the number of days was 1
+C. Correct: uses the description “charges a flat fee of $0.50 . . .
+[and] $0.15 for each day” to write the equation
+y = 0.50 + 0.15 x and then substitutes 2 for x into the equation,
+resulting in y = 0.50 + ( )0.15 2 = 0.50 + 0.30 = 0.80 OR uses
+the table and finds the midpoint between $0.65 and $0.95
+($0.65 + $0.95 = $1.60, $1.60 ÷ 2 = $0.80) since 2 days
+overdue is the midpoint between 1 day overdue and 3 days
+overdue OR uses the description “charges $0.15 for each day”
+along with the table and adds $0.15 to the 1-day overdue fee
+($0.65)
+D. uses $0.05 rather than $0.15 and subtracts $0.05 from the
+3-day overdue fee ($0.95)
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202434PSSA MATHEMATICS GRADE 8
+13. A science experiment requires students to find the mass of a bucket with different numbers
+of pennies in it. The table below shows the total masses, in grams, of the bucket with different
+numbers of pennies in the bucket.
+Penny Experiment
+Number
+of Pennies
+Total Mass
+(grams)
+1 252.5
+3 257.5
+4 260
+6 265
+9 272.5
+Which equation represents the relationship between the total mass (y), in grams, of the bucket
+and the number of pennies (x) in the bucket?
+A.y = 2.5 x
+B.y = 2.5 x + 250
+C.y = 250 x
+D.y = 250 x + 2.5
+965858965858
+35PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+Category Item-Specific Information
+Alignment B-F.2.1.1
+Answer Key B
+Depth of Knowledge 2
+p-value A 18%
+p-value B 54% (correct answer)
+p-value C 11%
+p-value D 17%
+Option Annotations A. calculates the rate of change by using the change in
+total mass for any two rows divided by the change
+in the number of pennies for the same two rows
+257.5 252.5 5
+e.g., 2.5
+3 1 2
+− 
+= = − 
+but does not include
+the y-intercept
+B. Correct: calculates the rate of change by using the
+change in total mass for any two rows divided by the
+change in the number of pennies for the same two rows
+260 257.5 2.5
+e.g., 2.5
+4 3 1
+− 
+= = −  and then determines the
+y-intercept by subtracting the rate of change from the total
+mass for 1 penny (252.5 − 2.5 = 250)
+C. uses the y-intercept as the rate of change and does not
+include a y-intercept
+D. switches the y-intercept and rate of change
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202436PSSA MATHEMATICS GRADE 8
+14. Trapezoid P Q R S and trapezoid T U V W are graphed on the coordinate grid shown below.
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+10 2 3 4 65 7 8 9 10
+y
+x
+S
+W
+T
+V
+U
+R
+P
+Q
+Which series of two transformations can be used to map trapezoid P Q R S onto trapezoid T U V W?
+A.a rotation of 180° centered at (4, 4)
+a dilation with a scale factor of 2 centered at (5, 4)
+B.a rotation of 180° centered at (4, 4)
+a dilation with a scale factor of 2 centered at the origin
+C.a rotation of 180° centered at the origin
+a dilation with a scale factor of 2 centered at (5, 4)
+D.a rotation of 180° centered at the origin
+a dilation with a scale factor of 2 centered at the origin
+894655894655
+37PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+Category Item-Specific Information
+Alignment C-G.1.1.4
+Answer Key A
+Depth of Knowledge 2
+p-value A 41% (correct answer)
+p-value B 20%
+p-value C 25%
+p-value D 14%
+Option Annotations A. Correct: recognizes that to orient trapezoid P Q R S in the same
+direction as trapezoid T U V W, a rotation of 180° must occur
+and that the rotation should be centered at ( )4, 4 to move
+point S from ( )3, 4 to ( )5, 4 , which is the location of point W,
+and this would result in point P rotating from ( )3, 1 to ( )5, 7 ,
+point Q rotating from ( )1, 2 to ( )7, 6 , and point R rotating from
+( )1, 4 to ( )7, 4 , and then recognizes that, to increase the size
+of trapezoid P Q R S to match the size of trapezoid T U V W, a
+dilation with a scale factor of 2 must occur and that the dilation
+should be centered at ( )5, 4 to keep the rotated point S on
+point W, and this would result in moving the rotated point P
+from ( )5, 7 to ( )5, 10 , which is the location of point T, moving
+the rotated point Q from ( )7, 6 to ( )9, 8 , which is the location
+of point U, and moving the rotated point R from ( )7, 4 to ( )9, 4 ,
+which is the location of point V
+B. considers that all dilations must be centered at the origin
+C. considers that all rotations must be centered at the origin
+D. considers that all rotations and all dilations must be centered
+at the origin
+Note: On future assessments, centers of dilation will be limited to
+the origin and centers of rotation will be limited to the origin or a
+vertex on the original figure.
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202438PSSA MATHEMATICS GRADE 8
+15. The lengths of the two legs of a right triangle are 4 centimeters and 8 centimeters. The length (h),
+in centimeters, of the hypotenuse of the right triangle can be determined using the equation
+shown below.
+4 2 + 82 = h2
+What is the length, in centimeters, of the hypotenuse of the right triangle?
+A. 12
+B. 32
+C. 40
+D. 80
+969282969282
+39PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+Category Item-Specific Information
+Alignment C-G.2.1.2
+Answer Key D
+Depth of Knowledge 1
+p-value A 11%
+p-value B 11%
+p-value C 9%
+p-value D 69% (correct answer)
+Option Annotations A. adds 4 and 8 without applying the exponents, resulting in the
+equation 12 = 2
+h , and then takes the square root of both sides
+of the equation to remove the exponent of 2 from 2
+h
+B. multiplies 4 and 8 without applying the exponents, resulting in
+the equation 32 = 2
+h , and then takes the square root of both
+sides of the equation to remove the exponent of 2 from h
+C. determines that 2
+4 = 16 and 2
+8 = 64, adds 16 and 64,
+resulting in the equation 80 = 2
+h , but then divides 80 by 2
+before taking the square root of both sides of the equation to
+remove the exponent of 2 from 2
+h
+D. Correct: determines that 2
+4 = 16 and 2
+8 = 64, adds 16
+and 64, resulting in the equation 80 = 2
+h , and then takes
+the square root of both sides of the equation to remove the
+exponent of 2 from 2
+h
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202440PSSA MATHEMATICS GRADE 8
+16. An artist has a piece of wood in the shape of a cylinder. It has a height of 36 inches and
+a diameter of 8 inches. The artist cuts the piece of wood into 6 equal-sized pieces. Which
+measurement is closest to the volume of each piece?
+A.201 cubic inches
+B.301 cubic inches
+C.1,206 cubic inches
+D.1,356 cubic inches
+10625961062596
+41PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+Category Item-Specific Information
+Alignment C-G.3.1.1
+Answer Key B
+Depth of Knowledge 2
+p-value A 15%
+p-value B 58% (correct answer)
+p-value C 16%
+p-value D 11%
+Option Annotations A. divides the diameter by 6 rather than 2, resulting in a quotient
+of 4
+3 , and applies the volume formula for a cylinder as
+V = π ⋅  
+ 
+ 
+2
+4
+3 ⋅ 36 = 64 π, which can be approximated using
+64 ⋅ 3.14 = 200.96
+B. Correct: divides the diameter (8) by 2 to determine the
+radius, resulting in a radius of 4, applies the volume formula
+for a cylinder (V = π 2
+r h), using r = 4 and h = 36 to write the
+equation V = π ⋅ 2
+4 ⋅ 36, which can be simplified as
+V = π ⋅ 16 ⋅ 36 = 576 π, and then divides the volume by 6,
+resulting in a quotient of 96 π, which can be approximated
+using 96 ⋅ 3.14 = 301.44
+C. uses 2
+d rather than 2
+r to apply the volume formula for a
+cylinder as V = π ⋅ ( )2
+8 ⋅ 36 = 2,304 π, and then divides the
+volume by 6, resulting in a quotient of 384 π, which can be
+approximated using 384 ⋅ 3.14 = 1,205.76
+D. uses  
+ 
+ 
+2
+2
+h ⋅ d rather than  
+ 
+ 
+2
+2
+d ⋅ h to apply the
+volume formula for a cylinder as V = π ⋅  
+ 
+ 
+2
+36
+2 ⋅ 8 = 2,592 π,
+and then divides the volume by 6, resulting in a quotient of
+432 π, which can be approximated using 432 ⋅ 3.14 = 1,356.48
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202442PSSA MATHEMATICS GRADE 8
+Open-Ended Item
+17. A quiz competition was held for grade 7 and grade 8 students. In the first round, each
+of the 150 contestants was given a quiz. Contestants advanced to the second round if
+they answered enough questions correctly. The tables below show some information
+about the 150 contestants in the competition as well as some information about the
+grade 8 students who competed.
+Quiz Competition Contestants
+No Data Grade 7 Grade 8
+Advanced to Second Round 44 44
+Did Not Advance to Second Round 33 29
+Grade 8 Quiz Competition Contestants
+No Data Male Female
+Advanced to Second Round 20 24
+Did Not Advance to Second Round ? 12
+A. How many grade 8 male students did not advance to the second round?
+A grade 8 female student who competed is randomly selected.
+B. What is the probability that the randomly selected student advanced to the
+second round?
+Go to the next page to finish question 17. GO ON
+43PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+17. Continued. Please refer to the previous page for task explanation.
+One of the 150 students who competed is randomly selected.
+C. Explain why the randomly selected student most likely advanced to the
+second round.
+D. Explain why a grade 7 student is less likely to have advanced to the second
+round than a grade 8 student even though the same number of grade 7
+students advanced to the second round as grade 8 students.
+After you have finished your work, close this booklet so your
+teacher will know you are finished.
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202444PSSA MATHEMATICS GRADE 8
+Item-Specific Scoring Guideline
+#17 Item Information
+Category Item-Specific Information
+Alignment D-S.1.2.1
+Depth of Knowledge 2
+Mean Score 1.45
+Assessment Anchor this item will be reported under:
+M08.D-S.1 Investigate patterns of association in bivariate data.
+Specific Anchor Descriptor addressed by this item:
+M08.D-S.1.2 Understand that patterns of association can be seen in bivariate categorical data by
+displaying frequencies and relative frequencies in a two-way table.
+Item-Specific Scoring Guideline
+Score In this item, the student . . .
+4 Demonstrates a thorough understanding of how to investigate patterns of association in
+bivariate data by correctly solving problems and clearly explaining procedures.
+3
+Demonstrates a general understanding of how to investigate patterns of association in
+bivariate data by correctly solving problems and clearly explaining procedures with only
+minor errors or omissions.
+2 Demonstrates a partial understanding of how to investigate patterns of association in
+bivariate data by correctly performing a significant portion of the required task.
+1 Demonstrates minimal understanding of how to investigate patterns of association in
+bivariate data.
+0
+The response has no correct answer and insufficient evidence to demonstrate any
+understanding of the mathematical concepts and procedures as required by the task.
+Response may show only information copied from the question.
+45PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+Top-Scoring Student Response and Training Notes
+Score Description
+4 Student earns 4 points.
+3 Student earns 3.0–3.5 points.
+2 Student earns 2.0–2.5 points.
+1
+Student earns 0.5–1.5 points.
+OR
+Student demonstrates minimal understanding of how to investigate patterns of association
+in bivariate data.
+0 Response is incorrect or contains some correct work that is irrelevant to the skill or
+concept being measured.
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202446PSSA MATHEMATICS GRADE 8
+Top-Scoring Response
+Part A (1 point):
+1 point for correct answer
+What?
+17 (male students)
+Part B (1 point):
+1 point for correct answer
+What?
+24 / 36 OR 2 / 3
+OR equivalent
+Part C (1 point):
+1 point for correct and complete explanation
+OR 1 / 2 point for correct but incomplete explanation
+Why?
+Sample Explanation:
+The student most likely advanced to the second round because more than half the
+students who competed advanced to the second round (88 out of 150).
+OR equivalent
+47PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+Part D (1 point):
+1 point for correct and complete explanation
+OR 1 / 2 point for correct but incomplete explanation
+Why?
+Sample Explanations:
+Even though the same number of grade 7 students advanced to the second round as
+grade 8 students, a grade 7 student is less likely to advance to the second round than
+a grade 8 student because more grade 7 students participated in the competition than
+grade 8 students.
+OR
+The probability a grade 7 student advanced to the second round is 44 / 77. The probability
+a grade 8 student advanced to the second round is 44 / 73. Since 44 / 77 is less than 44 / 73,
+a grade 7 student is less likely to advance to the second round than a grade 8 student.
+OR
+When comparing the probabilities, you have to use both the numerator and the
+denominator. Since the numerators are the same, the probability with the larger
+denominator represents a student who is less likely to advance to the second round. So a
+grade 7 student is less likely to advance to the second round than a grade 8 student.
+OR equivalent
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202448PSSA MATHEMATICS GRADE 8
+STUDENT RESPONSE
+Response Score: 4 points
+17. A quiz competition was held for grade 7 and grade 8 students. In the first round, each
+of the 150 contestants was given a quiz. Contestants advanced to the second round if
+they answered enough questions correctly. The tables below show some information
+about the 150 contestants in the competition as well as some information about the
+grade 8 students who competed.
+Quiz Competition Contestants
+No Data Grade 7 Grade 8
+Advanced to Second Round 44 44
+Did Not Advance to Second Round 33 29
+Grade 8 Quiz Competition Contestants
+No Data Male Female
+Advanced to Second Round 20 24
+Did Not Advance to Second Round ? 12
+A. How many grade 8 male students did not advance to the second round?
+A grade 8 female student who competed is randomly selected.
+B. What is the probability that the randomly selected student advanced to the
+second round?
+Go to the next page to finish question 17. GO ON
+49PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+Part A: The student provided the correct answer (17 males). While support is not required for Part A, the student likely
+calculated the total number of grade 8 students (44 + 29 = 73), found the total number of grade 8 students
+already accounted for in the second table (20 + 24 + 12 = 56), and then subtracted the sums (73 − 56 = 17).
+[1 point]
+Part B: The student provided the correct answer  
+ 
+ 
+2
+3 . While support is not required for Part B, the student likely
+calculated the total number of grade 8 female students from the second table (24 + 12 = 36), identified the
+number of grade 8 female students who advanced to the second round (24), and then wrote the probability as
+24
+36
+, and then simplified the fraction to 2
+3
+. [1 point]
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202450PSSA MATHEMATICS GRADE 8
+17. Continued. Please refer to the previous page for task explanation.
+One of the 150 students who competed is randomly selected.
+C. Explain why the randomly selected student most likely advanced to the
+second round.
+D. Explain why a grade 7 student is less likely to have advanced to the second
+round than a grade 8 student even though the same number of grade 7
+students advanced to the second round as grade 8 students.
+After you have finished your work, close this booklet so your
+teacher will know you are finished.
+51PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+Part C: The student provided a correct and complete explanation as to why a randomly selected student most likely
+advanced to the second round (there are more students who [made] it to the second round than students that
+didn’t make it to the second round). [1 point]
+Part D: The student provided a correct and complete explanation as to why a grade 7 student is less likely to have
+advanced to the second round than a grade 8 student (though both grades have the same amount of students
+Advancing grade 7 has more students not advoncing). [1 point]
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202452PSSA MATHEMATICS GRADE 8
+STUDENT RESPONSE
+ Computer Response Score: 3 points
+PART A
+Question 17
+Page 1 of 4
+Part A: The student provided the correct answer (17). While support is not required for Part A, the student may have
+looked at the first table and noted that 29 grade 8 students did not advance to the second round, looked at the
+second table and noted that 12 female students did advance, and then subtracted these values (29 − 12 = 17).
+[1 point]
+53PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+PART B
+Question 17
+Page 2 of 4
+Part B: The student provided an incorrect answer (24 / 44). While the numerator (24) is correct, the denominator (44) is
+incorrect. No support (work or explanation) is required, so it is unclear where an error was made. The student
+may have looked at the first table and used the number of grade 8 students who advanced to the second round
+rather than calculating the total number of female grade 8 students from the second table. [0 points]
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202454PSSA MATHEMATICS GRADE 8
+PART C
+Question 17
+Page 3 of 4
+Part C: The student provided a correct and complete explanation as to why a randomly selected student likely
+advanced to the second round (88 / 150 students advaced and that is more than 50%). [1 point]
+55PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+PART D
+Question 17
+Page 4 of 4
+Part D: The student provided a correct and complete explanation as to why a grade 7 student is less likely to have
+advanced to the second round than a grade 8 student (more seventh grade students did not advance than
+eight grade students). [1 point]
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202456PSSA MATHEMATICS GRADE 8
+STUDENT RESPONSE
+Response Score: 2 points
+17. A quiz competition was held for grade 7 and grade 8 students. In the first round, each
+of the 150 contestants was given a quiz. Contestants advanced to the second round if
+they answered enough questions correctly. The tables below show some information
+about the 150 contestants in the competition as well as some information about the
+grade 8 students who competed.
+Quiz Competition Contestants
+No Data Grade 7 Grade 8
+Advanced to Second Round 44 44
+Did Not Advance to Second Round 33 29
+Grade 8 Quiz Competition Contestants
+No Data Male Female
+Advanced to Second Round 20 24
+Did Not Advance to Second Round ? 12
+A. How many grade 8 male students did not advance to the second round?
+A grade 8 female student who competed is randomly selected.
+B. What is the probability that the randomly selected student advanced to the
+second round?
+Go to the next page to finish question 17. GO ON
+57PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+Part A: The student provided an incorrect answer (10 male students). No support (work or explanation) is required for
+Part A, so it is unclear where an error was made. The student may have looked at the second table and noticed
+that, for the female column, those who did not advance happened to be half the number of those who did
+advance (12 did not advance compared to 24 who did advance), and then assumed the same would hold true
+for the male column (20 ÷ 2 = 10). [0 points]
+Part B: The student provided an incorrect answer (50%). The explanation provided, though not required for Part B,
+shows that the student incorrectly compared the 24 and the 12 from the second table (12 is 1
+2
+of 24). The
+student used the ratio of grade 8 female students who did not advance (12) to those who did advance (24)
+rather than the ratio of grade 8 female students who advanced (24) to the total number of grade 8 female
+students (12 + 24 = 36). [0 points]
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202458PSSA MATHEMATICS GRADE 8
+17. Continued. Please refer to the previous page for task explanation.
+One of the 150 students who competed is randomly selected.
+C. Explain why the randomly selected student most likely advanced to the
+second round.
+D. Explain why a grade 7 student is less likely to have advanced to the second
+round than a grade 8 student even though the same number of grade 7
+students advanced to the second round as grade 8 students.
+After you have finished your work, close this booklet so your
+teacher will know you are finished.
+59PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+Part C: The student provided a correct and complete explanation as to why a randomly selected student likely
+advanced to the second round (more kids advanced than did not advance). [1 point]
+Part D: The student provided a correct and complete explanation as to why a grade 7 student is less likely to have
+advanced to the second round than a grade 8 student (there was more 7th grade students who did not
+advance . . . than there were 8th grade students who didn’t advance). [1 point]
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202460PSSA MATHEMATICS GRADE 8
+STUDENT RESPONSE
+ Computer Response Score: 1 point
+PART A
+Question 17
+Page 1 of 4
+Part A: The student provided an incorrect answer (94). No support (work or explanation) is required, so it is unclear
+where an error was made. The student likely started with 150 (the total number of grade 7 and grade 8
+students) and subtracted the values from the second table (150 − 20 − 24 − 12 = 94). [0 points]
+61PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+PART B
+Question 17
+Page 2 of 4
+Part B: The student provided an incorrect answer (1 / 150). No support (work or explanation) is required, so it is unclear
+where an error was made. The student likely wrote the probability for 1 student out of all 150 students who
+participated in the quiz competition rather than the probability for one of the 24 grade 8 female students who
+advanced to the second round out of the 36 grade 8 female students who participated in the quiz competition.
+[0 points]
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202462PSSA MATHEMATICS GRADE 8
+PART C
+Question 17
+Page 3 of 4
+Part C: The student provided a correct and complete explanation as to why a randomly selected student likely
+advanced to the second round (more advanced than non-advanced). [1 point]
+63PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+PART D
+Question 17
+Page 4 of 4
+Part D: The student provided an incorrect explanation as to why a grade 7 student is less likely to have advanced
+to the second round than a grade 8 student (grade 7’s non-advanced number is close to advanced and 8th
+grades isn’t). The student incorrectly attempted to associate likelihood with the difference between those who
+advanced and those who did not advance. [0 points]
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202464PSSA MATHEMATICS GRADE 8
+STUDENT RESPONSE
+Response Score: 0 points
+17. A quiz competition was held for grade 7 and grade 8 students. In the first round, each
+of the 150 contestants was given a quiz. Contestants advanced to the second round if
+they answered enough questions correctly. The tables below show some information
+about the 150 contestants in the competition as well as some information about the
+grade 8 students who competed.
+Quiz Competition Contestants
+No Data Grade 7 Grade 8
+Advanced to Second Round 44 44
+Did Not Advance to Second Round 33 29
+Grade 8 Quiz Competition Contestants
+No Data Male Female
+Advanced to Second Round 20 24
+Did Not Advance to Second Round ? 12
+A. How many grade 8 male students did not advance to the second round?
+A grade 8 female student who competed is randomly selected.
+B. What is the probability that the randomly selected student advanced to the
+second round?
+Go to the next page to finish question 17. GO ON
+65PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+Part A: The student provided an incorrect answer (9 did not advance). No support (work or explanation) is required for
+Part A, so it is unclear where an error was made. The student may have looked at the first table and noted that
+29 grade 8 students did not advance to the second round, looked at the second table and noted that 20 male
+students advanced (rather than noting the 12 female students who did not advance), and then subtracted these
+values (29 − 20 = 9). [0 points]
+Part B: The student provided an incorrect answer (Their is a good probability thatsh [that she] will advance to the
+second round). The student attempted to respond with a likelihood (“good probability” being similar to “more
+likely”) rather than an actual probability. [0 points]
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202466PSSA MATHEMATICS GRADE 8
+17. Continued. Please refer to the previous page for task explanation.
+One of the 150 students who competed is randomly selected.
+C. Explain why the randomly selected student most likely advanced to the
+second round.
+D. Explain why a grade 7 student is less likely to have advanced to the second
+round than a grade 8 student even though the same number of grade 7
+students advanced to the second round as grade 8 students.
+After you have finished your work, close this booklet so your
+teacher will know you are finished.
+67PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+Part C: The student provided an incorrect explanation as to why a randomly selected student likely advanced to
+the second round (their is a even chance of getting it right just like their is getting it wrong). The student’s
+explanation actually attempts to explain why the randomly selected student is equally likely, not most likely, to
+have advanced to the second round. [0 points]
+Part D: The student provided an incorrect explanation as to why a grade 7 student is less likely to have advanced
+to the second round than a grade 8 student (their is less kids in the seventh grade to start with). The student
+incorrectly attempted to associate likelihood with the size of the population; however, there are more, not fewer,
+grade 7 students than grade 8 students who participated in the quiz competition. [0 points]
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202468PSSA MATHEMATICS GRADE 8
+Mathematics—Summary Data
+Multiple-Choice
+An asterisk (*) indicates the key.
+Sample
+Number Alignment Answer
+Key
+Depth of
+Knowledge
+p-value
+A
+p-value
+B
+p-value
+C
+p-value
+D
+1 B-E.1.1.3 A 1 42%* 28% 15% 15%
+2 A-N.1.1.1 B 1 20% 57%* 12% 11%
+3 A-N.1.1.2 B 1 11% 54%* 17% 18%
+4 A-N.1.1.4 D 2 12% 12% 14% 62%*
+5 B-E.1.1.4 A 1 60%* 12% 17% 11%
+6 B-E.2.1 D 1 27% 17% 16% 40%*
+7 B-E.2.1.1 B 2 16% 45%* 32% 7%
+8 B-E.3.1.3 D 2 13% 23% 19% 45%*
+9 B-E.3.1.5 B 2 15% 58%* 18% 9%
+10 B-F.1.1.1 A 1 31%* 30% 21% 18%
+11 B-F.1.1.3 C 2 15% 15% 50%* 20%
+12 B-F.2.1 C 2 4% 14% 79%* 3%
+13 B-F.2.1.1 B 2 18% 54%* 11% 17%
+14 C-G.1.1.4 A 2 41%* 20% 25% 14%
+15 C-G.2.1.2 D 1 11% 11% 9% 69%*
+16 C-G.3.1.1 B 2 15% 58%* 16% 11%
+Open-Ended
+Sample
+Number Alignment Points Depth of
+Knowledge
+Mean
+Score
+17 D-S.1.2.1 4 2 1.45
+69PSSA MATHEMATICS GRADE 8
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2024
+Copyright © 2024 by the Pennsylvania Department of Education. The materials contained
+in this publication may be duplicated by Pennsylvania educators for local classroom use.
+This permission does not extend to the duplication of materials for commercial use.
+PSSA Grade 8 Mathematics
+Item and Scoring Sampler

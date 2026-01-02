@@ -1,0 +1,2108 @@
+Release of Spring 2023
+MCAS Test Items
+from the
+Grade 8 Mathematics
+Paper-Based Test
+June 2023
+Massachusetts Department of
+Elementary and Secondary Education
+This document was prepared by the
+Massachusetts Department of Elementary and Secondary Education
+Jeffrey C. Riley
+Commissioner
+The Massachusetts Department of Elementary and Secondary Education, an affirmative action employer,
+is committed to ensuring that all of its programs and facilities are accessible to all members of the public.
+We do not discriminate on the basis of age, color, disability, gender identity, national origin, race, religion, sex or
+sexual orientation. Inquiries regarding the Department’s compliance with Title IX and other civil rights laws may
+be directed to the Human Resources Director, 75 Pleasant St., Malden, MA 02148 781-338-6105.
+© 2023 Massachusetts Department of Elementary and Secondary Education
+Permission is hereby granted to copy for non-commercial educational purposes any or all parts of
+this document with the exception of English Language Arts passages that are not designated as in
+the public domain. Permission to copy all other passages must be obtained from the copyright holder.
+Please credit the “Massachusetts Department of Elementary and Secondary Education.”
+Massachusetts Department of Elementary and Secondary Education
+75 Pleasant Street, Malden, MA 02148-4906
+Phone 781-338-3000 TTY: N.E.T. Relay 800-439-2370
+www.doe.mass.edu
+1
+Overview of Grade 8 Mathematics Test
+The spring 2023 grade 8 Mathematics test was a next-generation assessment that was administered in two formats: a computer-
+based version and a paper-based version. Most students took the computer-based test. The paper-based test was offered as an
+accommodation for eligible students who were unable to use a computer. More information can be found on the MCAS Test
+Administration Resources page at www.doe.mass.edu/mcas/admin.html.
+Most of the operational items on the grade 8 Mathematics test were the same, regardless of whether a student took the computer-
+based version or the paper-based version. In places where a technology-enhanced item was used on the computer-based test, an
+adapted version of the item was created for use on the paper test. These adapted paper items were multiple-choice, multiple-select,
+or short-answer items that tested the same Mathematics content and assessed the same standard as the technology-enhanced item.
+This document displays released items from the paper-based test. Released items from the computer-based test are
+available on the MCAS Resource Center website at mcas.pearsonsupport.com/released-items.
+Test Sessions and Content Overview
+The grade 8 Mathematics test was made up of two separate test sessions. Each session included selected-response, short-
+answer, and constructed-response questions. On the paper-based test, the selected-response questions were multiple-choice
+items and multiple-select items, in which students select the correct answer(s) from among several answer options.
+Standards and Reporting Categories
+The grade 8 Mathematics test was based on standards in the five domains for grade 8 in the Massachusetts Curriculum
+Framework for Mathematics (2017). The five domains are listed below.
+• The Number System
+• Expressions and Equations
+• Functions
+• Geometry
+• Statistics and Probability
+The Massachusetts Curriculum Framework for Mathematics is available on the Department website at
+www.doe.mass.edu/frameworks/current.html.
+Mathematics test results are reported under four MCAS reporting categories, which are based on the five framework domains
+listed above.
+The tables at the conclusion of this document provide the following information about each released and unreleased operational
+item: reporting category, standard(s) covered, item type, and item description. The correct answers for released selected-
+response and short-answer questions are also displayed in the released item table.
+Reference Materials and Tools
+Each student taking the paper-based version of the grade 8 Mathematics test was provided with a plastic ruler and a grade 8
+Mathematics Reference Sheet. A copy of the reference sheet follows the final question in this document. An image of the ruler
+is not reproduced in the document.
+During Session 2, each student had sole access to a calculator. Calculator use was not allowed during Session 1.
+During both Mathematics test sessions, the use of bilingual word-to-word dictionaries was allowed for current and former
+English learner students only. No other reference tools or materials were allowed.
+2
+Grade 8 Mathematics
+SESSION 1
+This session contains 10 questions.
+You may use your reference sheet during this session.
+You may not use a calculator during this session.
+Directions
+Read each question carefully and then answer it as well as you can. You must record
+all answers in this Test & Answer Booklet.
+For some questions, you will mark your answers by filling in the circles in your
+Test & Answer Booklet. Make sure you darken the circles completely. Do not make
+any marks outside of the circles. If you need to change an answer, be sure to erase
+your first answer completely.
+For other questions, you will need to fill in an answer grid. Directions for completing
+questions with answer grids are provided on the next page.
+If a question asks you to show or explain your work, you must do so to receive full
+credit. Write your response in the space provided. Only responses written within the
+provided space will be scored.
+Mathematics Session 13
+Directions for Completing Questions with Answer Grids
+1. Work the question and find an answer.
+2. Enter your answer in the answer boxes at the top of the answer grid.
+3. Print only one number or symbol in each box. Do not leave a blank box in
+the middle of an answer.
+4. Under each answer box, fill in the circle that matches the number or
+symbol you wrote above. Make a solid mark that completely fills the circle.
+5. Do not fill in a circle under an unused answer box.
+6. Fractions cannot be entered into an answer grid and will not be scored.
+Enter fractions as decimals.
+7. If you need to change an answer, be sure to erase your first answer
+completely.
+8. See below for examples of how to correctly complete an answer grid.
+EXAMPLES
+.
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+• •• • • •\\\ \ \
+–\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\•\
+41–
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+• •• • • •\\\ \ \
+–\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\•\
+84
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+• •• • • •\\\ \ \
+–\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\•\
+56
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+• •• • • •\\\ \ \
+–\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\•\
+913 6 3 5555.
+MA002180558 OP C
+ What value of x makes this equation true?
+7(x − 2) = 5x − 10
+A −4
+B −2
+C 2
+D 6
+MA908450808 OP C
+w A right circular cylinder and some of its dimensions are shown in this
+diagram.
+6 in.
+9 in.
+Which of the following is the volume, in cubic inches, of the cylinder?
+A 27π
+B 54π
+C 81π
+D 324πMathematics Session 1
+4
+MA715919758_PA OP D
+e A student will perform a sequence of transformations on triangle ABC on a
+coordinate plane. Which of the following sequences of transformations, if
+performed on triangle ABC, will result in an image that is not congruent to
+triangle ABC?
+A translate 4 units down, and then reflect over the x-axis
+B translate 4 units to the right, and then reflect over the y-axis
+C rotate 90° counterclockwise about the origin, and then reflect over the
+line y = x
+D rotate 180° clockwise about the origin, and then dilate by a scale factor
+of 3 with the center at the origin
+MA002177981_PA OP B, E
+ Consider this expression.
+Which of the following statements about the expression are true?
+Select the two correct answers.
+A On a number line, the expression is located between 6 and 7.
+B On a number line, the expression is located between 7 and 8.
+C The approximate value of the expression is closest to 6.
+D The approximate value of the expression is closest to 7.
+E The approximate value of the expression is closest to 8.Mathematics Session 1
+5
+This question has four parts. Be sure to label each part of your response.
+MA301714 OP X
+ A student created this table to represent a linear relationship between
+x and y.
+–2
+–1
+0
+1
+2
+10.0
+7.5
+5.0
+2.5
+0
+x y
+A. What is the y-intercept of the line represented by the x and y values
+shown in the table? Show or explain how you got your answer.
+B. What is the slope of the line represented by the x and y values shown in
+the table? Show or explain how you got your answer.
+C. Write an equation of the line represented by the relationship between
+x and y shown in the table.
+D. The student says the point (9, −17.5) lies on the line represented by the
+relationship between x and y shown in the table.
+Is the student correct? Show or explain how you got your answer.Mathematics Session 1
+6
+Mathematics Session 1
+7
+MA297517 OP B
+ The area of Europe is about 9.938 × 106 square kilometers, and the area of
+North America is about 2.4256 × 107 square kilometers.
+What is the approximate total area, in square kilometers, of Europe and
+North America combined?
+A 3.4194 × 106
+B 3.4194 × 107
+C 1.23636 × 106
+D 1.23636 × 107
+MA298198 OP A
+ Consider this system of equations.
+4x − 3y = −7
+−4x + 3y = −7
+Which of the following statements about the system of equations is true?
+A The system has no solution.
+B The system has exactly one solution.
+C The system has exactly two solutions.
+D The system has infinitely many solutions.
+MA303244 OP C
+ Which of the following expressions has a value that is greater than 0?
+A −(2−2)
+B −(3−3)
+C (−4)−4
+D (−5)−5Mathematics Session 1
+8
+MA001737991_PA OP B, C, F
+ Which of the following statements are true?
+Select the three correct answers.
+A 0.72 is equivalent to 11
+15
+B 0.72 is equivalent to 8
+11
+C 0.73 is equivalent to 11
+15
+D 0.73 is equivalent to 26
+33
+E 0.78 is equivalent to 8
+11
+F 0.78 is equivalent to 26
+33
+MA001865159 OP A
+ What is the value of ?
+A 2
+B 4
+C 5
+D 24Mathematics Session 1
+9
+10
+Directions
+Read each question carefully and then answer it as well as you can. You must record
+all answers in this Test & Answer Booklet.
+For some questions, you will mark your answers by filling in the circles in your
+Test & Answer Booklet. Make sure you darken the circles completely. Do not make
+any marks outside of the circles. If you need to change an answer, be sure to erase
+your first answer completely.
+For other questions, you will need to fill in an answer grid. Directions for completing
+questions with answer grids are provided on the next page.
+If a question asks you to show or explain your work, you must do so to receive full
+credit. Write your response in the space provided. Only responses written within the
+provided space will be scored.
+Grade 8 Mathematics
+SESSION 2
+This session contains 10 questions.
+You may use your reference sheet during this session.
+You may use a calculator during this session.
+Directions for Completing Questions with Answer Grids
+1. Work the question and find an answer.
+2. Enter your answer in the answer boxes at the top of the answer grid.
+3. Print only one number or symbol in each box. Do not leave a blank box in
+the middle of an answer.
+4. Under each answer box, fill in the circle that matches the number or
+symbol you wrote above. Make a solid mark that completely fills the circle.
+5. Do not fill in a circle under an unused answer box.
+6. Fractions cannot be entered into an answer grid and will not be scored.
+Enter fractions as decimals.
+7. If you need to change an answer, be sure to erase your first answer
+completely.
+8. See below for examples of how to correctly complete an answer grid.
+EXAMPLES
+.
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+• •• • • •\\\ \ \
+–\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\•\
+41–
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+• •• • • •\\\ \ \
+–\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\•\
+84
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+• •• • • •\\\ \ \
+–\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\•\
+56
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+• •• • • •\\\ \ \
+–\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\•\
+913 6 3 5555.
+11Mathematics Session 2
+MA307585 OP A
+ Myron is filling an empty teapot with water. The water fills the teapot at a
+rate of 4 fluid ounces per second.
+Which of the following graphs shows how the amount of water, in fluid
+ounces, in the teapot changes over time?
+A B
+C D
+x
+y
+Time (seconds)
+1 2 3 4 5 6 7 8 90
+Amount of Water
+(fluid ounces)
+5
+10
+15
+20
+25
+30
+35
+40
+45
+x
+y
+Time (seconds)
+1 2 3 4 5 6 7 8 90
+Amount of Water
+(fluid ounces)
+5
+10
+15
+20
+25
+30
+35
+40
+45
+x
+y
+Time (seconds)
+1 2 3 4 5 6 7 8 90
+Amount of Water
+(fluid ounces)
+5
+10
+15
+20
+25
+30
+35
+40
+45
+x
+y
+Time (seconds)
+1 2 3 4 5 6 7 8 90
+Amount of Water
+(fluid ounces)
+5
+10
+15
+20
+25
+30
+35
+40
+45
+12Mathematics Session 2
+MA804535837 OP B
+ A slide has a ladder that is 13 feet long. This diagram shows the ladder, the
+slide, and some dimensions.
+Slide
+5 ft. 9 ft.
+Ladder = 13 ft.
+What is the length, in feet, of the slide?
+A 12.0 feet
+B 15.0 feet
+C 15.8 feet
+D 19.1 feet
+13Mathematics Session 2
+This question has four parts. Be sure to label each part of your response.
+MA010701848 OP X
+ A student recorded the high temperature, in degrees Fahrenheit, in his town
+on each day for the first 10 days in January. This scatter plot shows the data
+the student recorded.
+High Temperatures
+in January
+x
+y
+Day
+2 4 6 8 10 120
+High Temperature (°F)
+30
+35
+40
+45
+50
+55
+A. Based on the scatter plot, what was the high temperature, in degrees
+Fahrenheit, on day 5?
+B. Based on the scatter plot, on which day does the high temperature seem
+to be an outlier? Explain your reasoning.
+C. Determine whether the data in the scatter plot have a positive or a
+negative association. Explain your reasoning.
+D. The student says that, based on the trend in the data, the expected high
+temperature on day 15 will be greater than the high temperature on
+day 10. Is the student correct? Explain your reasoning.
+14Mathematics Session 2
+
+15Mathematics Session 2
+MA905179612 OP B, C
+ One side of a right triangle has a length of 5 centimeters. Another side of the
+triangle has a length of 10 centimeters.
+Which of the following could represent the length, in centimeters, of the third
+side of the triangle?
+Select the two correct answers.
+A
+B
+C
+D 5
+E 15
+MA297651 OP X
+ Glenn bought a game system and 3 video games for $375. Jim bought a
+game system and 4 video games at the same store for $410.
+• Each game system costs the same.
+• Each video game costs the same.
+What is the cost, in dollars, of one game system?
+Enter your answer in the answer boxes at the top of the answer grid and
+completely fill the matching circles.
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+• •• • • •
+–
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\\\\ \ \
+\ •\
+16Mathematics Session 2
+MA307492 OP X
+ Corine drew line segment ST on a coordinate plane, as shown.
+91-1-2-3-4-5-6-7-8-9 20 3 4 5 6 7 8
+9
+8
+7
+6
+5
+4
+3
+2
+1
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+x
+y
+S (2, 5)
+T (2, –3)
+1 unit
+1 unit
+Corine will translate line segment ST 4 units to the right and then 4 units
+down. After the transformations, what will be the length, in units, of the
+image of line segment ST?
+Enter your answer in the answer boxes at the top of the answer grid and
+completely fill the matching circles.
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+• •• • • •
+–
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\\\\ \ \
+\ •\
+17Mathematics Session 2
+MA715919853_PA OP B
+ Line segment GH is graphed on this coordinate plane.
+1-1-2-3 20 3
+1
+2
+3
+-3
+-2
+-1
+x
+y
+G
+H
+1 unit
+1 unit
+Line segment GH has a length of k units.
+Which of the following equations can be used to determine k, the length in
+units of line segment GH?
+A 22 + 32 = k2
+B 42 + 52 = k2
+C k2 + 22 = 32
+D k2 + 42 = 52
+18Mathematics Session 2
+MA902308680_PA OP A, D, E
+ Isosceles triangle EFG and one of its angle measures are shown in this
+diagram.
+E
+G
+F
+96°
+Triangle RST, not shown, is congruent to triangle EFG.
+Which of the following are the measures, in degrees, of the interior angles of
+triangle RST?
+Select the three correct answers.
+A m∠R = 42°
+B m∠R = 96°
+C m∠S = 42°
+D m∠S = 96°
+E m∠T = 42°
+F m∠T = 96°
+19Mathematics Session 2
+This question has two parts.
+MA902278325 OP C; B, D
+ Part A
+A student graphed an equation of this form on a coordinate plane.
+y = mx + b
+Which of the following statements about the graph is not true?
+A The graph is a straight line.
+B The slope of the graph is m.
+C The graph crosses the x-axis at (0, b).
+D The graph crosses the y-axis at (0, b).
+Part B
+Which of the following equations are linear functions?
+Select the two linear equations.
+A y = x2
+B y = −x
+C y = −2
+x
+D y = −3x
+E y = 3
+20Mathematics Session 2
+MA003932801 OP A
+2) Quadrilateral TUVW is shown on this coordinate plane.
+1-1-2-3-4-5-6-7-8-9 20 3 4 5 6 7 8 9 x
+y
+-1
+1
+2
+4
+5
+6
+7
+8
+9
+3
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+TTT
+UUU VVV
+WWW
+Quadrilateral TUVW will be rotated 180° clockwise about the origin.
+What will be the coordinates of the image of point V after the rotation?
+A (−6, −2)
+B (6, −2)
+C (2, −6)
+D (2, 6)
+21Mathematics Session 2
+Massachusetts Comprehensive Assessment System
+Grade 8 Mathematics Reference Sheet
+Grade 8 Mathematics
+Spring 2023 Released Operational Items
+PBT
+Item No.
+Page
+No. Reporting Category Standard Item
+Type* Item Description Correct
+Answer**
+1 4 The Number System and
+Expressions and Equations 8.EE.C.7 SR Solve a linear equation by collecting like
+terms. C
+2 4 Geometry 8.G.C.9 SR Find the volume of a cylinder given its
+diameter and height. C
+3 5 Geometry 8.G.A.2 SR
+Determine which transformation on a
+triangle will result in an image that is not
+congruent to the original figure.
+D
+4 5 The Number System and
+Expressions and Equations 8.NS.A.2 SR
+Approximate the value of a square root
+by showing how to find its location on a
+number line.
+B,E
+5 6–7 Functions 8.F.B.4 CR
+Use the linear relationship represented in
+a table to determine the y-intercept and
+slope; to write the equation of the line; and
+to determine whether a given point falls on
+the line.
+6 8 The Number System and
+Expressions and Equations 8.EE.A.4 SR
+Solve a real-world problem that involves
+performing operations on two numbers
+expressed in scientific notation.
+B
+7 8 The Number System and
+Expressions and Equations 8.EE.C.8 SR Determine the number of solutions to a
+system of equations. A
+8 8 The Number System and
+Expressions and Equations 8.EE.A.1 SR
+Apply the properties of negative integer
+bases and exponents to identify the signed
+values of expressions.
+C
+9 9 The Number System and
+Expressions and Equations 8.NS.A.1 SR
+Determine which statements about decimal
+expansions and their fraction equivalents
+are true.
+B,C,F
+10 9 The Number System and
+Expressions and Equations 8.EE.A.2 SR Evaluate the cube root of a small perfect
+cube. A
+11 12 The Number System and
+Expressions and Equations 8.EE.B.5 SR
+Determine which graph represents a
+proportional relationship in a real-world
+context.
+A
+12 13 Geometry 8.G.B.7 SR
+Use the Pythagorean theorem to find the
+missing side length of a right triangle in a
+real-world problem.
+B
+13 14–15 Statistics and Probability 8.SP.A.1 CR
+Given a scatter plot, determine if there are
+outliers in the data, describe the association
+represented by the data, and make a
+prediction based on the data.
+14 16 Geometry 8.G.B.6 SR
+Given the lengths of two sides of a right
+triangle, determine the possible length of
+the third side by using the Pythagorean
+Theorem.
+B,C
+15 16 The Number System and
+Expressions and Equations 8.EE.C.8 SA
+Create two linear equations, each involving
+the same two variables, to solve a real-world
+problem.
+270
+16 17 Geometry 8.G.A.1 SA Determine the length of a line segment after
+a series of transformations. 8
+17 18 Geometry 8.G.B.8 SR
+Use the Pythagorean Theorem to determine
+which equation represents the length of a
+line segment that is graphed on a coordinate
+plane.
+B
+23
+PBT
+Item No.
+Page
+No. Reporting Category Standard Item
+Type* Item Description Correct
+Answer**
+18 19 Geometry 8.G.A.5 SR Determine the angle measures of a triangle
+that is congruent to a given triangle. A,D,E
+19 20 Functions 8.F.A.3 SR
+Interpret the equation y=mx+b, and decide
+whether given functions are linear or not
+linear.
+C;B,D
+20 21 Geometry 8.G.A.3 SR
+Determine the coordinates of the image of
+a vertex of a quadrilateral after it has been
+rotated about the origin.
+A
+* Mathematics item types are: selected-response (SR), short-answer (SA), and constructed-response (CR).
+** Answers are provided here for selected-response and short-answer items only. Sample responses and scoring guidelines for any
+constructed-response items will be posted to the Department’s website later this year.
+24
+Grade 8 Mathematics
+Spring 2023 Unreleased Operational Items
+PBT
+Item No. Reporting Category Standard Item
+Type* Item Description
+21 The Number System and
+Expressions and Equations 8.NS.A.2 SR Determine between which pair of integers the square root of a given
+number lies.
+22 Statistics and Probability 8.SP.A.3 SA Use the equation of a linear model derived from data to solve a real-
+world problem.
+23 The Number System and
+Expressions and Equations 8.EE.A.1 CR Use the properties of exponents to find equivalent expressions.
+24 The Number System and
+Expressions and Equations 8.NS.A.1 SR Identify an irrational number from a list of numbers.
+25 The Number System and
+Expressions and Equations 8.EE.C.8 SR Determine the coordinates of the solution of a system of equations.
+26 The Number System and
+Expressions and Equations 8.EE.A.1 SR Use the properties of exponents to identify equivalent expressions.
+27 The Number System and
+Expressions and Equations 8.EE.B.5 SR Interpret a proportional relationship on a graph, and identify and
+interpret the slope of the graph.
+28 The Number System and
+Expressions and Equations 8.EE.A.2 SR Determine which radical expression is a rational number.
+29 Geometry 8.G.A.1 SA Determine the effects of a translation and a rotation on the angles and
+sides of a quadrilateral.
+30 The Number System and
+Expressions and Equations 8.NS.A.1 SR Identify rational numbers from a list of radical expressions.
+31 Functions 8.F.B.4 SR
+Use the linear relationship represented in a table of values to solve a
+real-world problem that involves determining the y-value for a given
+x-value.
+32 Statistics and Probability 8.SP.A.3 SR Use the equation of a linear model derived from data to solve a real-
+world problem.
+33 Statistics and Probability 8.SP.A.2 SR Justify why a line drawn through data on a scatter plot is suitable as a
+line of best fit.
+34 Functions 8.F.B.4 SR Given a real-world context, interpret the rate of change from an
+equation.
+35 Geometry 8.G.A.1 CR
+Given a polygon and its image after a transformation, verify
+congruence by analyzing properties of both polygons; describe a
+series of transformations that would result in the same image of the
+polygon.
+36 Functions 8.F.A.1 SR Given a set of points on a coordinate plane, determine which point
+should be removed in order to create a function.
+37 Functions 8.F.A.1 SR Determine which set of coordinate pairs represents a function.
+38 Functions 8.F.A.2 SR
+Compare properties of two functions represented algebraically and
+in a table, and choose a correct statement interpreting each function’s
+rate of change and initial value.
+39 Geometry 8.G.C.9 SA Find the volume of a sphere given its radius.
+40 Geometry 8.G.A.4 SR Determine which transformation on a given figure would result in an
+image that is similar but not congruent to the figure.
+* Mathematics item types are: selected-response (SR), short-answer (SA), and constructed-response (CR).
+25

@@ -1,0 +1,1230 @@
+VIRGINIA STANDARDS OF LEARNING
+Spring 2010 Released Test
+GRADE 8
+MATHEMATICS
+Form M0110, CORE 1
+Property of the Virginia Department of Education
+Copyright ©2010 by the Commonwealth of Virginia, Department of Education, P.O. Box 2120, Richmond, Virginia
+23218-2120. All rights reserved. Except as permitted by law, this material may not be reproduced or used in any form or
+by any means, electronic or mechanical, including photocopying or recording, or by any information storage or retrieval
+system, without written permission from the copyright owner. Commonwealth of Virginia public school educators may
+reproduce any portion of these released tests for non-commercial educational purposes without requesting permission.
+All others should direct their written requests to the Virginia Department of Education, Division of Student Assessment
+and School Improvement, at the above address or by e-mail to Student_Assessment@doe.virginia.gov.
+
+Grade 8 Mathematics Formula Sheet
+Geometric Formulas
+Pi
+3.14
+22
+7
+A = bh1
+2
+b
+h
+A = bh
+b
+b
+h
+V = lwh
+S.A.= 2lw + 2lh + 2wh
+l
+h
+w V = r2h
+S.A.= rl + r2
+1
+3
+h
+l
+r
+p = 4s
+A = s2
+s
+s
+A = h(b1 + b2 )1
+2
+b1
+b2
+h
+V = r2h
+S.A.= 2 rh + 2 r2
+r
+h
+p = 2l + 2w
+A = lw
+l
+w
+C = 2 r
+A = r2
+r
+c2 = a2 + b2
+a c
+b
+Abbreviations
+milligram mg
+gram g
+kilogram kg
+milliliter mL
+liter L
+kiloliter kL
+millimeter mm
+centimeter cm
+meter m
+kilometer km
+square centimeter cm2
+cubic centimeter cm3
+volume V
+total surface area S.A.
+area of base B
+ounce oz
+pound lb
+quart qt
+gallon gal.
+inch in.
+foot ft
+yard yd
+mile mi.
+square inch sq in.
+square foot sq ft
+cubic inch cu in.
+cubic foot cu ft
+year yr
+month mon
+hour hr
+minute min
+second sec
+V = Bh
+S.A.= lp + B
+1
+3 1
+2
+h l
+B
+Copyright © 2006 by the Commonwealth of Virginia Department of Education
+
+3
+Mathematics
+Directions
+Read each question and choose the best answer.
+SAMPLE
+Vicki had $228. She spends $37 on a gift. How much did she have left?
+A $211
+B $191
+C $181
+D $164
+4
+3 What is the value of
+A
+B
+C 1
+D 3
+−5
+−23
+4 33
+− ?
+2 Which number is
+less than 22,874 ?
+F
+G
+H
+J 1 78 10 6
+. ×
+2 43 105
+. ×
+2 55 10 4
+. ×
+2 18 10 4
+. ×
+1 Which value is equivalent to the expression shown?
+A
+B
+C
+D − 45
+−26
+−10
+−5
+− −5 3 2 4( )i
+5
+4 Which of the following does
+not represent a rational number?
+F 0
+G
+H
+J − 1
+10
+3
+2 1
+2
+5 Which of these is a true statement?
+A
+B
+C
+D 0 235 2 35 10 2
+. .< × −
+2 5 10 2502
+. × =
+−
+3 1 10 3 1003
+. ,× =
+2 10 2 102 2
+× > ×
+−
+6 The set of whole numbers is
+not a subset of —
+F irrational numbers
+G integers
+H rational numbers
+J real numbers
+6
+9 What is the value of when
+A 16
+B 20
+C 32
+D 50
+a = 2 ?2 5 72
+( )− +a a
+8 Which of the following describes a square root of 41 ?
+F Between 5 and 6
+G Between 6 and 7
+H Between 20 and 21
+J Between 40 and 42
+7 Which list of numbers is ordered from
+greatest to
+least ?
+A
+B
+C
+D 7 76 10 4 72 10 6 13 10 3 84 102 4 6 9
+. , . , . , .× × × ×
+7 76 10 6 13 10 4 72 10 3 84 102 6 4 9
+. , . , . , .× × × ×
+3 84 10 4 72 10 6 13 10 7 76 109 4 6 2
+. , . , . , .× × × ×
+3 84 10 6 13 10 4 72 10 7 76 109 6 4 2
+. , . , . , .× × × ×
+7
+10 Rob had $363.75 in his bank account on June 12. He made one deposit and
+two withdrawals as shown.
+What was the balance in Rob’s bank account after the withdrawal on
+June 15 ?
+F $170.25
+G $352.75
+H $374.75
+J $557.25
+Date
+June 15
+June 14
+June 13
+June 12
+$54.75
+$47.50
+$91.25
+$363.75
+Withdrawal Deposit Balance
+Rob’s Bank Account
+11 What is the value of when
+A 9
+B 18
+C 21
+D 39
+x = 3 ?x x x3 2
++ +
+8
+14 The square root of which of the following integers is between 7 and 8 ?
+F 49
+G 52
+H 64
+J 65
+13 Albert had a goal of saving $80. He saved 115% of his goal. How much
+money did Albert save?
+A $70
+B $92
+C $115
+D $195
+12 Which number is a perfect square?
+F 6
+G 9
+H 12
+J 15
+9
+15 What is the surface area of a rectangular prism with the dimensions shown?
+A 7 sq in.
+B 14 sq in.
+C 18 sq in.
+D 25 sq in.
+3.5 in. 1 in.
+2 in.
+10
+16 Three different views of a three-dimensional figure constructed from cubes
+are shown.
+Which of the following figures could these views represent?
+F
+G
+H
+J
+Front Right Side Top
+11
+17 In which diagram do and appear to be vertical angles?∠2∠1
+A
+1
+2
+B
+1 2
+C 1
+2
+D 1
+2
+12
+19 Which pair of angles is supplementary?
+A
+25° 65°
+B
+125° 65°
+C
+50°50°
+D 40° 140°
+18 Which group of three side lengths could form a right triangle?
+F 5 ft, 12 ft, 13 ft
+G 7 ft, 11 ft, 14 ft
+H 15 ft, 20 ft, 22 ft
+J 18 ft, 34 ft, 39 ft
+13
+20 Mr. Malone plans to construct a walkway through his rectangular garden, as
+shown in the drawing.
+Which is closest to the value of w ?
+F 22 ft
+G 21 ft
+H 15 ft
+J 11 ft
+w 10 ft
+11 ft
+20 ft
+14
+21 A three-dimensional figure is constructed from identical cubes. Three views of
+the figure are shown.
+Which of the following could be the three-dimensional figure?
+Front Top Right Side
+A
+B
+C
+D
+15
+22 Three triangles are drawn in rectangle PQRS.
+Which of the following segments is a hypotenuse of one of these triangles?
+F
+G
+H
+J XQ
+XS
+RQ
+RS
+RXQ
+P S
+16
+23 What are the new coordinates of point B after is translated 2 units
+down and 3 units to the left?
+A
+B
+C
+D ( , )9 5
+( , )8 6
+( , )4 0
+( , )3 1
+9
+8
+7
+6
+5
+4
+3
+2
+1
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-9 -8 -7 -6 -5 -4 -3 -2 21 3 4 5 6 7 8 9-1 O
+y
+x
+A B
+C
+ABC
+17
+25 Which of the following equations is represented by the figure?
+A
+B
+C
+D 3 4 52 2 2
++ =
+3 4 72 2 2
++ =
+3 5 82 2 2
++ =
+4 5 92 2 2
++ =
+24 The radius of the base of a cone is 4 inches. The slant height of the cone is
+6 inches. Which is closest to the surface area of the cone?
+F 75 sq in.
+G 100 sq in.
+H 126 sq in.
+J 188 sq in.
+4 in.
+6 in.
+18
+26
+Which of the following graphs shows a dilation of the triangle from a
+fixed point?
+F
+G
+H
+J
+7
+6
+5
+4
+3
+2
+1
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-5-6-7 -4 -3 -2 21 3 4 5 6 7-1 O
+y
+x
+7
+6
+5
+4
+3
+2
+1
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-5-6-7 -4 -3 -2 21 3 4 5 6 7-1 O
+y
+x
+7
+6
+5
+4
+3
+2
+1
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-5-6-7 -4 -3 -2 21 3 4 5 6 7-1 O
+y
+x
+7
+6
+5
+4
+3
+2
+1
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-5-6-7 -4 -3 -2 21 3 4 5 6 7-1 O
+y
+x
+9
+8
+7
+6
+5
+4
+3
+2
+1
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-9 -8 -7 -6 -5 -4 -3 -2 21 3 4 5 6 7 8 9-1 O
+y
+x
+19
+27 This circle graph displays the number of hours Meredith spent on various
+activities in a day.
+Based on the data in the circle graph, what percent of Meredith’s day was
+spent on activities other than sleeping and eating?
+A 12%
+B 25%
+C 38%
+D 50%
+Meredith’s Day
+6 hours
+1 hour
+9 hours
+2 hours
+3 hours
+3 hours
+Eating
+Play
+Practice
+Homework
+Sleeping
+Other
+School
+20
+29 A fair cube used in a game has 1 yellow side and 5 green sides. Emily will win
+the game if the cube lands on a green side on her next roll. Which statementbest describes Emily’s chance of winning the game?
+A Certainly will win
+B Certainly will lose
+C Most likely will win
+D Most likely will lose
+28 This graph shows the number of slices of pizza sold each day during one week
+in the school cafeteria.
+Each slice of pizza costs $0.50. What is the total amount of money the school
+cafeteria collected on the sales of pizza for this week?
+F $7.50
+G $15.50
+H $75.00
+J $150.00
+Slices of Pizza Sold
+Day of Week
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Number Sold
+Key: = 10 slices
+21
+30 These box-and-whisker plots summarize the heights of the boys and the
+heights of the girls in an eighth-grade class.
+Based on the data in these box-and-whisker plots, which statement is true?
+F The tallest student in the class is a girl.
+G The shortest student in the class is a boy.
+H The range of the boys’ heights is greater than the range of the girls’ heights.
+J The median height of the girls is greater than the median height of the boys.
+Student Heights
+50 52 54 56 58 60 62 64 66 68 70
+Boys
+Girls
+31 This matrix shows the grades on three weekly quizzes for Eric, Sam, and Curt.
+What is the element at row 2, column 3 ?
+A 80
+B 86
+C 87
+D 88
+87
+82
+85
+92
+86
+88
+82
+80
+89
+1st
+2nd
+3rd
+Eric Sam Curt
+22
+32 The following scatterplot shows the scores several students received in math
+and music classes last semester.
+Which statement best describes the relationship in the scatterplot?
+F As the math score decreases, the music score increases.
+G As the math score increases, the music score decreases.
+H As the math score decreases, the music score does not change.
+J As the math score increases, the music score increases.
+Music Scores
+Scores Last Semester
+Math Scores
+50
+60
+70
+80
+60 70 80 10050 900
+90
+100
+23
+33 This table shows the number of marbles in a bag by color. If one marble is
+randomly selected from the bag, what is the probability that it will be a blue
+or a red marble?
+A 24%
+B 26%
+C 38%
+D 52%
+7
+10
+14
+19
+Blue
+Green
+Yellow
+Red
+Color Number
+Marbles in a Bag
+24
+34 Three girls sent each other text messages as shown.
+• Sonia sent Hannah 3 text messages and Takara 2 text messages.
+• Hannah sent Sonia 1 text message and Takara 3 text messages.
+• Takara sent Sonia 2 text messages and Hannah 1 text message.
+Which matrix best summarizes this information?
+F
+To
+From
+Sonia
+Hannah
+Takara
+Sonia
+0
+3
+2
+Hannah
+1
+0
+3
+2
+1
+0
+Takara
+G
+To
+From
+Sonia
+Hannah
+Takara
+Sonia
+1
+1
+2
+Hannah
+1
+3
+1
+2
+3
+1
+Takara
+H
+To
+From
+Sonia
+Hannah
+Takara
+Sonia
+0
+1
+2
+Hannah
+3
+0
+1
+2
+3
+0
+Takara
+J
+To
+From
+Sonia
+Hannah
+Takara
+Sonia
+2
+0
+1
+Hannah
+1
+3
+0
+0
+2
+3
+Takara
+25
+35 Margaret has $200 in her savings account. She will deposit $50 into this
+account each week and will make no withdrawals. Which table represents this
+situation, excluding interest?
+A
+Savings
+0
+1
+2
+3
+Week
+$200
+$250
+$300
+$350
+Amount in
+Account
+B
+Savings
+0
+1
+2
+3
+Week
+$50
+$250
+$450
+$650
+Amount in
+Account
+C
+Savings
+0
+1
+2
+3
+Week
+$200
+$150
+$100
+$50
+Amount in
+Account
+D
+Savings
+0
+1
+2
+3
+Week
+$50
+$100
+$150
+$200
+Amount in
+Account
+26
+36 Which graph contains all the ordered pairs in this table?
+–3
+3
+5
+x
+–4
+1
+2
+y
+F
+5
+4
+3
+2
+1
+-1
+-2
+-3
+-4
+-5
+-5 -4 -3 -2 21 3 4 5-1 O
+y
+x
+G
+5
+4
+3
+2
+1
+-1
+-2
+-3
+-4
+-5
+-5 -4 -3 -2 21 3 4 5-1 O
+y
+x
+H
+5
+4
+3
+2
+1
+-1
+-2
+-3
+-4
+-5
+-5 -4 -3 -2 21 3 4 5-1 O
+y
+x
+J
+5
+4
+3
+2
+1
+-1
+-2
+-3
+-4
+-5
+-5 -4 -3 -2 21 3 4 5-1 O
+y
+x
+27
+37 Which of the following is equivalent to the inequality
+A
+B
+C
+D 5 24x >
+5 24x <
+5 10x >
+5 10x <
+5 7 17x + < ?
+38 Which table contains only points that lie on the line of the
+equation y x= −6 6 ?
+F
+x
+0
+5
+y
+–6
+5
+G
+x
+0
+3
+y
+6
+12
+H
+x
+2
+–2
+y
+6
+–18
+J
+x
+2
+–1
+y
+6
+0
+28
+39 What value of n makes this equation true?
+A
+B
+C 3.75
+D 10.50
+−0 75.
+−7 50.
+4 9 6n + =
+29
+40
+If the line containing the points in the table is plotted on a coordinate system,
+what does the graph look like?
+x y
+4 4
+2 2
+0 0
+–2 –2
+–4 –4
+F
+G
+H
+J
+30
+42 The formula can be used to find the distance, d, between two
+cars after traveling t hours in opposite directions. After how many hours will
+the distance between the two cars be 234 miles?
+F 0.5
+G 2.0
+H 3.6
+J 4.5
+d t t= +52 65
+41 At the Good Earth Orchard, there are as many lemon trees as there are
+orange trees. There are 132 orange trees at Good Earth Orchard. How many
+lemon trees are there?
+A 43
+B 44
+C 396
+D 528
+1
+3
+31
+43 Which graph contains the ordered pairs listed in the table?
+A
+B
+C
+D
+x y
+7
+0
+0
+–3
+987654321-1-3-4-5-6-7-8-9 -2
+9
+8
+7
+6
+5
+4
+3
+2
+1
+O
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+x
+y
+987654321-1-3-4-5-6-7-8-9 -2
+9
+8
+7
+6
+5
+4
+3
+2
+1
+O
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+x
+y
+987654321-1-3-4-5-6-7-8-9 -2
+9
+8
+7
+6
+5
+4
+3
+2
+1
+O
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+x
+y
+987654321-1-3-4-5-6-7-8-9 -2
+9
+8
+7
+6
+5
+4
+3
+2
+1
+O
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+x
+y
+32
+45 Which of the following tables of values is true for the equation y x= −3 3( )?
+A
+x
+–4
+4
+y
+–21
+3
+B
+x
+–4
+4
+y
+–3
+21
+C
+x
+–4
+4
+y
+–15
+9
+D
+x
+–4
+4
+y
+–9
+15
+44 Which number is
+not an element of the domain of the relation shown?
+F
+G 0
+H 1
+J 4
+−2
+( , ), ( , ), ( , ), ( , )−{ }2 4 0 4 1 2 3 2
+33
+46 It takes Kim 8 hours to travel a distance of 360 miles. At this rate, how many
+miles does Kim travel in 12 hours?
+F 720
+G 600
+H 540
+J 390
+34
+47 Juan earns a flat fee of $150 plus $20 for every hour he works decorating a
+house. Which graph correctly displays Juan’s earnings?
+A
+B
+C
+D
+190
+180
+170
+160
+150
+140
+130
+120
+0 2 4 6
+Hours on the Job
+Juan’s Earnings
+Amount Earned ($)
+81 3 5 7 9
+190
+180
+170
+160
+150
+140
+130
+120
+0 2 4 6
+Hours on the Job
+Juan’s Earnings
+Amount Earned ($)
+81 3 5 7 9
+190
+180
+170
+160
+150
+140
+130
+120
+0 2 4 6
+Hours on the Job
+Juan’s Earnings
+Amount Earned ($)
+81 3 5 7 9
+190
+180
+170
+160
+150
+140
+130
+120
+0 2 4 6
+Hours on the Job
+Juan’s Earnings
+Amount Earned ($)
+81 3 5 7 9
+35
+48 What is the solution to
+F
+G
+H
+J n > 28
+n > 24
+n > 12
+n > 7
+n
+2 4 10− > ?
+49 A relation is graphed as shown.
+What is the domain of this relation?
+A
+B
+C
+D 0 1 2 3 4 5 6, , , , , ,{ }
+1 2 3 4 5 6, , , , ,{ }
+2 3 5 6, , ,{ }
+1 3 4 6, , ,{ }
+6
+5
+4
+3
+2
+1
+210 3 4 5 6
+36
+50 Which of these equations represents the table of values?
+F
+G
+H
+J y x= +2 6
+y x= +3 3
+y x= + 7
+y x= −
+x y
+2
+8
+12
+18
+–2
+1
+3
+6
+Test Sequence
+Number Correct Answer
+Reporting
+Category Reporting Category Description
+1 B 001 Number and Number Sense
+2 F 001 Number and Number Sense
+3 A 001 Number and Number Sense
+4 H 001 Number and Number Sense
+5 B 001 Number and Number Sense
+6 F 001 Number and Number Sense
+7 A 001 Number and Number Sense
+8 G 002 Computation and Estimation
+9 C 002 Computation and Estimation
+10 G 002 Computation and Estimation
+11 D 002 Computation and Estimation
+12 G 002 Computation and Estimation
+13 B 002 Computation and Estimation
+14 G 002 Computation and Estimation
+15 D 003 Measurement and Geometry
+16 G 003 Measurement and Geometry
+17 C 003 Measurement and Geometry
+18 F 003 Measurement and Geometry
+19 D 003 Measurement and Geometry
+20 H 003 Measurement and Geometry
+21 D 003 Measurement and Geometry
+22 H 003 Measurement and Geometry
+23 A 003 Measurement and Geometry
+24 H 003 Measurement and Geometry
+25 D 003 Measurement and Geometry
+26 G 003 Measurement and Geometry
+27 D 004 Probability and Statistics
+28 H 004 Probability and Statistics
+29 C 004 Probability and Statistics
+30 F 004 Probability and Statistics
+31 A 004 Probability and Statistics
+32 J 004 Probability and Statistics
+33 D 004 Probability and Statistics
+34 H 004 Probability and Statistics
+35 A 005 Patterns, Functions, and Algebra
+36 J 005 Patterns, Functions, and Algebra
+37 A 005 Patterns, Functions, and Algebra
+38 H 005 Patterns, Functions, and Algebra
+39 B 005 Patterns, Functions, and Algebra
+40 J 005 Patterns, Functions, and Algebra
+41 B 005 Patterns, Functions, and Algebra
+42 G 005 Patterns, Functions, and Algebra
+43 C 005 Patterns, Functions, and Algebra
+44 J 005 Patterns, Functions, and Algebra
+45 A 005 Patterns, Functions, and Algebra
+46 H 005 Patterns, Functions, and Algebra
+47 A 005 Patterns, Functions, and Algebra
+48 J 005 Patterns, Functions, and Algebra
+49 A 005 Patterns, Functions, and Algebra
+50 J 005 Patterns, Functions, and Algebra
+Answer Key-8075-M0110
+If you get this
+many items
+correct:
+Then your
+converted scale
+score is:
+0 000
+1 011
+2 069
+3 104
+4 130
+5 151
+6 168
+7 184
+8 198
+9 210
+10 222
+11 232
+12 242
+13 252
+14 261
+15 270
+16 279
+17 287
+18 295
+19 303
+20 311
+21 318
+22 326
+23 333
+24 341
+25 348
+26 356
+27 363
+28 371
+29 378
+30 386
+31 394
+32 402
+33 410
+34 418
+35 427
+36 436
+37 445
+38 455
+39 465
+40 476
+41 487
+42 500
+43 514
+44 529
+45 547
+46 567
+47 593
+48 600
+49 600
+50 600
+Grade 8 Math, Core 1

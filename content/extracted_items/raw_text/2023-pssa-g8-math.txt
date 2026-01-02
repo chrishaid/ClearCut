@@ -1,0 +1,1196 @@
+The Pennsylvania System
+of School Assessment
+Mathematics
+Item and Scoring Sampler
+2023–2024
+Grade 8
+Pennsylvania Department of Education Bureau of Curriculum, Assessment and Instruction—August 2023
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 2023ii
+TABLE OF CONTENTS
+INFORMATION ABOUT MATHEMATICS 1
+Introduction 1
+General Introduction 1
+Pennsylvania Core Standards (PCS) 1
+What Is Included 1
+Purpose and Uses 2
+Item Format and Scoring Guidelines 2
+Item Alignment 2
+Testing Time and Mode of Testing Delivery for the PSSA 3
+Mathematics Reporting Categories 3
+Item and Scoring Sampler Format 4
+General Description of Scoring Guidelines for Mathematics Open-Ended Items 5
+Grade 8 Formula Sheet 6
+PSSA MATHEMATICS GRADE 8 7
+Mathematics Test Directions 7
+Multiple-Choice Items 8
+Open-Ended Question 34
+Item-Specific Scoring Guideline 36
+Mathematics—Summary Data 50
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 20231
+INFORMATION ABOUT MATHEMATICS
+INTRODUCTION
+General Introduction
+The Pennsylvania Department of Education (PDE) provides districts and schools with tools to
+assist in delivering focused instructional programs aligned with the Pennsylvania Core Standards
+(PCS) These tools include Academic Standards, Assessment Anchors and Eligible Content (AAEC)
+documents, assessment handbooks, and content-based item and scoring samplers This Item and
+Scoring Sampler is a useful tool for Pennsylvania educators in preparing local instructional programs
+by providing samples of test item types and scored student responses The item sampler is not
+designed to be used as a pretest, a curriculum, or any other benchmark for operational testing
+This Item and Scoring Sampler is available in Braille format For more information regarding Braille,
+call (717) 901-2238
+Pennsylvania Core Standards (PCS)
+This sampler contains examples of test questions designed to assess the Pennsylvania Assessment
+Anchors and Eligible Content aligned to the PCS The Mathematics, Reading, and Writing PSSA
+transitioned to PCS-based operational Mathematics and English Language Arts assessments
+starting with the spring 2015 PSSA administration
+The PCS-aligned Assessment Anchors and Eligible Content documents are posted on this portal:
+¾ www.education.pa.gov [Hover over “Data and Reporting,” select “Assessment and
+Accountability,” and select “PSSA-PA System of School Assessment ” Then select
+“Assessment Anchors/Eligible Content” on the right side of the screen ]
+What Is Included
+This sampler contains test questions, or test “items,” that have been written to align to the
+Assessment Anchors that are based on the PCS The sample test questions model the types of
+items that may appear on an operational PSSA Each sample test question has been through
+a rigorous review process to ensure alignment with the Assessment Anchors prior to being
+piloted in an embedded field test within a PSSA assessment and then used operationally on a
+PSSA assessment Answer keys, scoring guidelines, and any related stimulus material are also
+included Additionally, sample student responses are provided with each open-ended (OE) item to
+demonstrate the range of responses that students provided in response to these items
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 20232INFORMATION ABOUT MATHEMATICS
+Purpose and Uses
+The items in this sampler may be used1 as examples for creating assessment items at the classroom
+level Classroom teachers may find it beneficial to have students respond to the open-ended item
+in this sampler Educators may then use the sampler as a guide to score the responses either
+independently or together with colleagues within a school or district This sampler also includes
+the General Description of Scoring Guidelines for Mathematics Open-Ended Items that students
+will have access to during a PSSA mathematics administration The general description of scoring
+guidelines may be distributed to students for use during local assessments and may also be used by
+educators when scoring local assessments
+Item Format and Scoring Guidelines
+The multiple-choice (MC) items have four answer choices Each correct response to an MC item is
+worth one point
+Each OE item is designed to take approximately ten to fifteen minutes to complete During the
+administration of the PSSA, students are given additional time as necessary to complete the test
+items Each OE item in mathematics is scored using an item-specific scoring guideline based on a
+0–4-point scale In this sampler, every item-specific scoring guideline is combined with examples of
+student responses that represent each score point to form a practical, item-specific scoring guide
+Item Alignment
+All PSSA items are aligned to statements and specifications included in the Assessment Anchors
+and Eligible Content Aligned to the Pennsylvania Core Standards. The mathematics content, process
+skills, directives, and action statements included in the PSSA mathematics questions align with the
+Assessment Anchor Content Standards The Eligible Content statements represent the limits of the
+content of the mathematics questions
+1 The permission to copy and/or use these materials does not extend to commercial purposes
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 20233INFORMATION ABOUT MATHEMATICS
+Testing Time and Mode of Testing Delivery for the PSSA
+The PSSA is delivered in a traditional paper-and-pencil format as well as in an online format The
+estimated time to respond to a test question is the same for both methods of test delivery The
+following table shows the estimated response time for each item type
+Mathematics Item Type MC OE
+Estimated Response Time
+(minutes) 2 10 to 15
+During an official test administration, students are given as much additional time as is necessary to
+complete the test questions
+Mathematics Reporting Categories
+The Assessment Anchors are organized into four classifications as listed below
+• A = Numbers and Operations • C = Geometry
+• B = Algebraic Concepts • D = Data Analysis and Probability
+These four classifications are used throughout the grade levels In addition to these classifications,
+there are five Reporting Categories for each grade level The first letter of each Reporting Category
+represents the classification; the second letter represents the Domain as stated in the Common Core
+State Standards for Mathematics Listed below are the Reporting Categories for Grade 8
+• A-N = The Number System
+• B-E = Expressions and Equations
+• B-F = Functions
+• C-G = Geometry
+• D-S = Statistics and Probability
+Examples of MC and OE items assessing these categories are included in this sampler
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 20234INFORMATION ABOUT MATHEMATICS
+Item and Scoring Sampler Format
+This sampler includes the test directions and scoring guidelines that appear in the PSSA
+Mathematics assessments Each MC item is followed by a table that includes the item alignment,
+the answer key, the depth of knowledge (DOK) level, the percentage2 of students who chose
+each answer option, and a brief answer-option analysis or rationale The OE item is followed by a
+table that includes the item alignment, the DOK level, and the mean student score Additionally,
+each of the included item-specific scoring guidelines is combined with sample student responses
+representing each score point to form a practical item-specific scoring guide The General
+Description of Scoring Guidelines for Mathematics Open-Ended Items used to develop the item-
+specific scoring guidelines should be used if any additional item-specific scoring guidelines are
+created for use within local instructional programs The student responses in this item and scoring
+sampler are actual student responses; however, the handwriting has been changed to protect the
+students’ identities and to make the item and scoring sampler accessible to as many people as
+possible
+Example Multiple-Choice Item Information Table
+Item Information
+Alignment Assigned AAEC
+Answer Key Correct Answer
+Depth of Knowledge Assigned DOK
+p-value A Percentage of students who selected option A
+p-value B Percentage of students who selected option B
+p-value C Percentage of students who selected option C
+p-value D Percentage of students who selected option D
+Option Annotations Brief answer-option analysis or rationale
+Example Open-Ended Item Information Table
+Alignment Assigned
+AAEC
+Depth of
+Knowledge
+Assigned
+DOK Mean Score Average
+Score
+2 All p-value percentages listed in the item information tables have been rounded
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 20235INFORMATION ABOUT MATHEMATICS
+General Description of Scoring Guidelines for Mathematics Open-Ended Items
+4—The response demonstrates a thorough understanding of the mathematical concepts and
+procedures required by the task
+The response provides correct answer(s) with clear and complete mathematical procedures
+shown and a correct explanation, as required by the task The response may contain a minor
+“blemish” or omission in work or explanation that does not detract from demonstrating a
+thorough understanding
+3—The response demonstrates a general understanding of the mathematical concepts and
+procedures required by the task
+The response and explanation (as required by the task) are mostly complete and correct The
+response may have minor errors or omissions that do not detract from demonstrating a general
+understanding
+2—The response demonstrates a partial understanding of the mathematical concepts and
+procedures required by the task
+The response is somewhat correct with partial understanding of the required mathematical
+concepts and/or procedures demonstrated and/or explained The response may contain some
+work that is incomplete or unclear
+1—The response demonstrates a minimal understanding of the mathematical concepts and
+procedures required by the task
+0—The response has no correct answer and insufficient evidence to demonstrate any
+understanding of the mathematical concepts and procedures required by the task for that
+grade level
+The response may show only information copied from the question
+Special Categories within zero reported separately:
+BLK (blank) Is blank, is entirely erased, or gives a written refusal to respond
+OT Is off-task
+LOE Is in a language other than English
+IL Is illegible
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 20236INFORMATION ABOUT MATHEMATICS
+Grade 8 Formula Sheet2023
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 20237
+PSSA MATHEMATICS GRADE 8
+MATHEMATICS TEST DIRECTIONS
+On the following pages are the mathematics questions
+• You may not use a calculator for questions 1–2 You may use a calculator for all other
+questions on this test
+Directions for Multiple-Choice Questions
+Some questions will ask you to select an answer from among four choices
+For the multiple-choice questions:
+• First solve the problem on scratch paper
+• Choose the correct answer and record your choice in the answer booklet
+• If none of the choices matches your answer, go back and check your work for
+possible errors
+• Only one of the answers provided is the correct response
+Directions for Open-Ended Questions
+Some questions will require you to write your response
+For the open-ended questions:
+• These questions have more than one part Be sure to read the directions carefully
+• You cannot receive the highest score for an open-ended question without completing
+all tasks in the question For example, if the question asks you to show your work or
+explain your reasoning, be sure to show your work or explain your reasoning in the
+space provided
+• If the question does not ask you to show your work or explain your reasoning, you
+may use the space provided, but only those parts of your response that the question
+specifically asks for will be scored
+• Write your response in the appropriate location within the response box in the
+answer booklet Some answers may require graphing, plotting, labeling, drawing, or
+shading If you use scratch paper, be sure to transfer your final response and any
+needed work or reasoning to the answer booklet
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 20238PSSA MATHEMATICS GRADE 8
+Question 1 in this sampler is to be solved without the use of a calculator
+MULTIPLE-CHOICE ITEMS
+1 What is 3
+√ __
+8?
+A 2
+B 3
+C 4
+D 5
+712509712509
+Item Information
+Alignment B-E 1 1 2
+Answer Key A
+Depth of Knowledge 1
+p-value A 55% (correct answer)
+p-value B 15%
+p-value C 18%
+p-value D 12%
+Option Annotations A Correct: recognizes that 8 = 2 • 2 • 2 = 23
+B selects the degree of the root
+C either selects a factor of 8 OR divides 8 by 2
+D computes as 8 – 3
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 20239PSSA MATHEMATICS GRADE 8
+Question 2 in this sampler is to be solved without the use of a calculator
+2 A national park covers approximately 3 × 105 acres of land A state park covers approximately
+5 × 103 acres of land The land area of the national park is approximately how many times as
+many acres as the land area of the state park?
+A 6
+B 17
+C 60
+D 167
+719327719327
+Item Information
+Alignment B-E 1 1 3
+Answer Key C
+Depth of Knowledge 2
+p-value A 18%
+p-value B 14%
+p-value C 53% (correct answer)
+p-value D 15%
+Option Annotations A divides 3 by 5 but then multiplies the quotient (0 6) by 10 rather than
+by 102
+B divides 5 by 3 and then multiplies the quotient ( 5__
+3 ) by 10 rather than
+by 102
+C Correct: recognizes 3 × 105 as the larger value, divides the
+coefficients as 3__
+5 = 0 6 and the powers of 10 as 105
+____
+103 = 105 – 3 = 102,
+and then solves 0 6 × 102 = 60
+D divides 5 by 3 and then multiplies the quotient ( 5__
+3 ) by 102
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202310PSSA MATHEMATICS GRADE 8
+A calculator is permitted for use in solving questions 3–16 in this sampler
+3 Brian claims that the product of a rational number and an irrational number is always irrational
+Which counterexample proves that Brian’s claim is not true?
+A multiplying 0 by 2__
+3
+B multiplying 0 by Ï}
+2
+C multiplying 1__
+2 by Ï}
+2
+D multiplying Ï}
+2 by Ï}
+2
+893111893111
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202311PSSA MATHEMATICS GRADE 8
+Item Information
+Alignment A-N 1 1 1
+Answer Key B
+Depth of Knowledge 2
+p-value A 18%
+p-value B 32% (correct answer)
+p-value C 28%
+p-value D 22%
+Option Annotations A selects two rational numbers with a rational product
+B Correct: recognizes that 0 is a rational number, Ï}
+2 is an irrational
+number, and their product (0 • Ï}
+2 = 0) is a rational number
+C selects a rational number and irrational number whose product is
+irrational rather than rational
+D selects two irrational numbers with a rational product
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202312PSSA MATHEMATICS GRADE 8
+4 One number in the list below is a rational number
+Ï}
+2___
+2
+Ï}
+6___
+2
+Ï}
+27____
+15
+Ï}
+36____
+15
+Which number line shows point N located at the value of the rational number?
+A
+0 0.5 1 1.5 2
+N
+B
+0 0.5 1 1.5 2
+N
+C
+0 0.5 1 1.5 2
+N
+D
+0 0.5 1 1.5 2
+N
+735270735270
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202313PSSA MATHEMATICS GRADE 8
+Item Information
+Alignment A-N 1 1 5
+A-N 1 1 1
+Answer Key A
+Depth of Knowledge 2
+p-value A 39% (correct answer)
+p-value B 34%
+p-value C 14%
+p-value D 13%
+Option Annotations A Correct: recognizes that Ï}
+36____
+15 is equal to 6___
+15, which is equivalent to
+0 4
+B evaluates Ï}
+2___
+2 as Ï}
+2__
+2 = Ï}
+1 = 1
+C evaluates Ï}
+6___
+2 as 6 ÷ 2_____
+2 = 3__
+2 = 1 5 (i e , considers the square root
+symbol to mean “divide by 2”)
+D evaluates Ï}
+27____
+15 as 27___
+15 = 1 8 (i e , does not consider the square root
+symbol)
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202314PSSA MATHEMATICS GRADE 8
+5 Solve for x: 72 = x2 – 32
+A Ï}
+10
+B Ï}
+20
+C Ï}
+42
+D Ï}
+58
+816574816574
+Item Information
+Alignment B-E 1 1
+Answer Key D
+Depth of Knowledge 1
+p-value A 18%
+p-value B 15%
+p-value C 21%
+p-value D 46% (correct answer)
+Option Annotations A calculates Ï}
+7 + 3
+B uses 72 = 14 and 32 = 6 to calculate Ï}
+14 + 6
+C calculates Ï}
+7 • 3 • 2
+D Correct: solves as 72 = x2 – 32  49 = x2 – 9  58 = x2  Ï}
+58 = x
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202315PSSA MATHEMATICS GRADE 8
+6 Kevin writes the population of his city in the form a × 105 He also writes the average income of
+the people in his city in the form b × 104 To find the total income for all the people in his city,
+he multiplies his two values Kevin says his product will be of the form c × 109 when written in
+scientific notation Which statement explains whether Kevin is correct?
+A Kevin is correct only if ab < 10
+B Kevin is correct only if a + b < 10
+C Kevin is not correct because the exponents are subtracted when multiplying powers with
+the same base, and 5 – 4 = 1
+D Kevin is not correct because the exponents are multiplied when multiplying powers with the
+same base, and 5 × 4 = 20
+815818815818
+Item Information
+Alignment B-E 1 1 4
+Answer Key A
+Depth of Knowledge 2
+p-value A 34% (correct answer)
+p-value B 30%
+p-value C 17%
+p-value D 19%
+Option Annotations A Correct: multiplies the coefficients as ab and the powers as
+105 • 104 = 105 + 4 = 109, resulting in the product ab × 109, and then
+recognizes that the form c × 109 is in scientific notation only when c
+(which represents the product ab) is less than 10 [Note: since a and
+b are both at least 1 and less than 10, the product ab would also be
+at least 1 but less than 100]
+B adds the coefficients rather than multiplying the coefficients
+C subtracts the exponents
+D multiplies the exponents
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202316PSSA MATHEMATICS GRADE 8
+7 Lily is making cookies The graph below shows the linear relationship between the number of
+cups of butter and the number of cups of sugar she usesCups of Butter
+Ingredients
+Cups of Sugar
+1
+1
+2
+3
+0 2
+y
+x
+1
+3 11
+3 12
+3
+2
+3
+How many cups of sugar does Lily use for 1 cup of butter?
+A 3__
+4
+B 11__
+2
+C 21__
+4
+D 3
+903527903527
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202317PSSA MATHEMATICS GRADE 8
+Item Information
+Alignment B-E 2 1
+Answer Key C
+Depth of Knowledge 2
+p-value A 15%
+p-value B 18%
+p-value C 59% (correct answer)
+p-value D 8%
+Option Annotations A determines the rate of change in cups of sugar for every 1__
+3 cup
+of butter
+B determines the amount of change in cups of sugar from 1__
+3 to 1 cup
+of butter
+C Correct: either recognizes that 3__
+4 cup of sugar is used for every
+1__
+3 cup of butter used, divides 3__
+4 by 1__
+3 to determine that 9__
+4 cups of
+sugar would be used for 1 cup of butter, and then rewrites 9__
+4 as 21__
+4
+OR starting at the origin, recognizes that the pattern is “up 3,
+right 2” and extends this pattern from the point at ( 2__
+3, 11__
+2 ) to arrive
+at the ordered pair ( 1, 21__
+4 ), identifying the y-coordinate ( 21__
+4 ) as the
+number of cups of sugar for 1 cup of butter (the x-coordinate)
+D sees that the amount of butter doubles from the first plotted point to
+the second plotted point, so doubles the y-coordinate ( 11__
+2 ) to
+locate the next point, thinking that the x-coordinate for that ordered
+pair will be 1 (i e , does not consider that both coordinates should
+double)
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202318PSSA MATHEMATICS GRADE 8
+8 Kara uses 4 red lights for every 9 purple lights in an art display Which graph models the
+relationship between the number of red lights (x) and the number of purple lights (y) Kara uses?
+Ay
+x
+4 820 6 10
+4
+8
+2
+6
+10
+Kara’s Art Display
+Red Lights
+Purple Lights By
+x
+4 820 6 10
+4
+8
+2
+6
+10
+Kara’s Art Display
+Red Lights
+Purple Lights
+Cy
+x
+4 820 6 10
+4
+8
+2
+6
+10
+Kara’s Art Display
+Red Lights
+Purple Lights Dy
+x
+4 820 6 10
+4
+8
+2
+6
+10
+Kara’s Art Display
+Red Lights
+Purple Lights
+714915714915
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202319PSSA MATHEMATICS GRADE 8
+Item Information
+Alignment B-E 2 1 1
+Answer Key D
+Depth of Knowledge 2
+p-value A 13%
+p-value B 7%
+p-value C 9%
+p-value D 71% (correct answer)
+Option Annotations A determines the unit rate is 4__
+9 (i e , inverts the rate of change)
+B determines the unit rate is 5 since 9 – 4 = 5
+C determines the unit rate is 4 since Kara uses 4 red lights
+D Correct: either determines the unit rate is 9__
+4 (purple lights over red
+lights) and identifies the graph that has a slope of 9__
+4 OR recognizes
+that the ordered pairs should be (number of red lights, number of
+purple lights) and identifies the graph with a line that starts at (0, 0)
+and passes through (4, 9)
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202320PSSA MATHEMATICS GRADE 8
+9 The graph below shows a line and triangles A and B0 1–1–2–3
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+2 3 4 5 6 7 8
+y
+x
+B
+A
+Which statement about the graph is correct?
+A The slope of the line is –3__
+2, and the length of the hypotenuse of triangle B is 3__
+2 times the
+length of the hypotenuse of triangle A
+B The slope of the line is –3__
+2, and the length of the hypotenuse of triangle B is 2 times the
+length of the hypotenuse of triangle A
+C The slope of the line is –2__
+3, and the length of the hypotenuse of triangle B is 3__
+2 times the
+length of the hypotenuse of triangle A
+D The slope of the line is –2__
+3, and the length of the hypotenuse of triangle B is 2 times the
+length of the hypotenuse of triangle A
+816573816573
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202321PSSA MATHEMATICS GRADE 8
+Item Information
+Alignment B-E 2 1 2
+Answer Key D
+Depth of Knowledge 2
+p-value A 12%
+p-value B 21%
+p-value C 19%
+p-value D 48% (correct answer)
+Option Annotations A either determines the change in x-coordinates from right to left
+rather than from left to right OR calculates the slope using the
+change in x-coordinates divided by the change in y-coordinates (i e ,
+uses “run over rise” rather than “rise over run”) and uses this ratio as
+the ratio between the side lengths of the similar triangles
+B recognizes that the side lengths of triangle B are twice the side
+lengths of triangle A, but calculates the slope using the change in
+x-coordinates divided by the change in y-coordinates (i e , uses “run
+over rise” instead of “rise over run”)
+C calculates the slope using the change in y-coordinates divided by
+the change in x-coordinates (i e , uses “rise over run”), resulting in
+–2__
+3, but then uses the ratio between the lengths of the sides within
+similar triangles as the ratio (i e , one leg in triangle B is 3__
+2 the length
+of the other leg)
+D Correct: calculates the slope of the line using the change in
+y-coordinates divided by the change in x-coordinates (i e , uses
+“rise over run”), resulting in a slope of –2__
+3, and recognizes that the
+side lengths of triangle B are twice the lengths of the corresponding
+sides in triangle A
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202322PSSA MATHEMATICS GRADE 8
+10 The graph below shows the relationship between the time, in hours, and the number of books
+printed, in thousands, at a book manufacturing company10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0 1 2 3 4 5 6 7 8 9 10
+y
+x
+Book Manufacturing Company
+Time (hours)
+Books Printed (thousands)
+Based on the graph, which equation describes the relationship between the time, in hours, and
+the number of books printed, in thousands?
+A y = 1__
+3x
+B y = x + 1__
+3
+C y = 3x
+D y = x + 3
+965857965857
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202323PSSA MATHEMATICS GRADE 8
+Item Information
+Alignment B-E 2 1 3
+Answer Key C
+Depth of Knowledge 1
+p-value A 24%
+p-value B 14%
+p-value C 52% (correct answer)
+p-value D 10%
+Option Annotations A inverts the slope
+B inverts the slope and uses the value of the inverted slope as the
+y-intercept
+C Correct: recognizes that a line starting at the origin should be in
+the form y = mx and that the slope (m) is calculated by dividing the
+change in y-coordinates by the change in x-coordinates (i e , “rise
+over run”), resulting in a slope of 3__
+1 = 3 for this line
+D calculates the slope but uses the value of the slope as the
+y-intercept
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202324PSSA MATHEMATICS GRADE 8
+11 Solve: 3x + 8 = 2(x – 5) + x
+A x = – 18
+B x = 18
+C no solutions
+D infinitely many solutions
+816565816565
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202325PSSA MATHEMATICS GRADE 8
+Item Information
+Alignment B-E 3 1 1
+Answer Key C
+Depth of Knowledge 1
+p-value A 14%
+p-value B 16%
+p-value C 56% (correct answer)
+p-value D 14%
+Option Annotations A distributes the 2 to (x – 5) but omits the “+ x” and then solves the
+equation 3x + 8 = 2x – 10
+B distributes the 2 to (x – 5) and to the “+ x” and then solves the
+equation 3x + 8 = 2x – 10 + 2x
+C Correct: distributes the 2 to (x – 5), resulting in 2x – 10 + x; combines
+like terms to simplify the expression to 3x – 10; solves the equation
+3x + 8 = 3x – 10 by subtracting 3x from each side, resulting in
+8 = – 10; recognizes that 8 = – 10 is a false statement, which means
+that the equation has no solutions
+D solves the equation, resulting in 8 = – 10, recognizes that 8 = – 10 is
+a false statement, but interprets the false statement to mean that the
+equation has infinitely many solutions rather than no solutions
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202326PSSA MATHEMATICS GRADE 8
+12 Two functions are represented by the graph and table below6
+5
+4
+3
+2
+1
+–1
+–2
+–3
+–4
+–5
+–6
+1 2 3 4 5 6–6 –4–5 –3 –2 –1
+y
+x
+Function 1 Function 2
+x
+–3
+–2
+–1
+0
+1
+y
+0
+2
+8
+3
+2
+3
+4
+3
+Which statement about the rate of change for the two functions is true?
+A The rate for function 1 is greater because 3__
+2 > 2__
+3
+B The rate for function 2 is greater because 3__
+2 > 2__
+3
+C The rate for function 1 is greater because it has a greater y-intercept
+D The rate for function 2 is greater because it has a greater x-intercept
+816609816609
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202327PSSA MATHEMATICS GRADE 8
+Item Information
+Alignment B-F 1 1 2
+Answer Key A
+Depth of Knowledge 2
+p-value A 45% (correct answer)
+p-value B 18%
+p-value C 25%
+p-value D 12%
+Option Annotations A Correct: calculates the rate of change for function 1 by using the
+change in y-coordinates divided by the change in x-coordinates
+(i e , “rise over run”), resulting in 3__
+2, calculates the rate of change
+for function 2 by using the change in y-coordinates divided by the
+change in x-coordinates, resulting in 2 – 0______
+0 – –3 = 2__
+3, and then compares
+the two rates of change
+B calculates the rate of change for both functions by using the change
+in x-coordinates divided by the change in y-coordinates rather than
+the change in y-coordinates divided by the change in x-coordinates
+(i e , uses “run over rise” rather than “rise over run”)
+C uses the y-intercept of each function as the rate of change,
+comparing 3 to 2
+D uses the x-intercept of each function as the rate of change,
+comparing – 2 to – 3, and considers – 3 to be greater since it is farther
+from 0 (i e , compares the absolute values of the x-intercepts)
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202328PSSA MATHEMATICS GRADE 8
+13 The table below represents a function of x
+x y
+– 5 0
+– 3 2
+– 1 4
+1 6
+3 8
+Which statement about the function is true?
+A The function is increasing, has a y-intercept of 5, and has a slope of 1
+B The function is decreasing, has a y-intercept of 5, and has a slope of 1
+C The function is increasing, has a y-intercept of – 5, and has a slope of – 1
+D The function is decreasing, has a y-intercept of – 5, and has a slope of – 1
+816615816615
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202329PSSA MATHEMATICS GRADE 8
+Item Information
+Alignment B-F 2 1 1
+Answer Key A
+Depth of Knowledge 2
+p-value A 51% (correct answer)
+p-value B 10%
+p-value C 27%
+p-value D 12%
+Option Annotations A Correct: determines that the function is increasing since the y-values
+increase as the x-values increase, calculates the slope using the
+change in y-coordinates divided by the change in x-coordinates,
+resulting in 8 – 6_____
+3 – 1 = 2__
+2 = 1, and then uses the slope to determine that
+the line would pass through the point (0, 5), making the y-intercept 5
+B sees the negative x-values and thinks this means the function is
+decreasing
+C uses the x-intercept as the y-intercept and switches either the
+x-values or the y-values when determining the slope
+D sees the negative x-values and thinks this means the function is
+decreasing, uses the x-intercept as the y-intercept, and switches
+either the x-values or the y-values when determining the slope
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202330PSSA MATHEMATICS GRADE 8
+14 The graph below models the number of people (y) in a library based on the number of hours (x)
+since the library openedPeople in Library
+Hours Since Library Opened
+Number of People in Library
+26
+24
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+10 2 3 4 65 7 8 9 10 11 12
+y
+x
+Between which two consecutive hours since the library opened does the number of people in
+the library increase the most?
+A between 3 and 4 hours
+B between 4 and 5 hours
+C between 6 and 7 hours
+D between 7 and 8 hours
+815821815821
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202331PSSA MATHEMATICS GRADE 8
+Item Information
+Alignment B-F 2 1 2
+Answer Key C
+Depth of Knowledge 2
+p-value A 5%
+p-value B 6%
+p-value C 68% (correct answer)
+p-value D 21%
+Option Annotations A selects the interval with the only increase (+ 6) after a decrease (– 2)
+B selects an interval with no change
+C Correct: recognizes that from the 6-hour mark to the 7-hour mark,
+the y-values increase from 16 to 26, which is the greatest increase
+on the graph
+D selects a decreasing interval
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202332PSSA MATHEMATICS GRADE 8
+15 The scatter plot shown below represents the price and number of pages for each of
+9 paperback books2
+4
+6
+8
+10
+12
+14
+16
+0 100 150 200 250 300 350 400 450
+y
+x
+Prices of Paperback Books
+Number of Pages
+Price ($)
+Which statement about the prices and numbers of pages for the paperback books represented
+in the scatter plot is true?
+A The point (125, 6) is an outlier
+B There is a cluster of data at x = 400
+C The data show a positive correlation
+D The data show a nonlinear association
+969279969279
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202333PSSA MATHEMATICS GRADE 8
+Item Information
+Alignment D-S 1 1 1
+Answer Key C
+Depth of Knowledge 1
+p-value A 9%
+p-value B 18%
+p-value C 60% (correct answer)
+p-value D 13%
+Option Annotations A considers the least or leftmost point to be an outlier
+B defines a cluster as a set of data points for which more than 1 data
+point has the same x-coordinate
+C Correct: recognizes that, in general, the y-values increase as the
+x-values increase, and identifies this type of pattern as a positive
+correlation
+D considers the association to be nonlinear since the data points do
+not lie on a single line
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202334PSSA MATHEMATICS GRADE 8
+OPEN-ENDED QUESTION
+16 Some figures are plotted on the coordinate grid shown below1 2 3 4 5 6–5 –4 –3 –2 –1
+y
+x
+Q
+P
+A
+A'
+B
+7
+8
+7
+6
+5
+4
+3
+2
+1
+–1
+–2
+–3
+–4
+–5
+A Rounded to the nearest hundredth, what is the length, in units, of
+line segment PQ?
+Go to the next page to finish question 16 GO ON
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202335PSSA MATHEMATICS GRADE 8
+16 Continued. Please refer to the previous page for task explanation
+Figure A is mapped onto figure A' without a rotational transformation
+B Identify a set of two transformations that could map figure A onto figure A'
+without using a rotational transformation
+transformation 1:
+transformation 2:
+C Explain why figure A is congruent to figure A'
+A set of transformations maps figure A onto figure B
+D Explain why one of the transformations must be a dilation
+894662894662
+After you have finished your work, close this booklet so your
+teacher will know you are finished
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202336PSSA MATHEMATICS GRADE 8
+Item-Specific Scoring Guideline
+#16 Item Information
+Alignment C-G 1
+C-G 2 1 3
+Depth of
+Knowledge 2 Mean Score 1 38
+Assessment Anchor this item will be reported under:
+M08 C-G 1—Demonstrate an understanding of geometric transformations
+Specific Anchor Descriptor addressed by this item:
+M08 C-G 1 1—Apply properties of geometric transformations to verify congruence or similarity
+Scoring Guide
+Score In this item, the student
+4 Demonstrates a thorough understanding of geometric transformations by correctly
+solving problems and clearly explaining procedures
+3 Demonstrates a general understanding of geometric transformations by correctly solving
+problems and clearly explaining procedures with only minor errors or omissions
+2 Demonstrates a partial understanding of geometric transformations by correctly
+performing a significant portion of the required task
+1 Demonstrates minimal understanding of geometric transformations
+0
+The response has no correct answer and insufficient evidence to demonstrate any
+understanding of the mathematical concepts and procedures as required by the task
+Response may show only information copied from the question
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202337PSSA MATHEMATICS GRADE 8
+Top-Scoring Student Response and Training Notes
+Score Description
+4 Student earns 4 points
+3 Student earns 3 0–3 5 points
+2 Student earns 2 0–2 5 points
+1
+Student earns 0 5–1 5 points
+OR
+Student demonstrates minimal understanding of geometric transformations
+0 Response is incorrect or contains some correct work that is irrelevant to the skill or
+concept being measured
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202338PSSA MATHEMATICS GRADE 8
+Top-Scoring Response
+Part A (1 point):
+1 point for correct answer
+OR 1}
+2 point for using Ï}
+10 or for rounding incorrectly
+What? Why?
+3 16 (units)
+OR equivalent
+Part B (1 point):
+1 point for correct answer
+What? Why?
+Answers may vary Responses may be either two reflections (order does not
+matter) such that the lines of reflection are perpendicular and intersect at the
+origin or two dilations (order does not matter) such that the product of the
+scale factors is – 1 [Note: For the PSSA, students may use the informal term
+“flip” rather than “reflection”; also, the center of dilation is the origin (unless
+stated otherwise), so students are not required to include the center of dilation
+as part of their response.]
+Sample Responses:
+transformation 1: reflection across the x-axis
+transformation 2: reflection across the y-axis
+OR
+transformation 1: dilation of – 2
+transformation 2: dilation of 0 5
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202339PSSA MATHEMATICS GRADE 8
+Part C (1 point):
+1 point for correct and complete explanation
+OR 1}
+2 point for correct but incomplete explanation
+What? Why?
+Sample Explanations:
+Figure A is congruent to figure A' because the corresponding sides have equal
+lengths and the corresponding angles have equal measurement
+OR
+Figure A is congruent to figure A' because congruency is preserved under
+reflections
+OR equivalent
+Part D (1 point):
+1 point for correct and complete explanation
+OR 1}
+2 point for correct but incomplete explanation
+What? Why?
+Sample Explanation:
+Figure B is a larger version of figure A, with corresponding sides being in
+proportion and corresponding angles being equal The only transformation that
+can increase/decrease the size of a figure, while preserving angle measures
+and keeping side lengths proportional, is a dilation
+OR equivalent
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202340PSSA MATHEMATICS GRADE 8
+STUDENT RESPONSE
+Response Score: 4 points
+PARTS A and B
+Question 16
+Page 1 of 2
+Part A The student provided the correct answer (PQ = 3.16) While support is not required for Part A, the student
+likely used the Pythagorean theorem to solve the equation 32 + 12 = c2 , simplified the left side as 9 + 1 = 10,
+calculated Ï}
+10 as approximately 3 162, and then rounded to the nearest hundredth [1 point]
+Part B The student correctly provided a set of two transformations (transformation 1: flip over the x-axis and
+transformation 2: flip over the y-axis) that could map figure A onto figure A’ without using a rotational
+transformation [1 point]
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202341PSSA MATHEMATICS GRADE 8
+PARTS C and D
+Question 16
+Page 2 of 2
+Part C The student provided a correct explanation (Figure A did not get dialated . . . so it stayed the same size. Also,
+if you measure the sides, they are the same lengths) as to why figure A is congruent to figure A’ [1 point]
+Part D The student provided a correct explanation (figure B is bigger than figure A) as to why one of the
+transformations must be a dilation to map figure A onto figure B [1 point]
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202342PSSA MATHEMATICS GRADE 8
+STUDENT RESPONSE
+Response Score: 3 points
+16 Some figures are plotted on the coordinate grid shown below1 2 3 4 5 6–5 –4 –3 –2 –1
+y
+x
+Q
+P
+A
+A'
+B
+7
+8
+7
+6
+5
+4
+3
+2
+1
+–1
+–2
+–3
+–4
+–5
+A Rounded to the nearest hundredth, what is the length, in units, of
+line segment PQ?
+Part A The student provided an incorrect answer (≈ 3.25 units) This answer is not correctly rounded or
+truncated No support (work or explanation) is required, so it is unclear where an error was made
+[0 points]
+Go to the next page to finish question 16 GO ON
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202343PSSA MATHEMATICS GRADE 8
+16 Continued. Please refer to the previous page for task explanation
+Figure A is mapped onto figure A' without a rotational transformation
+B Identify a set of two transformations that could map figure A onto figure A'
+without using a rotational transformation
+transformation 1:
+transformation 2:
+C Explain why figure A is congruent to figure A'
+A set of transformations maps figure A onto figure B
+D Explain why one of the transformations must be a dilation
+After you have finished your work, close this booklet so your
+teacher will know you are finished
+Part B The student correctly provided a set of two transformations (transformation 1: A reflection across the
+x axis and transformation 2: A reflection across the y axis) [1 point]
+Part C The student provided a correct explanation (they are both the same shape and size) as to why
+figure A is congruent to figure A’ [1 point]
+Part D The student provided a correct explanation (they are both the same shape and size) as to why
+figure A is congruent to figure A’ [1 point]
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202344PSSA MATHEMATICS GRADE 8
+STUDENT RESPONSE
+Response Score: 2 points
+PARTS A and B
+Question 16
+Page 1 of 2
+Part A The student provided an answer correctly rounded to the nearest tenth (3.2 units) rather than to the nearest
+hundredth While support is not required for Part A, the student likely used the Pythagorean theorem to solve
+the equation 32 + 12 = c2 , simplified the left side as 9 + 1 = 10, calculated Ï}
+10 as approximately 3 162, and
+then rounded to the nearest tenth [0 5 points]
+Part B The student provided an incorrect set of two transformations ( transformation 1: A reflection over x-axis
+and transformation 2: A dilation of 1__
+2 ) that could map figure A onto figure A’ without using a rotational
+transformation Both transformations must be correct for credit to be awarded [0 points]
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202345PSSA MATHEMATICS GRADE 8
+PARTS C and D
+Question 16
+Page 2 of 2
+Part C The student provided a correct but incomplete explanation (both figures have the same angle measurements)
+as to why figure A is congruent to figure A’ Figures with the same angle measures are similar but not
+necessarily congruent A second comparison, such as observing that the two figures have the same size,
+same shape, or same side lengths, is needed for a complete explanation [0 5 points]
+Part D The student provided a correct explanation (Figure a is one size and figure B is another) as to why one of the
+transformations must be a dilation to map figure A onto figure B [1 point]
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202346PSSA MATHEMATICS GRADE 8
+STUDENT RESPONSE
+Response Score: 1 point
+16 Some figures are plotted on the coordinate grid shown below1 2 3 4 5 6–5 –4 –3 –2 –1
+y
+x
+Q
+P
+A
+A'
+B
+7
+8
+7
+6
+5
+4
+3
+2
+1
+–1
+–2
+–3
+–4
+–5
+A Rounded to the nearest hundredth, what is the length, in units, of
+line segment PQ?
+Part A The student provided incorrect answers (2.12 or 22) for the length of line segment PQ No support
+(work or explanation) is required, so it is unclear where an error was made [0 points]
+Go to the next page to finish question 16 GO ON
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202347PSSA MATHEMATICS GRADE 8
+16 Continued. Please refer to the previous page for task explanation
+Figure A is mapped onto figure A' without a rotational transformation
+B Identify a set of two transformations that could map figure A onto figure A'
+without using a rotational transformation
+transformation 1:
+transformation 2:
+C Explain why figure A is congruent to figure A'
+A set of transformations maps figure A onto figure B
+D Explain why one of the transformations must be a dilation
+After you have finished your work, close this booklet so your
+teacher will know you are finished
+Part B The student provided an incorrect set of two transformations (transformation 1: Reflection transformation and
+transformation 2: Translation transformation) that could map figure A onto figure A’ without using a rotational
+transformation The first transformation does not specify what the figure is reflected over, and the second
+transformation is incorrect Both transformations must be correct for credit to be awarded [0 points]
+Part C The student provided an incorrect explanation (they still run threw the 0.0 axis) as to why figure A is
+congruent to figure A’ [0 points]
+Part D The student provided a correct explanation (it has became bigger) as to why one of the
+transformations must be a dilation to map figure A onto figure B [1 point]
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202348PSSA MATHEMATICS GRADE 8
+STUDENT RESPONSE
+Response Score: 0 points
+PARTS A and B
+Question 16
+Page 1 of 2
+Part A The student provided an incorrect answer (4) for the length of line segment PQ No support (work or
+explanation) is required, so it is unclear where an error was made The student may have added the two sides
+of the triangle (3 + 1 = 4) to find the length of line segment PQ [0 points]
+Part B The student provided an incorrect set of two transformations (transformation 1: Both start at origin (0, 0) and
+transformation 2: figure A is transferred across y axis) that could map figure A onto figure A’ without using a
+rotational transformation [0 points]
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202349PSSA MATHEMATICS GRADE 8
+PARTS C and D
+Question 16
+Page 2 of 2
+Part C The student provided an incorrect explanation (They are both mapped together) as to why figure A is
+congruent to figure A’ [0 points]
+Part D The student provided an incorrect explanation (it would not go across the y axis) as to why one of the
+transformations must be a dilation to map figure A onto figure B [0 points]
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202350PSSA MATHEMATICS GRADE 8
+MATHEMATICS—SUMMARY DATA
+Multiple-Choice
+Sample
+Number Alignment Answer Key Depth of
+Knowledge
+p-value
+A
+p-value
+B
+p-value
+C
+p-value
+D
+1 B-E 1 1 2 A 1 55% 15% 18% 12%
+2 B-E 1 1 3 C 2 18% 14% 53% 15%
+3 A-N 1 1 1 B 2 18% 32% 28% 22%
+4 A-N 1 1 5
+A-N 1 1 1 A 2 39% 34% 14% 13%
+5 B-E 1 1 D 1 18% 15% 21% 46%
+6 B-E 1 1 4 A 2 34% 30% 17% 19%
+7 B-E 2 1 C 2 15% 18% 59% 8%
+8 B-E 2 1 1 D 2 13% 7% 9% 71%
+9 B-E 2 1 2 D 2 12% 21% 19% 48%
+10 B-E 2 1 3 C 1 24% 14% 52% 10%
+11 B-E 3 1 1 C 1 14% 16% 56% 14%
+12 B-F 1 1 2 A 2 45% 18% 25% 12%
+13 B-F 2 1 1 A 2 51% 10% 27% 12%
+14 B-F 2 1 2 C 2 5% 6% 68% 21%
+15 D-S 1 1 1 C 1 9% 18% 60% 13%
+Open-Ended
+Sample
+Number Alignment Points Depth of
+Knowledge Mean Score
+16 C-G 1
+C-G 2 1 3 4 2 1 38
+PSSA Grade 8 Mathematics Item and Scoring Sampler—August 202351PSSA MATHEMATICS GRADE 8
+Copyright © 2023 by the Pennsylvania Department of Education The materials contained in
+this publication may be duplicated by Pennsylvania educators for local classroom use This
+permission does not extend to the duplication of materials for commercial use
+PSSA Grade 8 Mathematics
+Item and Scoring Sampler

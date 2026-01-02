@@ -1,0 +1,940 @@
+New York State administered the English Language Arts Tests
+in March 2022 and is now making approximately 75% of the
+questions from these tests available for review and use.
+New York State Testing Program
+Grade 8
+English Language Arts Test
+Released Questions
+2022
+THE STATE EDUCATION DEPARTMENT / THE UNIVERSITY OF THE STATE OF NEW YORK / ALBANY, NY 12234
+New York State Testing Program
+Grades 3–8 English Language Arts
+Released Questions from 2022 Exams
+Background
+As in past years, the State Education Department (SED) is releasing large portions of the 2022 NYS
+Grades 3–8 English Language Arts and Mathematics test materials for review, discussion, and use.
+For 2022, included in these released materials are at least 75 percent of the test questions that appeared on
+the 2022 tests (including all constructed-response questions) that counted toward students’ scores.
+Additionally, SED is providing information about the released passages; the associated text complexity for each
+passage; and a map that details what learning standards each released question measures and the correct
+response to each question. These released materials will help students, families, educators, and the public better
+understand the tests and the New York State Education Department’s expectations for students.
+Understanding ELA Questions
+Multiple-Choice Questions
+Multiple-choice questions are designed to assess the New York State P–12 Learning Standards in English
+Language Arts. These questions ask students to analyze different aspects of a given text, including central idea,
+style elements, character and plot development, and vocabulary. Almost all questions, including vocabulary
+questions, will be answered correctly only if the student comprehends and makes use of the whole passage.
+Short-Response Questions
+Short-response questions are designed to assess New York State P–12 Reading and Language Standards.
+These are single questions in which a student uses textual evidence to support their answer to an
+inferential question. These questions ask the student to make an inference (a claim, position, or conclusion)
+based on their analysis of the passage, and then provide two pieces of text-based evidence to support their
+answer.
+The purpose of the short-response questions is to assess a student’s ability to comprehend and analyze text.
+In responding to these questions, students are expected to write in complete sentences. Responses require no
+more than three complete sentences. The rubric used for evaluating short-response questions can be found in
+the grade-level Educator Guides at http://www.nysed.gov/state-assessment/grades-3-8-ela-and-math-test-
+manuals.
+Extended-Response Questions
+Extended-response questions are designed to measure a student’s ability to write from sources. Questions that
+measure Writing from Sources prompt students to communicate a clear and coherent analysis of one or two
+texts. The comprehension and analysis required by each extended response is directly related to grade-
+specific reading standards. Student responses are evaluated on the degree to which they meet grade-level writing
+and language expectations. This evaluation is made by using a rubric that incorporates demands of grade-
+specific New York State P–12 Reading and Language standards.
+The integrated nature of the standards for ELA and literacy requires that students are evaluated across the
+strands (Reading, Writing, and Language) with longer pieces of writing, such as those prompted by the
+extended-response questions. The rubric used for evaluating extended-response questions can be found in the
+grade-level Educator Guides at http://www.nysed.gov/state-assessment/grades-3-8-ela-and-math-test-
+manuals.
+New York State P–12 Learning Standards Alignment
+The alignment to the New York State P–12 Learning Standards for English Language Arts is intended to identify
+the analytic skills necessary to successfully answer each question. However, some questions measure
+proficiencies described in multiple standards, including writing and additional reading and language standards.
+For example, two-point and four-point constructed-response questions require students to first conduct the
+analyses described in the mapped standard and then produce written responses that are rated based on
+writing standards. To gain greater insight into the measurement focus for constructed-response questions,
+please refer to the rubrics.
+These Released Questions Do Not Comprise a “Mini Test”
+To ensure it is possible to develop future tests, some content must remain secure. This document is not
+intended to be representative of the entire test, to show how operational tests look, or to provide
+information about how teachers should administer the test; rather, its purpose is to provide an overview of how
+the test reflects the demands of the New York State P–12 Learning Standards.
+The released questions do not represent the full spectrum of the standards assessed on the State tests, nor do
+they represent the full spectrum of how the standards should be taught and assessed in the classroom. It
+should not be assumed that a particular standard will be measured by an identical question in future
+assessments.
+2022 Grade 8 ELA Test Text Complexity Metrics for
+Released Questions
+Selecting high-quality, grade-appropriate passages requires both objective text
+complexity metrics and expert judgment. For the Grades 3–8 assessments based on the
+New York State P-12 Learning Standards for English Language Arts, both quantitative
+and qualitative rubrics are used to determine the complexity of the texts and their
+appropriate placement within a grade-level ELA exam.
+Quantitative measures of text complexity are used to measure aspects of text
+complexity that are difficult for a human reader to evaluate when examining a text.
+These aspects include word frequency, word length, sentence length, and text cohesion.
+These aspects are efficiently measured by computer programs. While quantitative text
+complexity metrics are a helpful start, they are not definitive.
+Qualitative measures are a crucial complement to quantitative measures. Using
+qualitative measures of text complexity involves making an informed decision about the
+difficulty of a text in terms of one or more factors discernible to a human reader
+applying trained judgment to the task. To qualitatively determine the complexity of a
+text, educators use a rubric composed of five factors; four of these factors are required
+and one factor is optional. The required criteria are: meaning, text structure, language
+features, and knowledge demands. The optional factor, graphics, is used only if a
+graphic appears in the text.
+To make the final determination as to whether a text is at grade-level and thus
+appropriate to be included on a Grades 3–8 assessment, New York State uses a two-step
+review process, which is an industry best-practice. First, all prospective passages
+undergo quantitative text complexity analysis using three text complexity measures. If
+at least two of the three measures suggest that the passage is grade-appropriate, the
+passage then moves to the second step, which is the qualitative review using the text-
+complexity rubrics. Only passages that are determined appropriate by at least two of
+three quantitative measures of complexity and are determined appropriate by the
+qualitative measure of complexity are deemed appropriate for use on the exam.
+Text Complexity Metrics for 2022 Grade 8 Passages
+Passage Title Word
+Count
+Lexile
+Flesch-Kincaid
+ATOS
+Qualitative
+Review
+Excerpt from "The Beadwork" from
+American Indian Stories 948 1050 7 7.5 Appropriate
+Excerpt from The Guest Cat 818 1120 8.7 7.3 Appropriate
+Excerpt from The Call of Coney Island 777 1130 10.2 8.9 Appropriate
+Excerpt from “What Kids Learn from
+Hearing Family Stories” 752 1190 10 8.5 Appropriate
+Excerpt from 100 Days and 99 Nights 746 1170 9 7.4 Appropriate
+"Rain Check" 173 N/A N/A N/A Appropriate
+New York State 2022 Quantitative Text Complexity Chart for Assessment and Curriculum
+To determine if a text’s quantitative complexity is at the appropriate grade level, New
+York State uses the table below. In cases where a text is excerpted from a large work,
+only the complexity of the excerpt that students see on the test is measured, not the
+large work, so it is possible that the complexity of a book might be above or below grade
+level, but the text used on the assessment is at grade level. Because the measurement
+of text complexity is inexact, quantitative measures of complexity are defined by grade
+band rather than by individual grade level and then paired with the qualitative review by
+an educator.
+Grade
+Band ATOS
+Degrees of
+Reading
+Power Flesch-Kincaid
+The Lexile
+Framework
+Reading
+Maturity SourceRater
+2nd –3rd 2.75 – 5.14 42 – 54 1.98 – 5.34 420 – 820 3.53 – 6.13 0.05 – 2.48
+4th –5th 4.97 – 7.03 52 – 60 4.51 – 7.73 740 – 1010 5.42 – 7.92 0.84 – 5.75
+6th –8th 7.00 – 9.98 57 – 67 6.51 – 10.34 925 – 1185 7.04 – 9.57 4.11 – 10.66
+9th –10th 9.67 – 12.01 62 – 72 8.32 – 12.12 1050 – 1335 8.41 – 10.81 9.02 – 13.93
+11th –12th 11.20 – 14.10 67 – 74 10.34 – 14.20 1185 – 1385 9.57 – 12.00 12.30 – 14.50
+Source: Student Achievement Partners
+RELEASED QUESTIONS
+Excerpt from “The Beadwork” from American Indian Stories by Zitkala-Sa. Used with permission of University of Nebraska Press via
+Copyright Clearance Center.
+Excerpt from The Guest Cat by Takashi Hiraide. Copyright © 2001 by Takashi Hiraide. Used with permission of New Directions via
+Copyright Clearance Center.
+Excerpt from “The Call of Coney Island” by Cynthia Overbeck Bix, Cobblestone, July 1, 2015. Copyright © 2015 by Cricket Media.
+Used with permission of Carus Publishing Company via Copyright Clearance Center.
+Developed and published under contract with the New York State Education Department by Questar Assessment Inc., 5550 Upper 147th
+Street West, Minneapolis, MN 55124. Copyright © 2022 by the New York State Education Department.
+Session 1
+
+EExxcceerrpptt ffrroomm ““ee BBeeaaddwwoorrkk”” ffrroommAAmmeerriiccaann IInnddiiaann SSttoorriieess
+by Zitkala-Sa
+Soon aer breakfast mother sometimes began her beadwork. On a bright, clear day,
+she pulled out the wooden pegs that pinned the skirt of our wigwam to the ground, and
+rolled the canvas part way up on its frame of slender poles. en the cool morning
+breezes swept freely through our dwelling, now and then waing the perfume of sweet
+grasses from the newly burnt prairie.
+1
+Untying the long tasseled strings that bound a small brown buckskin bag, my
+mother spread upon a mat beside her bunches of colored beads, just as an artist
+arranges the paints upon his palette. On a lapboard she smoothed out a double sheet of
+so white buckskin; and drawing from a beaded case that hung on the le of her wide
+belt a long, narrow blade, she trimmed the buckskin into shape. Oen she worked
+upon small moccasins for her small daughter. en I became intensely interested in her
+designing. With a proud, beaming face, I watched her work. In imagination, I saw
+myself walking in a new pair of snugly fitting moccasins. I felt the envious eyes of my
+playmates upon the pretty red beads decorating my feet.
+2
+Close beside my mother I sat on a rug, with a scrap of buckskin in one hand and an
+awl in the other. is was the beginning of my practical observation lessons in the art
+of beadwork. From a skein of finely twisted threads of silvery sinews my mother pulled
+out a single one. With an awl she pierced the buckskin, and skillfully threaded it with
+the white sinew. Picking up the tiny beads one by one, she strung them with the point
+of her thread, always twisting it carefully aer every stitch. . . .
+3
+Always aer these confining lessons I was wild with surplus spirits, and found
+joyous relief in running loose in the open again. Many a summer aernoon a party of
+four or five of my playmates roamed over the hills with me. We each carried a light,
+sharpened rod about four feet long, with which we pried up certain sweet roots. When
+we had eaten all the choice roots we chanced upon, we shouldered our rods and strayed
+off into patches of a stalky plant under whose yellow blossoms we found little crystal
+4
+Page 8GO ON
+Session 1
+Read this passage. Then answer questions 8 through 14.
+drops of gum. Drop by drop we gathered this nature’s rock-candy, until each of us
+could boast of a lump the size of a small bird’s egg. Soon satiated11 with its woody
+flavor, we tossed away our gum, to return again to the sweet roots.
+I remember well how we used to exchange our necklaces, beaded belts, and
+sometimes even our moccasins. We pretended to offer them as gis to one another. We
+delighted in impersonating our own mothers. We talked of things we had heard them
+say in their conversations. We imitated their various manners, even to the inflection of
+their voices. In the lap of the prairie we seated ourselves upon our feet, and leaning our
+painted cheeks in the palms of our hands, we rested our elbows on our knees, and bent
+forward as old women were most accustomed to do.
+5
+While one was telling of some heroic deed recently done by a near relative, the rest
+of us listened attentively, and exclaimed in undertones “Han! han!” (yes! yes!) whenever
+the speaker paused for breath, or sometimes for our sympathy. As the discourse
+became more thrilling, according to our ideas, we raised our voices in these
+interjections. In these impersonations our parents were led to say only those things that
+were in common favor.
+6
+No matter how exciting a tale we might be rehearsing, the mere shiing of a cloud
+shadow in the landscape near by was sufficient to change our impulses; and soon we
+were all chasing the great shadows that played among the hills. We shouted and
+whooped in the chase; laughing and calling to one another, we were like little
+sportive nymphs22 on that Dakota sea of rolling green.
+7
+On one occasion I forgot the cloud shadow in a strange notion to catch up with my
+own shadow. Standing straight and still, I began to glide aer it, putting out one foot
+cautiously. When, with the greatest care, I set my foot in advance of myself, my shadow
+crept onward too. en again I tried it; this time with the other foot. Still again my
+shadow escaped me. I began to run; and away flew my shadow, always just a step
+beyond me. Faster and faster I ran, setting my teeth and clenching my fists, determined
+to overtake my own fleet shadow. But ever swier it glided before me while I was
+growing breathless and hot. Slackening my speed, I was greatly vexed that my shadow
+should check its pace also. Daring it to the utmost, as I thought, I sat down upon a rock
+imbedded in the hillside.
+8
+So! my shadow had the impudence33 to sit down beside me!9
+Now my comrades caught up with me, and began to ask why I was running away so
+fast.
+10
+Page 9Session 1
+GO ON
+_______________________
+11ssaattiiaatteedd:: completely satisfied
+22ssppoorrttiivvee nnyymmpphhss:: playful creatures of the woods
+33iimmppuuddeennccee:: nerve
+“Oh, I was chasing my shadow! Didn’t you ever do that?” I inquired, surprised that
+they should not understand.
+11
+ey planted their moccasined feet firmly upon my shadow to stay it, and I arose.
+Again my shadow slipped away, and moved as oen as I did. en we gave up trying to
+catch my shadow.
+12
+Before this peculiar experience, I have no distinct memory of having recognized any
+vital bond between myself and my shadow. I never gave it an aerthought.
+13
+Returning to our borrowed belts and trinkets, we rambled homeward. at evening,
+as on other evenings, I went to sleep over my legends.
+14
+Page 10GO ON
+Session 1
+Which detail bbeesstt reflects the narrator’s point of view of her mother and her beadwork?
+A comparing the mother to an artist arranging paints upon a palette
+B describing the mother drawing a blade to trim the buckskin
+C mentioning the mother making moccasins for her daughter
+D describing the mother picking up the tiny beads one at a time
+What similarity is shared between the events in paragraph 3 and the events in paragraph 4?
+A Both paragraphs emphasize the value of honoring family traditions.
+B Both paragraphs describe the ability to use tools with precision.
+C Both paragraphs demonstrate how teachers inspire others.
+D Both paragraphs highlight the joys of friendship and play.
+e central idea of paragraph 4 is
+A children enjoy eating sweet things
+B the narrator is a leader among her friends
+C children are able to make their own fun
+D the setting has many natural resources
+8
+9
+10
+Page 11Session 1
+GO ON
+What does the narrator’s frequent use of the word “we” in paragraphs 4 and 5 suggest?
+A youthfulness
+B dependence
+C companionship
+D remembrance
+What is the meaning of “discourse” as used in paragraph 6?
+A brief remark
+B spoken story
+C response to someone
+D disagreement between people
+How do paragraphs 8 and 9 contrast with the paragraphs right before and aer them?
+A ey provide a look at the narrator’s imagination.
+B ey demonstrate the narrator’s desire for independence.
+C ey emphasize the narrator’s physical abilities.
+D ey focus attention on the narrator’s selfish nature.
+11
+12
+13
+Page 12GO ON
+Session 1
+Which sentence bbeesstt expresses a central idea of the passage?
+A e narrator is interested in her mother’s beadwork on small moccasins.
+B Aer beadwork lessons with her mother, the narrator loves to
+play outdoors.
+C e narrator’s friends try to help her catch her shadow while playing.
+D When running through the fields, the narrator and her friends make lots
+of noise.
+14
+Page 13Session 1
+GO ON
+is story takes place in Japan. e narrator has just rented a new home on a small street
+named Lightning Alley.
+EExxcceerrpptt ffrroomm
+ee GGuueesstt CCaatt
+by Takashi Hiraide
+e cat’s name was Chibi, which means “little one.” We could hear the boy’s
+particularly high-pitched voice calling the cat: “Chibi!” en we’d hear the sound of
+the boy’s shoes running around outside, followed by the tinkling of the little bell
+announcing the cat’s arrival.
+1
+Chibi was a jewel of a cat. Her pure white fur was mottled with several lampblack
+blotches containing just a bit of light brown. e sort of cat you might see just about
+anywhere in Japan, except she was especially slim and tiny.
+2
+ese were her individual characteristics—slim and small, with ears that stood out,
+tapering off beautifully at the tips, and oen twitching. She would approach silently and
+undetected to rub up against one’s legs. At first I thought Chibi avoided me because I
+was not used to cats, but this seems not to have been the case. When a girl who oen
+passed along Lightning Alley stopped and crouched to gaze at the cat, it did not run
+away. But as soon as she attempted to touch it, the cat quickly slipped off, avoiding
+contact at all costs. e cat’s manner of rejection was like cold, white light.
+3
+Moreover, the cat rarely made a sound. As far as I remember, when it first appeared
+in the alley it made some sort of sound, but since then it had never let out a meow. It
+looked as if no matter how much time passed the cat was not going to let us hear its
+voice. is seemed to be the message the cat was giving us.
+4
+Another one of Chibi’s characteristics was that she changed the direction of her
+cautious attention frequently. is active behavior wasn’t limited to her
+kittenhood. Perhaps because she played alone most of the time in the expansive garden,
+she reacted strongly to insects and reptiles. And there were times when I could only
+conclude that she must be reacting to subtle changes in the wind and light, not
+detectable by humans. It may be that most cats share the same quickness, but even so,
+in Chibi’s case, it was acute—she was, aer all, the cat of Lightning Alley. My wife got
+into the habit of pointing to the cat whenever it went by, extolling11 its virtues. . . .
+5
+Page 20GO ON
+Session 1
+Read this story. Then answer questions 22 through 28.
+_______________________
+11eexxttoolllliinngg:: praising
+22ttaalliissmmaann:: an object thought to bring good luck
+33uubbiiqquuiittoouuss:: present everywhere
+Chibi, who loved to play ball, gradually began to visit us on her own and would try
+and get us to play with her. She would step gingerly into the room and gaze intently at
+its occupants, then purposefully turn around and walk back out, as if to lead us to the
+garden. is process would be repeated until she got a response. Most of the time my
+wife would put down whatever she was doing, slip happily into her sandals and head
+outside.
+6
+Having played to her heart’s content, Chibi would come inside and rest for a while.
+When she began to sleep on the sofa—like a talisman 22 curled gently in the shape of a
+comma and dug up from a prehistoric archaeological site—a deep sense of happiness
+arrived, as if the house itself had dreamed this scene.
+7
+Avoiding the prying eyes of the landlady, we began leaving it up to Chibi to come
+inside the house whenever she wanted—and with this new development I had begun
+little by little to understand cat lovers. Whether on TV or in all of the ubiquitous33 cat
+calendars, it seemed as if there was no cat comparable to her. But, though I had started
+to think of her as the best cat around, she was not really our cat.
+8
+First we would hear the tinkling of the bell, and then she would appear, so we began
+to call her by the nickname “Tinkerbell.” Whenever we wanted her to come over, this
+name seemed to find itself on our lips.
+9
+“I wonder where Tinkerbell is.” By the time my wife had gotten the words out of her
+mouth we’d hear the tinkling of Chibi’s bell. We’d realize that she was near at the point
+where, exiting the foyer next door (located at the second corner of Lightning Alley),
+Chibi would leap through the tear in the wire-mesh boundary of the property, dash
+along the side of the building, turn at the far end of the veranda, leap up onto the open
+area of the deck, and then, placing her front paws on the window frame at about the
+height of a human adult’s knee, stretch out her neck to peek inside.
+10
+In winter she came inside. Little by little, through the crack in the partially opened
+window, her tendency to visit subtly developed; her appearances were repeated until, as
+if a silken opening in a fabric had been continuously moistened and stretched, Chibi
+had entered our lives. But at the same time—call it fate if you will—something else was
+closing in and pressing itself against that tendency.
+11
+Page 21Session 1
+GO ON
+What does the phrase “cold, white light” in paragraph 3 suggest about Chibi?
+A She prefers to be outdoors during the day.
+B She demands fast responses from humans.
+C She struggles to survive outside in the winter.
+D She is indifferent to the feelings of humans.
+What is the meaning of the word “subtle” as it is used in paragraph 5?
+A environmental
+B slight
+C powerful
+D rapid
+How does the narrator’s point of view shi in paragraphs 7 and 8?
+A He grows concerned the landlady will discover the cat.
+B He starts to think about keeping the cat.
+C He becomes worried for the safety of the cat.
+D He begins to feel affection toward the cat.
+22
+23
+24
+Page 22GO ON
+Session 1
+In paragraph 8, why does the narrator say he “had begun little by little to understand
+cat lovers”?
+A He realizes that most cats are probably like Chibi.
+B He decides to buy a cat calendar to celebrate Chibi.
+C He feels a sense of contentment when Chibi visits.
+D He is in awe of the boy who runs around outside with Chibi.
+Which activity first leads Chibi to engage with the narrator and his wife?
+A sleeping on the sofa
+B staying away from the landlady
+C wanting to play ball
+D being called by a nickname
+Which quotation bbeesstt expresses a central idea of the story?
+A “e cat’s name was Chibi, which means ‘little one.’ ” (paragraph 1)
+B “e cat’s manner of rejection was like cold, white light.” (paragraph 3)
+C “Having played to her heart’s content, Chibi would come inside and rest for
+a while.” (paragraph 7)
+D “But, though I had started to think of her as the best cat around, she was
+not really our cat.” (paragraph 8)
+25
+26
+27
+Page 23Session 1
+GO ON
+Which statement would be mmoosstt important to include in a summary of the story?
+A Chibi looks especially slim and tiny for a cat.
+B Chibi grows comfortable with the narrator and his wife.
+C Chibi avoids being touched by humans.
+D Chibi rarely makes a sound except for the tinkling of her bell.
+28
+Page 24GO ON
+Session 1
+EExxcceerrpptt ffrroomm
+ThThee CCaallll ooff CCoonneeyy IIssllaanndd
+by Cynthia Overbeck Bix
+1
+2
+3
+Salty ocean smells mingle with the aromas of sweet cotton candy and Nathan’s
+Famous hot dogs. The legendary Cyclone roller coaster lurches along its tracks—then
+takes a heart-stopping plunge. Riders whoop and scream with excitement. Farther
+down the boardwalk, the sound of a carousel starts. Patrons pitch balls at moving
+targets, hoping to win a prize. Welcome to Coney Island, the nation’s first truly modern
+amusement area.
+Located on the southern tip of Brooklyn, New York, Coney Island has been the place
+to go for fun for more than a century. The inspiration for amusement parks such as
+Coney Island sprang from an exciting event in 1893—the World’s Columbian
+Exposition in Chicago. It was one of the first venues where people experienced a variety
+of attractions in one large space.
+Visitors to Chicago gasped in wonder when they saw the fair’s “White City” spread
+out before them. Beautiful all-white exhibition buildings and large classical statues
+framed a lagoon of shimmering water. Designed to educate and inform, about a dozen
+grand buildings housed displays on the latest developments in transportation,
+machinery, agriculture, art, horticulture, and more. Most visitors had never seen the
+things they saw there, such as electric lights, a moving sidewalk, world-famous artwork,
+and moving pictures.
+While the World’s Columbian Exposition awed people with new innovations and
+ideas, its most popular attraction was the Midway Plaisance. Located in a separate
+section of the exhibition grounds, the Midway was filled with entertainment: rides, food
+stands, and sideshows. People could get a taste of international cultures, for example,
+by riding a camel through the Streets of Cairo or strolling among the thatched huts of a
+South Sea village. Best of all, they could ride George Ferris’s giant spinning wheel.
+Rising 264 feet above the Midway, this engineering marvel became the star of the fair. It
+was a spectacular example of what the new age of machines made possible.
+4
+Page 25Session 1
+GO ON
+Read this article. Then answer questions 29 through 35.
+5
+6
+7
+8
+9
+10
+One visitor, New York showman George C. Tilyou, immediately saw potential for
+this new form of entertainment. Tilyou owned property on Coney Island, which
+already was an established beach resort with hotels, bathhouses, and restaurants. It also
+featured an odd collection of sideshows, food vendors, fortunetellers, and more. Tilyou
+decided to build an enclosed amusement park there.
+In 1897, Tilyou opened Steeplechase Park. When he was unable to buy Ferris’s
+wheel, he had his own version built. For 25 cents, visitors could ride Tilyou’s wheel,
+enjoy the Scenic Railway, or climb into a “spaceship” for a Trip to the Moon. On the
+Steeplechase, wooden horses carried riders along a metal racetrack from a starting gate
+to a finish line.
+Steeplechase Park’s huge success was partly due to another invention—electric
+railways. The first electric trolley line had connected Manhattan Island and
+Coney Island in the mid-1800s. By the turn of the 20th century, an electric train
+offered an even faster way to carry more people wanting to escape from the hot,
+crowded city.
+In the late 1800s and early 1900s, most people worked long hours and six days a
+week in urban factories and shops. But for a nickel fare, a city worker could afford a
+day’s outing to a nearby park on Sundays. Recognizing the value of giving the working
+class access to day trips, trolley and train companies established parks that were located
+at the end of a line. Travelers disembarked to enjoy simple outdoor pleasures in picnic
+groves and swimming pools or beaches. Eventually, merry-go-rounds, penny arcades,11
+and even small roller coasters were added. . . .
+Part sideshow, part circus, part theme park, Coney Island set an example for
+amusement parks. Attractions that are so familiar today—roller coasters, water rides,
+fun houses, Tunnels of Love—all got their start there.
+Many amusement parks closed during the Great Depression in the 1930s or during
+World War II (1939–1945). Coney Island has had its ups and downs, too. Over the
+decades, fires and age destroyed some of the original attractions. In 2012, Superstorm
+Sandy wrecked the boardwalk and many of the attractions.
+Page 26GO ON
+Session 1
+In spite of all that, Coney Island has survived, and it is still operating today. It
+continues to offer each new generation of kids (and their parents) a chance to escape to
+a special world of entertainment and thrills. And from New Jersey’s Wildwood Park to
+California’s Pacific Park and Florida’s Walt Disney World, other amusement and
+theme parks have taken their cues from Coney Island. They have grown to epic
+proportions in their efforts to offer a world full of fun.
+11ppeennnnyy aarrccaaddeess:: indoor area with amusements such as games and photo booths operated by
+placing a coin in a slot
+_______________________
+11
+Page 27Session 1
+GO ON
+In paragraph 1, what does the phrase “lurches along its tracks—then takes a heart-stopping
+plunge” suggest about the Cyclone roller coaster?
+A It moves at an unexpected rate of speed.
+B It provides a thrilling experience for riders.
+C It appeals to some visitors but not others.
+D It presents a safety hazard for riders.
+Why was George Ferris’s wheel considered an “engineering marvel” (paragraph 4)?
+A
+B
+C
+D
+It became the most popular attraction at the exposition.
+It was the fastest ride in the Midway section of the exposition.
+It gave people the opportunity to see the capabilities of new technology.
+It was something that other amusement park owners tried to bring to their parks.
+How did Tilyou’s visit to the World’s Columbian Exposition affect the property at
+Coney Island?
+A Tilyou was motivated to build a park with amusement rides.
+B Tilyou brought George Ferris’s giant wheel to Coney Island.
+C Tilyou created multiple attractions based on different themes.
+D Tilyou decided to construct an electric railway to Coney Island.
+29
+30
+31
+Page 28GO ON
+Session 1
+
+Read this sentence from paragraph 11.
+AAnndd ffrroomm NNeeww JJeerrsseeyy’’ss WWiillddwwoooodd PPaarrkk ttoo CCaalliiffoorrnniiaa’’ss PPaacciifificc PPaarrkk aanndd FFlloorriiddaa’’ss
+WWaalltt DDiissnneeyy WWoorrlldd,, ootthheerr aammuusseemmeenntt aanndd tthheemmee ppaarrkkss hhaavvee ttaakkeenn tthheeiirr ccuueess ffrroomm
+CCoonneeyy IIssllaanndd..
+Which quotation bbeesstt supports this claim?
+A
+B
+“e inspiration for amusement parks such as Coney Island sprang from an
+exciting event in 1893—the World’s Columbian Exposition in Chicago.”
+(paragraph 2)
+“When he was unable to buy Ferris’s wheel, he had his own version
+built.” (paragraph 6)
+C “Attractions that are so familiar today—roller coasters, water rides, fun
+houses, Tunnels of Love—all got their start there.” (paragraph 9)
+D “ey have grown to epic proportions in their efforts to offer a world full of
+fun.” (paragraph 11)
+Which statement expresses a central idea developed tthhrroouugghhoouutt the article?
+A e Coney Island amusement park was initially separated by different types
+of entertainment.
+B e World’s Columbian Exposition had many elements that were later used
+in the Coney Island amusement park.
+C e Coney Island amusement park was influenced by previous attractions
+and eventually impacted the modern amusement park.
+D e invention of the electric railway was important to the popularity of the
+Coney Island amusement park.
+34
+35
+Page 30Session 1
+STOP
+Grade 8
+2022
+English Language Arts Test
+Session 1
+March 29–31, 2022
+
+Excerpt from “What Kids Learn From Hearing Family Stories” by Elaine Reese, The Atlantic, December 9, 2013. Copyright © 2013 by
+Atlantic Media, Inc. Used with permission of Atlantic Monthly Co. via Copyright Clearance Center.
+Excerpt from 100 Days and 99 Nights by Alan Madison. Copyright © 2008 by Alan Madison. Published by Little, Brown Books for Young
+Readers. Used with permission of Hachette Book Group, Inc. via Copyright Clearance Center.
+“Rain Check” excerpt from The Sky Between You and Me, copyright 2017 by Catherine Alene. Used by permission of Sourcebooks.
+Developed and published under contract with the New York State Education Department by Questar Assessment Inc., 5550 Upper 147th
+Street West, Minneapolis, MN 55124. Copyright © 2022 by the New York State Education Department.
+Session 2
+Session 2
+TIPS FOR TAKING THE TEST
+Here are some suggestions to help you do your best:
+• Be sure to read all the directions carefully.
+• Most questions will make sense only when you read the whole passage. You may read
+the passage more than once to answer a question. When a question includes a quotation
+from a passage, be sure to keep in mind what you learned from reading the whole
+passage. You may need to review both the quotation and the passage in order to answer
+the question correctly.
+• Read each question carefully and think about the answer before writing your response.
+• In writing your responses, be sure to
+– clearly organize your writing and express what you have learned;
+– accurately and completely answer the questions being asked;
+– support your responses with examples or details from the text; and
+– write in complete sentences using correct spelling, grammar, capitalization,
+and punctuation.
+• For the last question in this test book, you may plan your writing on the Planning Page
+provided, but do NOT write your final answer on this Planning Page. Writing on this
+Planning Page will NOT count toward your final score. Write your final answer on the
+lined response pages provided.
+Page 1Session 2
+Elaine Reese is a professor of psychology and the author of a book about telling stories.
+EExxcceerrpptt ffrroomm
+WWhhaatt KKiiddss LLeeaarrnn FFrroomm
+HHeeaarriinngg FFaammiillyy SSttoorriieess
+by Elaine Reese
+“Dad, tell me a story from when you were little. Tell me the story about the time you
+met your best friend Chris at school.” Six-year-old Alex, who has just started school
+himself, snuggles into his pillow and catches his dad’s hand in the dark. ey have
+finished the nightly reading of
+Tin Tin and now it’s time for “just one more story”
+before Alex goes to sleep.
+1
+Most parents know about the benefits of reading stories from books with their
+young children. Parents are blasted with this message in pediatricians’ offices, at
+preschool, on TV, even with billboards on the city bus. Reading books with children on
+a daily basis advances their language skills, extends their learning about the world, and
+helps their own reading later in school. Reading with your child from a young age can
+instill a lifelong love of books. A new study published in
+Science even shows that
+reading literary fiction improves adults’ ability to understand other people’s emotions.
+2
+Reading books with your children is clearly a good idea. . . .3
+Yet what most parents don’t know is that everyday family stories, like the one that
+Alex’s dad spun out that night, confer many of the same benefits of reading—and even
+some new ones.
+4
+Over the last 25 years, a small canon11 of research on family storytelling shows that
+when parents share more family stories with their children—especially when they tell
+those stories in a detailed and responsive way—their children benefit in a host of ways.
+For instance, experimental studies show that when parents learn to reminisce22 about
+everyday events with their preschool children in more detailed ways, their children tell
+richer, more complete narratives to other adults one to two years later compared to
+children whose parents didn’t learn the new reminiscing techniques. Children of the
+parents who learned new ways to reminisce also demonstrate better understanding of
+other people’s thoughts and emotions. ese advanced narrative and emotional skills
+5
+Page 2GO ON
+Session 2
+Read this article. Then answer questions 36 through 38.
+serve children well in the school years when reading complex material and learning to
+get along with others. In the preteen years, children whose families collaboratively
+discuss everyday events and family history more oen have higher self-esteem and
+stronger self-concepts. And adolescents with a stronger knowledge of family history
+have more robust identities, better coping skills, and lower rates of depression and
+anxiety. Family storytelling can help a child grow into a teen who feels connected to the
+important people in her life.
+Best of all, unlike stories from books, family stories are always free and completely
+portable. You don’t even need to have the lights on to share with your child a story
+about your day, about their day, about your childhood or their grandma’s. In the
+research on family storytelling, all of these kinds of stories are linked to benefits for
+your child. Family stories can continue to be part of a parent’s daily interactions with
+their children into adolescence, long past the age of the bedtime story.
+6
+All families have stories to tell, regardless of their culture or their circumstances. Of
+course, not all of these stories are idyllic 33 ones. Research shows that children and
+adolescents can learn a great deal from stories of life’s more difficult moments—as long
+as those stories are told in a way that is sensitive to the child’s level of understanding,
+and as long as something good is gleaned from the experience. . . .
+7
+Books contain narratives, but only family stories contain your family’s
+personal
+narratives. Fortunate children get both. ey hear and read stories from books to
+become part of other people’s worlds, and they hear and tell stories of their family to
+understand who they are and from whence they came. . . .
+8
+e holidays are prime time for family storytelling. When you’re . . . having your
+holiday meal, share a story with your children about past holidays. Leave in the funny
+bits, the sad bits, the gory and smelly bits—kids can tell when a story has been sanitized
+for their protection. en invite everyone else to tell a story too. Don’t forget the
+youngest and the oldest storytellers in the group. eir stories may not be as coherent,44
+but they can be the truest, and the most revealing.
+9
+Page 3Session 2
+GO ON
+_______________________
+11ccaannoonn:: collection
+22rreemmiinniissccee:: remember past events in an enjoyable or emotionally warm way
+33iiddyylllliicc:: ideal or perfectly positive
+44ccoohheerreenntt:: clear
+Family stories can be told nearly anywhere. ey cost us only our time, our
+memories, our creativity. ey can inspire us, protect us, and bind us to others. So be
+generous with your stories, and be generous
+in your stories. Remember that your
+children may have them for a lifetime.
+10
+Page 4GO ON
+Session 2
+In “Excerpt from
+What Kids Learn From Hearing Family Stories,” how does the author develop
+a connection between stories from books and family stories? Use ttwwoo details from the article to
+support your response.
+36
+Page 5Session 2
+GO ON
+How does paragraph 5 support a central claim in “Excerpt from
+What Kids Learn From
+Hearing Family Stories”? Use ttwwoo details from the article to support your response.
+37
+Page 6GO ON
+Session 2
+What does the author mean in paragraph 10 when she recommends to the reader to
+“be generous
+in your stories”? Use ttwwoo details from the article to support your response.
+38
+Page 7Session 2
+GO ON
+Dad is in the U.S. Army. Each Saturday he leads his two children, Esme and Ike, on a mission
+to make the best pancakes in the world.
+EExxcceerrpptt ffrroomm
+110000 DDaayyss aanndd 9999 NNiigghhttss
+by Alan Madison
+I am best at beating the batter, Ike is best at greasing the griddle, and Dad is, of
+course, far and away the finest flipper between here and just about anywhere. While we
+are working, Mom sits sipping coffee and reading the
+Drum & Bugle. She makes sure
+there are no mistakes in either the newspaper or the manner in which we prepare
+pancakes. Dad says she is a “super supervisor.”
+1
+To make sure our pancakes come out consistently top-dog tasty, it is extremely
+important to do everything precisely the same way it was done the Saturday before, the
+Saturday before that, and before that. To do that, we follow Dad’s pancake rules. . . .
+2
+Saturday mornings, when the cuckoo clock begins the first of eight cuckoos, Ike and
+I slip downstairs, drop our aprons over our heads, and tie the string over our bellies,
+each with the exact same double-looped bow. We try to finish before the mechanical
+bird sticks its tiny red-tued head out to deliver the final high-pitched cuckoo.
+3
+While we wash our hands in the kitchen sink, Dad, in his green-and-yellow-squared
+flannel robe, rubbing the top of his buzz-cut head, pounds down the stairs. Blinking the
+sleep from his eyes, he inspects our cooking uniforms. When satisfied, he yawns,
+“Okay, troops, we are ready to cook.”
+4
+We salute, bringing our open right hands sharply to our foreheads and then karate
+chopping them down. is is military speak for “ready, willing, and able.” Dad says we
+should always end it with “sir, yes, sir,” to show the proper respect for a commanding
+officer.
+5
+“Sir, yes, sir!” Ike and I cry in unison.6
+“One cup flour,” he commands.7
+“Flour is made from flowers,” Ike states as usual.8
+Dad smiles and I roll my eyes around my head because
+every week Ike always swears
+that flour (F-L-O-U-R) is made from flowers (F-L-O-W-E-R-S) and that is why they are
+9
+Page 8GO ON
+Session 2
+Read this story. Then answer questions 39 and 40.
+spelled differently. is makes zero sense, which is exactly Ike Sense, because then they
+should be spelled exactly the same! . . .
+Under Dad’s watchful eye, we exact-measure and combine the salt and baking soda
+into the bowl. en, trying not to make too much of a mess, we carefully measure out
+the wet ingredients: water, oil, and the top secretest ingredient —“Yogurt!” Ike yells.
+“Yogurt, yoooguurt!” he screams. Ike feels that
+yogurt is the absolute funniest word he
+has ever heard and as soon as dad starts spooning out the glistening white goo, he starts
+giggling and rolling the word out of his mouth, either drawing out the so-sounding
+“yo” or cutting off the hard-syllabled “gurt” and sometimes even attempting to do both.
+“Yoooogrt!” Mom chuckles from behind the spread-open
+Drum & Bugle as Ike goes
+through his word acrobatics while I remain silent because I feel
+llama is an even
+funnier word.
+10
+Dad knows a lot of funny words, but during pancake making he is always partial to
+spatula. . . .
+11
+I wooden-spoon-mix together all the ingredients, from the Ike Sense-spelled flour to
+the somewhat funny-named yogurt, while Ike quick-drops pats of butter onto the hot
+griddle. Mom super-supervises this part, letting out an
+aaahh sound of approval each
+time Ike places a pat correctly and an
+ooo-ooo-ooo sound of disapproval each time his
+hand comes down too close to the stove.
+12
+Dad big-spoons batter onto the burning black metal. It flattens and soon little
+bubbles begin bursting. Aer we count out five of these tiny explosions, Dad does the
+famous fancy McCarther flip. He skillfully slides his “spaaatuulaaa” under one round
+and snaps his wrist, revealing both the colorful tattoo on his wide forearm and the
+brown cooked side of the perfect pancake.
+13
+A most definite Dad cooking rule is: “Neither a borrower nor a lender be.” is
+means that when it comes to a particular pancaking post, whether it is buttering,
+mixing, or flipping, you have your very own job to do, and you should never ever trade
+or even ask to trade—you just do your job. Our cooking tasks have become total
+no-brainers and given the excellent eating results, I have to say that Dad’s pancaking
+rules most definitely do work.
+14
+e short stacks are piled high on each of our plates, the maple syrup slow-flowed,
+and the only sounds heard are the rushed clicks and clacks of forks on plates and the
+rumble of satisfied
+ummms. . . .
+15
+is is an absolute authentic account of how every Saturday we, the Swishback
+McCarthers, would cook the tastiest pancakes in the whole world.
+16
+Page 9Session 2
+GO ON
+In “Excerpt from
+100 Days and 99 Nights,” what effect does the children saying “Sir, yes, sir!” in
+paragraph 6 have on the story’s tone? Use ttwwoo details from the story to support your response.
+39
+Page 10GO ON
+Session 2
+In “Excerpt from
+100 Days and 99 Nights,” how do paragraph 2 and paragraph 14 contribute to
+the structure of the story? Use ttwwoo details from the story to support your response.
+40
+Page 11Session 2
+GO ON
+5
+10
+15
+20
+RRaaiinn CChheecckk
+by Catherine Alene
+Dad had to work
+Straight through the day and into the night
+Ringy cows11 wouldn’t load
+Raced across the mesa22 with their heads in the air
+I’d finally decided what I was going to make
+Pizza
+His favorite
+Heavy with meat and American cheese
+His side
+Veggies
+No cheese
+On mine
+But it’s okay
+He didn’t make it home
+I hadn’t even started cooking when he called
+I’d been standing in the kitchen
+Staring into the refrigerator
+Ignoring the sun melting red and gold behind the barn
+Listening to Blue crunching his kibbles 33
+Tags chinging off the edge of his metal food dish
+When the phone had rung
+Page 12GO ON
+Session 2
+Read this poem. Then answer questions 41 through 43.
+25
+30
+“I’m so sorry. I’ll have to take a rain check. Go ahead and eat
+without me,” he’d said.
+I understand, Dad.
+We’ll do it again.
+Next week.
+It’s okay
+Really
+It
+Is
+_______________________
+11rriinnggyy ccoowwss:: the cows’ bells ring as they run away from Dad
+22mmeessaa:: a flat-topped, elevated area
+33kkiibbbblleess:: pet food
+Page 13Session 2
+GO ON
+How do lines 22 through 30 contribute to the plot of “Rain Check”? Use ttwwoo details from the
+poem to support your response.
+41
+Page 14GO ON
+Session 2
+How does the speaker’s point of view impact the tone of “Rain Check”? Use ttwwoo details from
+the poem to support your response.
+42
+Page 15Session 2
+GO ON
+
+e narrator of the story “Excerpt from
+100 Days and 99 Nights” and the speaker in the poem
+“Rain Check” have different points of view about their family situations. What is the narrator’s
+point of view about her family situation in “Excerpt from
+100 Days and 99 Nights”? What is the
+speaker’s point of view about her family situation in “Rain Check”? How are these points of
+view different? Use details from bbootthh the story and the poem to support your response.
+In your response, be sure to
+describe the narrator’s point of view about her family situation in “Excerpt from100 Days and 99 Nights”
+describe the speaker’s point of view about her family situation in “Rain Check”
+explain how these points of view are different
+use details from bbootthh the story and the poem to support your response
+43
+Page 17Session 2
+GO ON
+Page 18Session 2
+STOP
+Grade 8
+2022
+English Language Arts Test
+Session 2
+March 29–31, 2022
+Multiple Choice Questions
+Percentage of Students Who
+Answered Correctly
+(P-Value)
+Average
+Points
+Earned
+P-Value
+(Average Points Earned
+÷ Total Possible Points)
+8 Multiple Choice A 1 CCSS.ELA-Literacy.RI.8.6 Reading 0.61
+9 Multiple Choice B 1 CCSS.ELA-Literacy.RI.8.3 Reading 0.45
+10 Multiple Choice C 1 CCSS.ELA-Literacy.RI.8.2 Reading 0.58
+11 Multiple Choice C 1 CCSS.ELA-Literacy.RI.8.4 Reading 0.69
+12 Multiple Choice B 1 CCSS.ELA-Literacy.L.8.4 Reading 0.52
+13 Multiple Choice A 1 CCSS.ELA-Literacy.RI.8.5 Reading 0.64
+14 Multiple Choice B 1 CCSS.ELA-Literacy.RI.8.2 Reading 0.7
+22 Multiple Choice D 1 CCSS.ELA-Literacy.RL.8.4 Reading 0.71
+23 Multiple Choice B 1 CCSS.ELA-Literacy.L.8.4 Reading 0.7
+24 Multiple Choice D 1 CCSS.ELA-Literacy.RL.8.6 Reading 0.68
+25 Multiple Choice C 1 CCSS.ELA-Literacy.RL.8.3 Reading 0.7
+26 Multiple Choice C 1 CCSS.ELA-Literacy.RL.8.3 Reading 0.56
+27 Multiple Choice D 1 CCSS.ELA-Literacy.RL.8.2 Reading 0.64
+28 Multiple Choice B 1 CCSS.ELA-Literacy.RL.8.2 Reading 0.78
+29 Multiple Choice B 1 CCSS.ELA-Literacy.RI.8.4 Reading 0.62
+30 Multiple Choice C 1 CCSS.ELA-Literacy.RI.8.4 Reading 0.57
+31 Multiple Choice A 1 CCSS.ELA-Literacy.RI.8.3 Reading 0.55
+32 Multiple Choice B 1 CCSS.ELA-Literacy.RI.8.4 Reading 0.69
+33 Multiple Choice D 1 CCSS.ELA-Literacy.RI.8.6 Reading 0.78
+34 Multiple Choice C 1 CCSS.ELA-Literacy.RI.8.8 Reading 0.58
+35 Multiple Choice C 1 CCSS.ELA-Literacy.RI.8.2 Reading 0.65
+36 Constructed Response 2 CCSS.ELA-Literacy.RI.8.3 Writing to Sources 1.62 0.81
+37 Constructed Response 2 CCSS.ELA-Literacy.RI.8.8 Writing to Sources 1.63 0.82
+38 Constructed Response 2 CCSS.ELA-Literacy.RI.8.4 Writing to Sources 1.51 0.76
+39 Constructed Response 2 CCSS.ELA-Literacy.RL.8.4 Writing to Sources 1.52 0.76
+40 Constructed Response 2 CCSS.ELA-Literacy.RL.8.5 Writing to Sources 1.53 0.77
+41 Constructed Response 2 CCSS.ELA-Literacy.RL.8.3 Writing to Sources 1.47 0.73
+THE STATE EDUCATION DEPARTMENT
+THE UNIVERSITY OF THE STATE OF NEW YORK / ALBANY, NY 12234
+2022 English Language Arts Tests Map to the Standards
+Grade 8 Released Questions
+Session 2
+Constructed Response Questions
+Session 1
+Question Type Key Points Standard Subscore
+42 Constructed Response 2 CCSS.ELA-Literacy.RL.8.6 Writing to Sources 1.48 0.74
+43 Constructed Response 4 CCSS.ELA-Literacy.RL.8.6 Writing to Sources 2.33 0.58
+*This item map is intended to identify the primary analytic skills necessary to successfully answer each question on the 2022 operational ELA test. However, each constructed-response question
+measures proficiencies described in multiple standards, including writing and additional reading and language standards. For example, two-point and four-point constructed-response questions
+require students to first conduct the analyses described in the mapped standard and then produce written responses that are rated based on writing standards. To gain greater insight into the
+measurement focus for constructed-response questions, please refer to the rubrics shown in the Educator Guides.

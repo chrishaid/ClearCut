@@ -1,0 +1,999 @@
+®
+STAAR
+State of Texas
+Assessments of
+Academic Readiness
+GRADE 8
+Mathematics
+Administered April 2019
+RELEASED
+Copyright © 2019, Texas Education Agency. All rights reserved. Reproduction of all or portions of this work is prohibited without express
+written permission from the Texas Education Agency.
+
+®
+STAAR
+State of Texas
+Assessments of
+Academic Readiness
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+STAAR GRADE 8 MATHEMATICS
+REFERENCE MATERIALS
+LINEAR EQUATIONS
+Slope-intercept form y = mx + b
+Direct variation
+Slope of a line
+CIRCUMFERENCE
+y = k x
+y − y
+m = 2 1
+x − x2 1
+Circle C = 2πr or C = πd
+AREA
+Triangle
+Rectangle or parallelogram
+Trapezoid
+Circle
+1A = bh
+2
+A = bh
+1A = (b + b )h
+2 1 2
+A 2
+= πr
+SURFACE AREA
+Lateral Total
+Prism S = Ph S = Ph + 2B
+Cylinder
+VOLUME
+S = 2πrh S = 2πrh + 2πr 2
+Prism or cylinder
+Pyramid or cone
+V = Bh
+1V = Bh
+3
+Sphere 4V = πr 3
+3
+ADDITIONAL INFORMATION
+Pythagorean theorem a2 2 2
++ b = c
+Simple interest I = P rt
+Compound interest A t
+= P (1 + r)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+MATHEMATICS
+Mathematics
+Page 7
+DIRECTIONS
+Read each question carefully. For a multiple-choice question, determine the
+best answer to the question from the four answer choices provided. For a
+griddable question, determine the best answer to the question. Then fill in the
+answer on your answer document.
+1 Oscar buys his lunch in the school cafeteria. The cost of 15 school lunches is $33.75.
+Which graph has a slope that best represents the average cost of the lunches in dollars per
+lunch?
+Lunch Cost
+y
+10
+2
+x
+0 1 2 3 4 5 6 7 8 9
+Number of School Lunches
+18
+Total Cost (dollars) 16
+14
+12
+8
+6
+4
+Lunch Cost
+y
+2
+x
+0 1 2 3 4 5 6 7 8 9
+Number of School Lunches
+18
+Total Cost (dollars) 16
+14
+12
+10
+8
+6
+4
+C
+Lunch Cost
+y
+18
+Total Cost (dollars)
+Number of School Lunches
+16
+14
+12
+10
+8
+6
+4
+2
+x
+0 1 2 3 4 5 6 7 8 9
+Lunch Cost
+y
+18
+Total Cost (dollars)
+Number of School Lunches
+16
+14
+12
+10
+8
+6
+4
+2
+x
+0 1 2 3 4 5 6 7 8 9
+A
+B D
+Mathematics
+Page 8
+2 A sphere and its dimension are shown in the diagram.
+15 in.
+Which measurement is closest to the volume of the sphere in cubic inches?
+F 1,325.4 in.3
+G 188.5 in.3
+H 94.2 in.3
+J 1,767.1 in.3
+Mathematics
+Page 9
+y
+9
+8
+7(−2, 6) 6
+5
+4 (3, 5)
+(−6, 2) 3
+2
+1
+− 9 − 8 − 7 − 6 − 5 − 4 − 3 − 2 − 1− 1 1 2 3 4 5 6 7 8 9
+− 2
+− 3
+− 4
+− 5
+− 6
+− 7
+(−6, −6) − 8
+− 9
+x
+3 The two lines graphed on the coordinate grid each represent an equation.
+Which ordered pair represents a solution to both equations?
+A ( 4 , 0)
+B ( 3 , 3)
+C (3, 3)
+D (0, 4)
+Mathematics
+Page 10
+4 Figure I and Figure II are similar figures.
+Figure I Figure II
+R S A B
+F
+CW
+T
+E D
+V U
+Which proportion must be true?
+F RS
+AB = TU
+CD
+G TU
+AB = UV
+AF
+H ST
+EF = WR
+CD
+J WV
+AB = ST
+EF
+Mathematics
+Page 11
+y
+4
+3
+2
+1
+− 4 4− 3 − 2 − 1
+− 1
+1 2 3
+− 2
+− 3
+− 4
+x
+y
+4
+3
+2
+1
+4− 4 − 3 − 2 − 1
+− 1
+1 2 3
+− 2
+− 3
+− 4
+x
+y
+x
+4
+3
+2
+1
+− 4 4− 3 − 2 − 1
+− 1
+1 2 3
+− 2
+− 3
+− 4
+y
+x
+4
+3
+2
+1
+4− 4 − 3 − 2 − 1
+− 1
+1 2 3
+− 2
+− 3
+− 4
+5 Which graph represents y as a function of x?
+A C
+B D
+Mathematics
+Page 12
+6 A polygon will be dilated on a coordinate grid to create a smaller polygon. The polygon is
+dilated using the origin as the center of dilation.
+Which rule could represent this dilation?
+F (x y, ) o (0.5  x, 0.5  y)
+G (x y, ) o (x  7, y  7)
+5 5
+( ,x y ) o ( x, y)
+4 4
+H
+J (x y, ) o (0.9x, 0.9y)
+Mathematics
+Page 13
+7 Aquarium I contains 4.6 gallons of water. Louise will begin filling Aquarium I at a rate of
+1.2 gallons per minute.
+Aquarium II contains 54.6 gallons of water. Isaac will begin draining Aquarium II at a rate of
+0.8 gallon per minute.
+After how many minutes will both aquariums contain the same amount of water?
+A 148 min
+B 125 min
+C 25 min
+D 50 min
+8 The width of a rectangle is 4 feet, and the diagonal length of the rectangle is 13 feet. Which
+measurement is closest to the length of this rectangle in feet?
+F 9 ft
+G 17 ft
+H 12.4 ft
+J 13.6 ft
+Mathematics
+Page 14
+y
+6
+5
+4
+3
+2
+1
+P S
+V x
+0 1 2 3 4 5 6
+9 Triangle PSV is shown on the coordinate grid. The coordinates of each vertex of the triangle
+are integers.
+What is the slope of PV ?
+Record your answer and fill in the bubbles on your answer document. Be sure to use the
+correct place value.
+Mathematics
+Page 15
+y
+7
+6
+A
+5
+4
+3
+2
+1 B C
+− 7 7− 6 − 5 − 4 − 3 − 2 − 1
+− 1
+1 2 3 4 5 6
+− 2
+A′
+− 3
+− 4
+− 5
+− 6 B′ C′
+− 7
+x
+10 Triangle ABC was transformed to create triangle A B C′ ′ ′.
+Which rule best describes this transformation?
+F ( ,x y) o (x y,  7)
+G ( ,x y ) o (x, y)
+H ( ,x y ) o (x  7, y)
+J ( ,x y) o (x y, )
+11 Two customers took out loans from a bank.
+• Henry took out a 4-year loan for $5,000 and paid 4.2% annual simple interest.
+• Ingrid took out a 6-year loan for $5,000 and paid 3.9% annual simple interest.
+What is the difference between the amounts of interest Henry and Ingrid paid for their loans?
+A $417
+B $150
+C $60
+D $330
+Mathematics
+Page 16
+12 A coach is ordering shirts for a team.
+• The coach pays a one-time fee of $24.
+• The coach also pays $8 for each shirt ordered.
+Which function can be used to find c, the total amount the coach pays in dollars when k shirts
+are ordered?
+F c = 8k + 32
+G c = 8k + 24
+H c = 32k + 8
+J c = 24k + 8
+Mathematics
+Page 17
+13 Which scatterplot does NOT suggest a linear relationship between x and y?
+y
+x
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0 1 2 3 4 5 6 7 8 9
+y
+x
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0 1 2 3 4 5 6 7 8 9
+A C
+y
+x
+0 1 2 3 4 5 6 7 8 9
+9
+8
+7
+6
+5
+4
+3
+2
+1
+y
+x
+0 1 2 3 4 5 6 7 8 9
+9
+8
+7
+6
+5
+4
+3
+2
+1
+B D
+Mathematics
+Page 18
+6.5 m
+12 m
+14 What value of x makes this equation true?
+12x  15 = 6  3x
+7
+3
+F
+3
+7
+G
+5
+7
+H
+7
+5
+J
+15 A silo is a building shaped like a cylinder used to store grain. The diameter of a particular silo
+is 6.5 meters, and the height of the silo is 12 meters.
+Which equation can be used to find V, the volume of this silo in cubic meters?
+A V = S(3.25)2 (12)
+B V = S(6.5)2 (12)
+C V = S(12)2 (3.25)
+D V = S(6)2 (6.5)
+Mathematics
+Page 19
+16 The scatterplot shows the energy in watts and the light output in lumens per watt of several
+lightbulbs.
+y Lightbulbs
+Light Output (lumens per watt)
+80
+75
+70
+65
+60
+55
+50
+45
+40
+x
+0 20 40 60 80 100 120
+Energy (watts)
+Which statement best describes the association between the energy and light output of these
+lightbulbs?
+F As the energy increases, the light output increases.
+G As the energy increases, the light output decreases.
+H As the energy increases, the light output remains the same.
+J There is no apparent association between the energy and light output.
+Mathematics
+Page 20
+17 The table shows the completion times of four runners in a race.
+Race Times
+Runner Time (seconds)
+Joe 1
+12 2
+Ellen 12.09
+Steve 2
+12 5
+Patty 12.8
+Which list shows the runners in order by their completion times from fastest to slowest?
+A Patty, Joe, Steve, Ellen
+B Ellen, Joe, Steve, Patty
+C Ellen, Steve, Joe, Patty
+D Patty, Steve, Joe, Ellen
+Mathematics
+Page 21
+y
+11
+H 10
+9
+8
+7
+6
+5 M
+J K 4
+3
+2
+1 P
+− 1 − 11 0 − 9 − 8 − 7 − 6 − 5 − 4 − 3 − 2 − 1
+− 1 1 2 3 4 5 6 7 8 9 10 11
+− 2
+− 3
+− 4
+− 5
+− 6
+− 7
+− 8
+− 9
+− 10
+− 11
+x
+18 Triangle HJK and triangle PMK are similar right triangles. The coordinates of all the vertices
+are integers.
+Which statement is true about the slope of HK and the slope of PK ?
+F The slope of HK is less than the slope of PK , because the ratio of the change in y-values of
+the endpoints to the change in x-values of the endpoints is less for HK than it is for PK .
+G The slope of HK is equal to the slope of PK , because the ratio of the change in y-values of
+the endpoints to the change in x-values of the endpoints is the same for HK as it is for PK .
+H The slope of HK is greater than the slope of PK, because the ratio of the change in
+y-values of the endpoints to the change in x-values of the endpoints is greater for HK than
+it is for PK.
+J The relationship between the slope of HK and the slope of PK cannot be determined,
+because the triangles are congruent.
+Mathematics
+Page 22
+19 The diagram shows three squares that are joined at vertices to form a right triangle.
+Which statement is true?
+A The sum of the areas of Square N and Square L is equal to the area of Square K.
+B The sum of the areas of Square N and Square L is greater than the area of Square K.
+C The sum of the areas of Square N and Square K is equal to the area of Square L.
+D The sum of the areas of Square N and Square K is less than the area of Square L.
+Mathematics
+Page 23
+Square
+N
+Square
+L
+Square
+K
+20 A bottle contains 30 fluid ounces of orange juice and 18 fluid ounces of pineapple juice. Which
+graph has a slope that best represents the ratio of orange juice to pineapple juice in this
+bottle?
+Juice
+y
+Amount of
+Pineapple Juice (fl oz)
+x
+0 2 4 6 8 10
+Amount of
+Orange Juice (fl oz)
+20
+16
+12
+8
+4
+Juice
+y
+Amount of
+Pineapple Juice (fl oz)
+x
+0 2 4 6 8 10
+Amount of
+Orange Juice (fl oz)
+20
+16
+12
+8
+4
+Juice
+y
+Amount of
+Orange Juice (fl oz)
+Amount of
+Pineapple Juice (fl oz)
+x
+0 2 4 6 8 10
+20
+16
+12
+8
+4
+Juice
+y
+Amount of
+Orange Juice (fl oz)
+Amount of
+Pineapple Juice (fl oz)
+x
+0 2 4 6 8 10
+20
+16
+12
+8
+4
+F
+G
+H
+J
+Mathematics
+Page 24
+21 Students recorded the total number of pages and chapters in each of several books on the
+scatterplot.
+Books
+y
+Total Number of Pages
+280
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+x
+0 1 2 3 4 5 6 7 8 9 10
+Total Number of Chapters
+Based on the scatterplot, which is the best prediction of the total number of pages in a book
+with 4 chapters?
+A 150 pages
+B 140 pages
+C 90 pages
+D 120 pages
+Mathematics
+Page 25
+3
+4
+22 Quadrilateral KMPT is dilated by a scale factor of ′to create quadrilateral K M′ ′P′T . The
+perimeter of quadrilateral KMPT is x units.
+What is the perimeter in units of quadrilateral K M′ ′P′T ′?
+F x units
+3 x units
+4
+G
+2
+§ 3 ·
+¨ ¸ x units
+4© ¹
+H
+4 x units
+3
+J
+23 Mr. Jenkins deposited $1,250 into an account. He made no additional deposits or withdrawals.
+Mr. Jenkins earned 4.25% annual simple interest on the money in the account.
+What was the balance in dollars and cents in Mr. Jenkins’s account at the end of 4 years?
+Record your answer and fill in the bubbles on your answer document. Be sure to use the
+correct place value.
+Mathematics
+Page 26
+24 A polygon is graphed on a coordinate grid with ( ,x y) representing the location of a certain
+point on the polygon. The polygon is transformed using the rule ( ,x y) o (ax, ay).
+Which statement must be true?
+F If a is greater than 1, the image of the polygon is congruent to the polygon.
+G If a is between 0 and 1, the image of the polygon is congruent to the polygon.
+H If a is greater than 1, the image of the polygon is smaller than the polygon.
+J If a is between 0 and 1, the image of the polygon is smaller than the polygon.
+25 At a store each notebook has a cost of x dollars. Which situation can be represented by this
+inequality?
+5x < 3x + 2
+A The cost of 5 notebooks is greater than the cost of 3 notebooks plus a $2 pen.
+B The cost of 5 notebooks is less than the cost of 3 notebooks with a $2-off coupon.
+C The cost of 5 notebooks is less than the cost of 3 notebooks plus a $2 pen.
+D The cost of 5 notebooks is $2 greater than the price of 3 notebooks.
+26 A can in the shape of a cylinder has a diameter of 6 centimeters and a height of
+10 centimeters. Which measurement is closest to the total surface area of the can in
+square centimeters?
+F 603.19 cm2
+G 245.04 cm2
+H 376.99 cm2
+J 188.50 cm2
+Mathematics
+Page 27
+27 The diagonal lengths of three rectangles are shown. The rectangles are not drawn to scale.
+Rectangle P Rectangle S Rectangle T
+6.7 cm 36.5 cm
+cm
+34
+5
+Which list shows the rectangles in order by their diagonal lengths from shortest to longest?
+A Rectangle T, Rectangle S, Rectangle P
+B Rectangle T, Rectangle P, Rectangle S
+C Rectangle S, Rectangle T, Rectangle P
+D Rectangle S, Rectangle P, Rectangle T
+Mathematics
+Page 28
+
+
+28 The graph shows the relationship between the number of gallons of fuel remaining in the tank
+of a semitruck and the number of miles traveled by the semitruck.
+Semitruck Fuel
+y
+270
+240
+210
+180
+150
+120
+90
+60
+30
+x
+0 100 200 300 400
+Number of Miles Traveled
+Number of Gallons of Fuel Remaining
+Which function can be used to find y, the number of gallons of fuel remaining in the tank of
+the semitruck after it has traveled x miles?
+F y = 240x  30
+1
+y =  x + 240
+6
+G
+H y = 240x  10
+1
+y =  x + 240
+10
+J
+29 The density of oxygen is 0.001429 grams per cubic centimeter. How is this number written in
+scientific notation?
+A 1.429 × 103
+B 1.429 × 102
+C 1.429 × 103
+D 1.429 × 102
+Mathematics
+Page 29
+30 Helen had $330 in her savings account when Vince opened a savings account with zero
+dollars.
+• Helen deposited $30 into her account each week for x weeks.
+• Vince deposited $50 into his account each week for x weeks.
+• The accounts did not earn interest.
+Which inequality represents this situation when the amount of money in Helen’s account was
+greater than the amount of money in Vince’s account?
+F 30x < 330 + 50x
+G 50x > 330 + 30x
+H 30x > 330 + 50x
+J 50x < 330 + 30x
+31 The height of a cylinder is 5 centimeters. The circumference of the base of the cylinder is
+16 centimeters.S
+Which measurement is closest to the volume of the cylinder in cubic centimeters?
+A 251.3 cm3
+B 4,021.2 cm3
+C 1,005.3 cm3
+D 628.3 cm3
+Mathematics
+Page 30
+y
+9
+8
+7
+6
+5
+4
+3
+2
+1
+–9 –8 –7 –6 –5 –4 –3 –2 –1
+–1 1 2 3 4 5 6 7 8 9
+–2
+–3
+–4
+–5
+–6
+–7
+–8
+–9
+x
+y
+9
+8
+7
+6
+5
+4
+3
+2
+1
+–9 –8 –7 –6 –5 –4 –3 –2 –1
+–1 1 2 3 4 5 6 7 8 9
+–2
+–3
+–4
+–5
+–6
+–7
+–8
+–9
+x
+y
+x
+9
+8
+7
+6
+5
+4
+3
+2
+1
+–9 –8 –7 –6 –5 –4 –3 –2 –1
+–1 1 2 3 4 5 6 7 8 9
+–2
+–3
+–4
+–5
+–6
+–7
+–8
+–9
+y
+x
+9
+8
+7
+6
+5
+4
+3
+2
+1
+–9 –8 –7 –6 –5 –4 –3 –2 –1
+–1 1 2 3 4 5 6 7 8 9
+–2
+–3
+–4
+–5
+–6
+–7
+–8
+–9
+32 Which graph appears to show a proportional relationship between x and y?
+F H
+G J
+33 The points on the number line represent the values of four different numbers.
+A B C D
+43210
+Which point best represents the value of 3 ?
+A Point A
+B Point B
+C Point C
+D Point D
+Mathematics
+Page 31
+34 The side lengths of the base of a triangular prism are 5 meters, 8 meters, and 10 meters. The
+height of the prism is 16.5 meters.
+10 m
+16.5 m
+5 m
+8 m
+What is the lateral surface area of the prism in square meters?
+Record your answer and fill in the bubbles on your answer document. Be sure to use the
+correct place value.
+Mathematics
+Page 32
+35 The table shows the linear relationship between the number of hours Francis worked, x, and
+the amount of money Francis earned, y.
+Francis’s Earnings
+Number of Hours Worked 1.25 3.75 5.5
+Amount Earned $17.50 $52.50 $77.00
+Based on the table, how much did Francis earn per hour?
+A $17.50 per hour
+B $14.00 per hour
+C $35.00 per hour
+D $24.50 per hour
+Mathematics
+Page 33
+ 
+
+
+36 Four triangles are shown. One side of each triangle lies on a ray, and the triangles are not
+drawn to scale.
+56°
+35° 91° 120°
+60°
+60°
+120°
+20° 140°
+30°
+130° x°
+Based on these triangles, which statement about x is true?
+F x = 160 , because 180  (130 + 30) = 20 and 180  20 = 160
+G x = 20, because 130 + 30 = 160 and 180  160 = 20
+H x = 80, because 180  130 = 50 and 50 + 30 = 80
+J x = 340 , because 130 + 30 = 160 and 160 + 180 = 340
+Mathematics
+Page 34
+37 The scatterplot shows the time spent playing a video game and the number of points scored
+by several students.
+Video Game
+y
+Number of Points Scored 1,350
+1,200
+1,050
+900
+750
+600
+450
+300
+150
+x
+0 5 10 15 20 25 30 35 40 45
+Time (minutes)
+Based on the scatterplot, which is the best prediction of the number of points scored by a
+student who spends 45 minutes playing the video game?
+A 1,200
+B 920
+C 1,060
+D 1,300
+Mathematics
+Page 35
+38 The length of a rectangular frame is 15 inches, and the width of the frame is 8 inches. What is
+the length of a diagonal of this frame in inches?
+Record your answer and fill in the bubbles on your answer document. Be sure to use the
+correct place value.
+Mathematics
+Page 36
+     
+ 
+       
+39 Which set of ordered pairs represents y as a function of x?
+A ^(0, 0), (1, 2), (1, 2), (2, 4), (2, 4)`
+B ^(0, 0), (1, 1), (2, 4), (3, 9), (3, 16)`
+C ^(0, 0), (0, 1), (0, 2), (0, 1), (0, 2)`
+D ^(0, 0), (1, 0.5), (2, 1), (3, 1.5), (4, 2)`
+40 Gabriel deposits $2,500 into each of two savings accounts.
+• Account I earns 4% annual simple interest.
+• Account II earns 4% interest compounded annually.
+Gabriel does not make any additional deposits or withdrawals. What is the sum of the
+balances of Account I and Account II at the end of 3 years?
+F $5,600.00
+G $5,612.16
+H $5,624.32
+J $5,200.00
+Mathematics
+Page 37
+41 On a map scale, 2 inches represents 60 miles. Which graph best shows the relationship
+between x, the number of inches on the map, and y, the actual distance in miles?
+Map Scale
+y
+125
+225
+Actual Distance (miles)
+200
+175
+150
+100
+75
+50
+25
+x
+0 1 2 3 4 5 6 7 8 9
+Number of Inches on Map
+Map Scale
+y
+225
+Actual Distance (miles)
+200
+175
+150
+125
+100
+75
+50
+25
+x
+0 1 2 3 4 5 6 7 8 9
+Number of Inches on Map
+CA
+B
+Actual Distance (miles)
+Map Scale
+y
+125
+x
+0 1 2 3 4 5 6 7 8 9
+Number of Inches on Map
+225
+200
+175
+150
+100
+75
+50
+25
+Actual Distance (miles)
+Map Scale
+y
+x
+0 1 2 3 4 5 6 7 8 9
+Number of Inches on Map
+225
+200
+175
+150
+125
+100
+75
+50
+25
+D
+Mathematics
+Page 38
+ 
+ 
+42 Quadrilateral PQRS was translated 5 units to the right and 3 units up to create
+quadrilateral P Q′ ′R′S . Which rule describes this transformation?′
+F (x y, ) o (x  5, y  3)
+G (x y, ) o (x + 5, y + 3)
+H (x y, ) o (x  3, y  5)
+J (x y, ) o (x + 3, y + 5)
+BE SURE YOU HAVE RECORDED ALL OF YOUR ANSWERS
+Mathematics
+Page 39 ON THE ANSWER DOCUMENT. STOP
+
+
+
+
+STAAR
+GRADE 8
+Mathematics
+April 2019

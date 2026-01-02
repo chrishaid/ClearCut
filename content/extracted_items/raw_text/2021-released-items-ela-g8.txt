@@ -1,0 +1,807 @@
+New York State administered the English Language Arts Tests in
+April 2021 and is now making the questions from Session 1 of these tests
+available for review and use. Only Session 1 was required in 2021.New York State Testing Program
+Grade 8
+English Language Arts Test
+Released Questions
+2021
+THE STATE EDUCATION DEPARTMENT / THE UNIVERSITY OF THE STATE OF NEW YORK / ALBANY, NY 12234
+New York State Testing Program
+Grades 3–8 English Language Arts
+Released Questions from 2021 Tests
+Background
+In 2013, New York State (NYS) began administering tests designed to assess student performance in
+accordance with the instructional shifts and rigor demanded by the new New York State P–12
+Learning Standards in English Language Arts (ELA). To help in this transition to new assessments,
+the New York State Education Department (NYSED) has been releasing a number of test questions
+from the tests that were administered to students across the State in the spring. This year, NYSED
+is again releasing 2021 NYS Grades 3–8 English Language Arts and Mathematics test materials for
+review, discussion, and use.
+In February 2021, with the ongoing COVID-19 pandemic still forcing restrictions on all educational
+and learning activities statewide, NYSED submitted two federal waiver requests related to state
+assessment and accountability requirements. The waiver requests addressed the unique
+circumstances caused by the pandemic that have resulted in many students receiving some or all
+of their instruction remotely.
+Later that month, the United States Department of Education (USDE) informed states that it would
+not grant a blanket waiver for state assessments. However, the USDE agreed to uncouple state
+assessments from the Every Student Succeeds Act (ESSA) accountability requirements so that test
+results will be used solely as a measure of student learning. Additionally, it was decided that NYSED
+would administer only Session 1 of the Grades 3–8 ELA and Mathematics Tests for the Spring 2021
+administration and that the tests would include previously administered questions.
+The decision to use previously administered test questions in this extraordinary year was based on
+guidance from nationally recognized experts in the assessment field and was recommended in a
+publication from the Council of Chief State School Officers to state education departments. Reusing
+test questions provided the benefit of having established scale scores and stable item parameters.
+Using previously administered test questions also ensured that it will be possible to develop new
+test forms for 2022 and beyond. Although it was not the driver of the decision, the reuse of
+previously administered test questions provided an opportunity for cost savings during these
+unique circumstances where the instructional models used by schools varied throughout the State.
+For 2021, the entire Session 1 booklet is being released as this is all that students were required
+to take. Additionally, NYSED is providing information about the released passages; the associated
+text complexity for each passage; a map that details what learning standards each released
+question measures; and the correct response to each question. These released materials will
+help students, families, educators, and the public better understand the tests and NYSED’s
+expectations for students.
+Understanding ELA Questions
+Multiple-Choice Questions
+Multiple-choice questions are designed to assess the New York State P–12 Learning Standards in
+English Language Arts. These questions ask students to analyze different aspects of a given text,
+including central idea, style elements, character and plot development, and vocabulary. Almost
+all questions, including vocabulary questions, will be answered correctly only if the student
+comprehends and makes use of the whole passage.
+For multiple-choice questions, students select the correct response from four answer choices.
+Multiple- choice questions assess reading standards in a variety of ways. Some ask students to
+analyze aspects of text or vocabulary. Many questions require students to combine skills. For
+example, questions may ask students to identify a segment of text that best supports the central
+idea. To answer these questions correctly, a student must first comprehend the central idea and
+then show understanding of how that idea is supported. Questions tend to require more than rote
+recall or identification.
+New York State P–12 Learning Standards Alignment
+The alignment to the New York State P–12 Learning Standards for English Language Arts is intended
+to identify the analytic skills necessary to successfully answer each question. The released
+questions do not represent the full spectrum of how the standards should be taught and assessed in
+the classroom. It should not be assumed that a particular standard will be measured by an
+identical question in future assessments. Specific criteria for writing test questions, as well as
+additional assessment information, are available at http://www.engageny.org/common-core-
+assessments.
+2021 Grade 8 ELA Test Text Complexity Metrics
+For Released Questions
+Selecting high-quality, grade-appropriate passages requires both objective text
+complexity metrics and expert judgment. For the Grades 3–8 assessments based on the
+New York State P–12 Learning Standards for English Language Arts, both quantitative and
+qualitative rubrics are used to determine the complexity of the texts and their appropriate
+placement within a grade-level ELA exam.
+Quantitative measures of text complexity are used to measure aspects of text complexity
+that are difficult for a human reader to evaluate when examining a text. These aspects
+include word frequency, word length, sentence length, and text cohesion. These aspects
+are efficiently measured by computer programs. While quantitative text complexity
+metrics are a helpful start, they are not definitive.
+Qualitative measures are a crucial complement to quantitative measures. Using
+qualitative measures of text complexity involves making an informed decision about the
+difficulty of a text in terms of one or more factors discernible to a human reader applying
+trained judgment to the task. To qualitatively determine the complexity of a text,
+educators use a rubric composed of five factors; four of these factors are required and
+one factor is optional. The required criteria are: meaning, text structure, language
+features, and knowledge demands. The optional factor, graphics, is used only if a graphic
+appears in the text.
+To make the final determination as to whether a text is at grade-level and thus
+appropriate to be included on a Grades 3–8 assessment, New York State uses a two-step
+review process, which is an industry best-practice. First, all prospective passages undergo
+quantitative text complexity analysis using three text complexity measures. If at least two
+of the three measures suggest that the passage is grade-appropriate, the passage then
+moves to the second step, which is the qualitative review using the text-complexity
+rubrics. Only passages that are determined appropriate by at least two of three
+quantitative measures of complexity and are determined appropriate by the qualitative
+measure of complexity are deemed appropriate for use on the exam.
+For more information about text selection, complexity, and the review process please
+refer to:
+https://www.engageny.org/resource/new-york-state-passage-selection-resources-
+for-grade-3-8-assessments
+https://www.engageny.org/resource/selection-of-authentic-texts-for-common-core-
+instruction-guidance-and-a-list-of-resources
+https://www.engageny.org/resource/december-2014-nti-understanding-text-
+complexity-grades-9-12
+Text Complexity Metrics for 2021 Grade 8 Passages
+Passage Title Word
+Count
+Lexile
+Flesch-Kincaid
+Reading Maturity
+M t i *
+Degrees of
+Reading Power*
+Qualitative
+Review
+Fly for Your Life 977 960L 6.0 57 Appropriate
+Excerpt from River of Dreams 647 1000L 7.4 58 Appropriate
+Excerpt from A la Carte 826 1160L 8.4 58 Appropriate
+Excerpt from Wheels of Change: How
+Women Rode the Bicycle to Freedom (With
+a Few Flat Tires Along the Way) 1029 1170L 10.4 65
+Appropriate
+So Much Happiness 214
+N/A,
+poem
+N/A,
+poem
+N/A,
+poem
+Appropriate
+Excerpt from Gadgets: Built To Not Last 327 1200L 9.9 65 Appropriate
+Don't Fix Your Fridge, Just Buy a New One 394 1110L 9.5 65 Appropriate
+* Depending on when the passage was selected, either the Reading Maturity Metric or Degrees of Reading Power was
+used as the third quantitative metric.
+New York State 2021 Quantitative Text Complexity Chart for Assessment and Curriculum
+To determine if a text’s quantitative complexity is at the appropriate grade level, New
+York State uses the table below. In cases where a text is excerpted from a large work, only
+the complexity of the excerpt that students see on the test is measured, not the large
+work, so it is possible that the complexity of a book might be above or below grade level,
+but the text used on the assessment is at grade level. Because the measurement of text
+complexity is inexact, quantitative measures of complexity are defined by grade band
+rather than by individual grade level and then paired with the qualitative review by an
+educator.
+Grade
+Band ATOS
+Degrees of
+Reading
+Power Flesch-Kincaid
+The Lexile
+Framework
+Reading
+Maturity SourceRater
+2nd–3rd 2.75 – 5.14 42 – 54 1.98 – 5.34 420 – 820 3.53 – 6.13 0.05 – 2.48
+4th–5th 4.97 – 7.03 52 – 60 4.51 – 7.73 740 – 1010 5.42 – 7.92 0.84 – 5.75
+6th–8th 7.00 – 9.98 57 – 67 6.51 – 10.34 925 – 1185 7.04 – 9.57 4.11 – 10.66
+9th–10th 9.67 – 12.01 62 – 72 8.32 – 12.12 1050 – 1335 8.41 – 10.81 9.02 – 13.93
+11th–12th 11.20 – 14.10 67 – 74 10.34 – 14.20 1185 – 1385 9.57 – 12.00 12.30 – 14.50
+Source: Student Achievement Partners
+
+Excerpt from “Fly for Your Life” by John Frizell, Odyssey, 2010. Copyright © 2010 by Cricket Media. Used with permission of Carus
+Publishing Company via Copyright Clearance Center.
+Excerpt(s) from RIVER OF DREAMS: THE STORY OF THE HUDSON RIVER by Hudson Talbott, copyright © 2009 by Hudson Talbott.
+Used by permission of G.P. Putnam’s Sons Books for Young Readers, an imprint of Penguin Young Readers Group, a division of Penguin
+Random House LLC. All rights reserved.
+Excerpt(s) from A LA CARTE by Tanita S. Davis, 2008 by Tanita S. Davis. Used with permission of Alfred A. Knopf, an imprint of Random
+House Children’s Books, a division of Penguin Random House LLC. All rights reserved.
+Excerpt from Wheels of Change: How Women Rode the Bicycle to Freedom (With a Few Flat Tires Along the Way) by Sue Macy. Copyright ©
+2011 by Sue Macy. Used with permission of the National Geographic Society via Copyright Clearance Center.
+Developed and published under contract with the New York State Education Department by Questar Assessment Inc., 5550 Upper 147th
+Street West, Minneapolis, MN 55124. Copyright © 2021 by the New York State Education Department.
+Session 1
+Session 1
+TIPS FOR TAKING THE TEST
+Here are some suggestions to help you do your best:
+• Be sure to read all the directions carefully.
+• Most questions will make sense only when you read the whole passage. You may read
+the passage more than once to answer a question. When a question includes a quotation
+from a passage, be sure to keep in mind what you learned from reading the whole
+passage. You may need to review both the quotation and the passage in order to answer
+the question correctly.
+• Read each question carefully and think about the answer before making your choice.
+Page 1Session 1
+Alan is on a volcano on Titan, a moon of Saturn. As the story opens, Alan is stranded on its
+summit in his space crawler. Luckily, he has brought along his mechanical wings.
+Excerpt from
+Fly for Your Life
+by John Frizell
+Alan knew there was no way back to the base and no way the crew there could help
+him remotely—the other crawler was down for maintenance. He could go down this
+side of the stream for 23 kilometers, to a flat area where the flowing liquid would
+spread out and be shallow enough to cross; then go back 23 kilometers to the far side of
+the bridge. One problem: he would definitely run out of air before he got there.
+1
+en Alan thought of the folded flight wings he had attached to his suit. Could he fly
+across the river and then walk to the base? Some quick calculations showed it wouldn’t
+work. He had enough air, but the battery that powered the heater of the suit he wore to
+stay alive on Titan was only good for an hour, not the four-hour walk it would take to
+reach the base. Spacewalks were usually done trailing a power cable plugged in to the
+suit. e cable carried power from the crawler to supplement the suit’s battery. Without
+the supplemental power, he would freeze solid in 10 minutes once the battery was
+exhausted.
+2
+Alan knew flying the whole way was impossible. Even with Titan’s thick atmosphere
+and low gravity the suit made flying hard work, worse than running uphill carrying a
+sack of cement. No one could stay alo for more than 10 minutes. It would be at least a
+half-hour flight to the base.
+3
+He needed more than wings alone to get back alive. en it came to him. Bolted to
+the side of the crawler was a squat, black cylinder containing compressed nitrogen at
+200 bar, compressed Titanian atmosphere in fact, used for cleaning gunk off the
+crawler’s treads. Alan struggled with the bolts, working carefully in the searing cold
+with tools as brittle as glass. When he had the cylinder off, propped up, and pointing at
+the sky, he put his wings on, and then took them off, repeating the task until he could
+do it without thinking about it. . . .
+4
+Page 2GO ON
+Session 1
+Read this story. Then answer questions 1 through 7.
+He pulled the power cable out of his suit’s hip socket and, before he could change his
+mind, gave a sharp tug on a line that he had attached to the valve of the pressure
+cylinder. e cylinder hissed like a giant snake, as high-pressure nitrogen blasted out,
+and then shot into the sky. A length of climbing rope he had attached to it went taut
+and snatched him into the air, where he was buffeted and tossed by the jet of nitrogen
+pouring down on him. It was like being caught under a breaking wave, pounded again
+and again by the surf. He was directly under the cylinder, using his weight and drag to
+keep the nozzle pointed down as the cylinder loed him into Titan’s sky. e ground
+beneath, blurred by the motion, made it impossible to gauge height or direction.
+5
+Time slowed; his shuddering world narrowed to the readout of the Titan Positioning
+System (TPS)—the icy moon’s equivalent of GPS. Gradually, the pounding lessened as
+the rate of climb shown on the readout passed its peak and began falling. Alan waited.
+Just before it hit zero, he cut the rope. e cylinder, relieved of his drag, flew off,
+dwindling to a black dot and then disappearing into the empty sky above. Now he was
+coasting upward, propelled by the momentum imparted to him by the nitrogen rocket.
+He was high in the air, but already he was slowing under the drag of the thick
+atmosphere. He had to get the wings on before the downward fall began. Once he
+started to move with some speed, he would begin to spin and never get them on. e
+first wing stuck and he had to take his arm out of the loops and try again. . . .
+6
+He was gathering speed on his way down before he got the second one on. He spread
+his wings and rolled into a comfortable position, soaring over the moon’s dimly lit
+surface. e TPS showed that he was heading away from the base. He banked in an
+easy curve and settled on a course for home. All he had to do was hold the wings rigid
+and enjoy the ride. He took an occasional flap, just for fun. . . .
+7
+As Alan glided toward the base, he flapped more oen, watching the height-above-
+surface and distance-to-target displays. As they unwound, an unpleasant feeling, like a
+trace of the frigid atmosphere outside, crept into his stomach. His elevation was
+dropping dangerously, with over three kilometers le to go on distance-to-target. He
+could see details on the surface more clearly now, because he was flying so low. . . .
+8
+Alan forced himself to stay calm. Panic would mean disaster. He started flapping his
+wings faster, faster, faster. . . . He could feel himself liing with every beat of the
+massive appendages. Faster, faster, faster. . . . His descent rate began to slow, but the
+muscles in his arms burned with pain. . . .
+9
+Time stretched out endlessly.10
+Page 3Session 1
+GO ON
+e TPS buzzed loudly in his helmet. Target. e station’s beacon was directly below
+him. He could barely feel his arms, but something made them stop flapping. He
+gratefully fell out of the sky, wrapped in a ball of pain, with barely the strength to flare
+his wings one last time for a so landing. . . .
+11
+en he saw someone running toward him with a power cable in hand. Voices
+boomed into his helmet. It sounded like the whole station was in the control room
+waiting to see if he had made it.
+12
+“Alan! ALAN! Say something! Can you move? Are you receiving this?” He
+recognized the voice of the base leader. . . .
+13
+As the crew lied him carefully onto a stretcher, he looked up at Titan’s hazy sky.
+I
+flew for my life today, he thought.
+I survived. at’s the only record that matters.
+14
+Page 4GO ON
+Session 1
+Paragraphs 1 through 4 reveal that Alan is
+A discouraged aer several of his ideas fail
+B overwhelmed and dismayed by his environment
+C adventurous and enjoying the current challenge
+D focused even in a life and death situation
+In paragraph 4, what is the effect of the simile “with tools as brittle as glass”?
+A It affects the plot by explaining that the tools were hard to see.
+B It creates suspense by showing that the tools were missing some pieces.
+C It adds to the setting by suggesting that the tools were reflecting light off the
+snow.
+D It increases danger by emphasizing that the tools were breakable in the cold.
+Why does Alan use the compressed nitrogen?
+A e nitrogen’s energy will propel him toward the base before he runs out of
+air.
+B e nitrogen is used for emergencies when astronauts become stranded.
+C e nitrogen will stay liquid in the atmosphere.
+D e nitrogen’s cable can be cut and it will continue to work.
+1
+2
+3
+Page 5Session 1
+GO ON
+What quotation best reveals Alan’s character?
+A “As Alan glided toward the base, he flapped more oen, watching the
+height-above-surface and distance-to-target displays.” (paragraph 8)
+B “He could see details on the surface more clearly now, because he was flying
+so low.” (paragraph 8)
+C “Alan forced himself to stay calm. Panic would mean disaster.”
+(paragraph 9)
+D “His descent rate began to slow, but the muscles in his arms burned with
+pain.” (paragraph 9)
+In paragraph 9, “appendages” refers to something that
+A calms a person
+B is attached
+C slows things down
+D is lightweight
+e main way the point of view affects the story is by making it
+A formal
+B lighthearted
+C humorous
+D suspenseful
+4
+5
+6
+Page 6GO ON
+Session 1
+Which sentence would be most important to include in a summary of the story?
+A A cable connects space suits to a power source for spacewalks.
+B e power from the nitrogen blast allows Alan to travel farther and faster.
+C Alan soars away from his target during part of his flight.
+D e weather on Titan is cold and hazy.
+7
+Page 7Session 1
+GO ON
+is excerpt is from a book about the history of the Hudson River.
+Excerpt from
+River of Dreams
+by Hudson Talbott
+By the twentieth century, New York City had long since reached its destiny of
+becoming the most powerful city in America. In less than 300 years it had grown from
+a tiny Dutch outpost in the wilderness to the business capital of the world. It was a city
+built on dreams.
+1
+But it was made out of bricks and cement that had come from the banks of the
+Hudson. e river which had fed all those dreams was now fading into the background.
+New York didn’t seem to need the river anymore, except as a sewer. And that’s what it
+became.
+2
+Industry on the river had made some New Yorkers filthy rich. But it had just made
+the river filthy. Garbage, factory waste, plant chemicals and the raw sewage of the cities
+and towns along its banks were dumped directly into the river. e water turned
+greenish brown, except by the GM plant, where it turned red or yellow or whatever
+color they were painting the cars that day.
+3
+e fishing industry collapsed. e few fish that survived were too poisonous to eat.
+Smog from the factory smoke and dust from the cement plants blanketed the valley.
+And it was all legal.
+4
+Most people don’t start out with dreams of polluting a river. But it was oen the
+result of people chasing their dreams of wealth with little care of how they reached it.
+e Hudson Valley had always drawn them.
+5
+But now there were other dreamers in the valley, with their own dreams of wealth.
+ey dreamed of the wealth of wildlife in a healthy forest, the abundance of fish in
+oxygen-rich water, and the great fortune of living in a beautiful river valley.
+6
+So perhaps it was a matter of time before the two types of dreamers would meet each
+other—in court.
+7
+Page 8GO ON
+Session 1
+Read this article. Then answer questions 8 through 14.
+In 1963, Con Edison, New York City’s power company, proposed a plan for
+constructing the largest hydroelectric pumping station ever built. e plan called for
+carving out a gigantic hole in the side of majestic Storm King Mountain on the Hudson
+River.
+8
+But then they met Franny Reese. Franny was a longtime valley resident with a simple
+point to make: the mountain could not speak for itself. If she didn’t speak for it, who
+would?
+9
+Franny and a group of like-minded people founded Scenic Hudson and took on the
+power company in a landmark court case. Con Ed challenged the right of private
+citizens to participate, but the court sided with the citizens, in the ruling now known as
+the Scenic Hudson Decision.
+10
+Aer dragging out the case for seventeen years, Con Ed finally gave up and Storm
+King survived unblemished. It was the beginning of the environmental movement in
+this country, and once again, the Hudson Valley was the birthplace.
+11
+More and more people joined the movement as they realized how much difference
+each of us can make.
+12
+e love of their land was still alive in the hearts of Americans, and now that it was
+aroused again, things began to change.
+13
+Many new laws and new citizens’ groups have been inspired by those early heroes of
+the environment, and their work has begun to bring the Hudson back to life.
+14
+e Mahicans called it “e River at Flows Both Ways.” Slowly we are learning
+that taking care of the river is the only way that the river can take care of us.
+15
+Fiy years have passed since I dreamed of going to New York to see the river that
+shares my name, and thirty-five years since that dream came true. I live in the Hudson
+Valley now, grateful to all those who came before me, following their dreams to this
+river, building this nation, sharing its beauty, securing its future.
+16
+It’s now my turn to help in keeping the river of dreams flowing, for all those
+dreamers yet to come.
+17
+Page 9Session 1
+GO ON
+As used in paragraph 2, what does the phrase “fading into the background” mean?
+A disappearing from view
+B losing its importance in people’s minds
+C moving farther and farther from the city
+D remaining important only to those who value nature
+Which claim from the article is least supported?
+A “New York didn’t seem to need the river anymore, except as a sewer. And
+that’s what it became.” (paragraph 2)
+B “Industry on the river had made some New Yorkers filthy rich.”
+(paragraph 3)
+C “But it had just made the river filthy.” (paragraph 3)
+D “But now there were other dreamers in the valley, with their own dreams of
+wealth.” (paragraph 6)
+What is the role of paragraph 7 in the organization of the article?
+A It compares the two groups of dreamers.
+B It concludes the part of the article about industry.
+C It introduces the part of the article about activists.
+D It transitions to the part of the article where change occurs.
+8
+9
+10
+Page 10GO ON
+Session 1
+What does “unblemished” mean as used in paragraph 11?
+A unaware
+B unknown
+C unharmed
+D unstable
+How does the idea expressed in paragraph 15 relate to the article?
+A ere are two main ways that the river can be fixed.
+B e river is able to move in two different directions.
+C People who benefit from the river must also protect it.
+D Opposing groups can each get what they want from the river.
+Which sentence is most important to include in a summary of the article?
+A One company colored the river red and yellow with excess car paint.
+B e Hudson River became polluted in the effort to gain wealth.
+C e Mahicans have a saying about taking care of the river.
+D e author has dreamed of returning to the Hudson River for fiy years.
+11
+12
+13
+Page 11Session 1
+GO ON
+Which quotation best expresses the author’s point of view in the article?
+A “In less than 300 years it had grown from a tiny Dutch outpost in the
+wilderness to the business capital of the world.” (paragraph 1)
+B
+“In 1963, Con Edison, New York City’s power company, proposed a plan
+for constructing the largest hydroelectric pumping station ever built.”
+(paragraph 8)
+C “More and more people joined the movement as they realized how much
+difference each of us can make.” (paragraph 12)
+D “It’s now my turn to help in keeping the river of dreams flowing, for all
+those dreamers yet to come.” (paragraph 17)
+14
+Page 12GO ON
+Session 1
+Excerpt from
+A la Carte
+by Tanita S. Davis
+“Homework?” My mother mouths the word exaggeratedly, eyebrows raised, and I
+roll my eyes. Frowning, she points with her chin to the side door that leads to the stairs.
+I roll my eyes again, mouthing, Okay, okay, not needing her to pantomime further what
+she wants me to do. I hate the thought of leaving the clattering nerve center of the
+restaurant to wrestle with my trigonometry homework in my mother’s quiet office
+downstairs.
+1
+“Order!”2
+e bright lights and swirl of noise and motion are muffled as the kitchen door
+swings closed behind me.
+3
+It’s hard to remember a time when the restaurant hasn’t been the center of our lives.
+Mom used to be a copy editor and wrote food features for our local paper, the
+Clarion,
+and she met Pia when she did a write-up on the culinary school Pia attended. Pia
+thinks it was fate that Mom wanted to invest in a restaurant at the same time Pia
+wanted to buy the old bank building.
+4
+La Salle Rouge doesn’t serve much in the way of “kid” food, since the menu doesn’t
+cater to people my age on a cheap date, but I’ve loved everything about it from the first.
+I started experimenting with being a vegetarian when I turned fourteen, but Pia still
+found things to feed me and taught me to be creative with vegetables and tofu. I like to
+think I’m the best-fed vegetarian in the state of California.
+5
+Pia’s been really good about teaching what she knows, and I decided early on that
+this is the work I want to do—get out of school and get into the kitchen for good. Mom
+and Pia have created a popular French-Asian-Californian fusion restaurant that has
+gotten great reviews from food critics. ey took the best of each other’s tastes—
+Mom’s traditional Southern flavors and Pia’s French training combined with her
+vegetable- and spice-savvy Cambodian tastes—and pulled off what one food critic
+called “stylized food with unique flavor combinations in an intimate setting.”
+6
+Whatever that means.7
+Page 13Session 1
+GO ON
+Read this story. Then answer questions 15 through 21.
+_______________________
+1patron saint: an inspiring person admired for his or her work
+ree years ago, when I started high school thirty pounds heavier than everyone in
+my class, Mom and I came up with a light menu for La Salle Rouge, and it’s been such a
+popular idea that Mom lets me come up with tasty, low-calorie desserts, which is one of
+my favorite things to do. It hardly seems fair that I have to walk away from all of that
+just to do trigonometry, but my mom says I have to finish school before I concentrate
+on cooking. She says it’s smarter to have a “backup plan,” and she’s made me apply to
+plenty of colleges and check out business majors just in case I ever want to do anything
+else with my life. I guess that makes sense if you’re anybody other than me. When I
+turn eighteen, I already know what I’m going to do.
+8
+First, I’m going to buy a plane ticket to D.C. and go to Julia Child’s kitchen at the
+Smithsonian and leave roses. ey don’t let you walk through it, but somewhere—I
+don’t know where—I’m going to leave a bouquet and a little note for her. Julia Child is
+my patron saint.1 She’s the queen of all reasons people can do anything they want in
+life. Saint Julia didn’t start cooking until she was practically forty, and she went on to
+do TV shows and make cookbooks and be this huge part of culinary history. She never
+got too fancy, she never freaked out, and she was never afraid to try new things. I want
+to be just like her—except maybe get famous faster.
+9
+e second thing I’m going to do is buy myself a set of knives. Pia swears by this set
+of German steel knives she got when she graduated, but I’ve seen the TV chef Kylie
+Kwong use a phenomenal-looking ceramic knife on her show on the Discovery
+Channel. Either way, knives are what the best chefs have of their very own.
+10
+e third thing I’m going to do, aer I get back from Washington and get my knives,
+is . . . get discovered. Somehow. I know I’m going to have to pay my dues, but I’m so
+ready for my real life to start. It’s not something I admit to a lot, but my real dream is to
+be a celebrity chef. Do you know how many African American female chefs there
+aren’t? And how many vegetarian chefs have their own shows? e field is wide open
+for stardom. Every time I watch old episodes of Saint Julia, I imagine that I have my
+own cooking show. e way celebrity chefs do it now, I could also have a line of
+cooking gear, cookbooks, aprons, the works. People would know my name, ask for my
+autograph, and try my recipes. All I have to do is finish my trig homework and get back
+into the kitchen.
+11
+Page 14GO ON
+Session 1
+In paragraph 1, what does the phrase “clattering nerve center of the restaurant” suggest?
+A messiness, chaos
+B energy, core
+C tension, anxiety
+D greatness, stability
+Which quotation best expresses a central idea of the story?
+A “I started experimenting with being a vegetarian when I turned
+fourteen . . .” (paragraph 5)
+B “. . . I decided early on that this is the work I want to do . . .” (paragraph 6)
+C “It hardly seems fair that I have to walk away from all of that . . .”
+(paragraph 8)
+D “. . . just in case I ever want to do anything else with my life.” (paragraph 8)
+Read this sentence from paragraph 9.
+She’s the queen of all reasons people can do anything they want in life.
+What does this sentence suggest about Julia Child?
+A Her famous kitchen became part of a cooking museum.
+B She was successful in a career that interested her.
+C She always remained calm in the kitchen.
+D Her cooking style created unique flavor combinations.
+15
+16
+17
+Page 15Session 1
+GO ON
+In paragraph 11, what does the one-word statement “Somehow” reveal?
+A It illustrates the narrator’s enthusiasm about her future plans.
+B It shows the narrator has some questions about whether she will succeed or
+not.
+C It shows the narrator does not have every detail of her future plans figured
+out just yet.
+D It demonstrates the narrator’s lack of knowledge about how difficult her
+goals are to achieve.
+What does the statement “I know I’m going to have to pay my dues” (paragraph 11) show
+about the narrator’s attitude toward her plans?
+A She thinks the price of fame might be too high.
+B She realizes success depends on more than setting a goal.
+C She is highly motivated by the idea of becoming famous.
+D She thinks becoming a celebrity chef requires only money.
+Which sentence would be most important to include in a summary of the story?
+A When the narrator’s mother makes her do homework, the narrator rolls her
+eyes.
+B When the narrator’s mother wanted to invest in a restaurant, Pia wanted to
+buy the old bank building.
+C e narrator admires celebrity chefs.
+D e narrator lives in California.
+18
+19
+20
+Page 16GO ON
+Session 1
+e author develops the narrator’s point of view mainly through the use of
+A internal monologue
+B conflict between characters
+C limited dialogue
+D flashback
+21
+Page 17Session 1
+GO ON
+Excerpt from
+Wheels of Change: How
+Women Rode the Bicycle to Freedom
+(With a Few Flat Tires Along the Way)
+by Sue Macy
+Women’s rights crusader Elizabeth Cady Stanton was in her eighties during the
+heyday of the bicycle, and no evidence exists to show that she actually ever rode one.
+But there was no better or more eloquent advocate for women and the wheel. In 1895,
+Stanton contributed an article to the
+American Wheelman celebrating this “wonderful
+new style of locomotion.” In the article, titled “e Era of the Bicycle,” she pointed out
+that cycling was increasing people’s mobility, eliminating the cost of feeding and
+housing horses, and encouraging the building of good roads. However, she saved her
+greatest praise for the bicycle’s effects on women. “e bicycle,” she wrote, “will inspire
+women with more courage, self-respect and self-reliance and make the next generation
+more vigorous of mind and of body; for feeble mothers do not produce great
+statesmen, scientists and scholars.”
+1
+For all the practical benefits of the two-wheeler, the fact is that it brought about a
+cosmic shi in women’s private and public lives. With the rise of industry and the
+move from a rural to an urban economy in the 19th century, American women had
+become increasingly confined to their homes. Young girls could play outside, but when
+they matured, their freedom of movement was greatly restricted. “At sixteen years of
+age, I was enwrapped in the long skirts that impeded every footstep,” remembered
+Frances Willard, who in 1895 wrote a best-selling account of how she learned to ride a
+bicycle at age 53. “I have detested walking and felt with a certain noble disdain that the
+conventions of life had cut me off from what . . . had been one of life’s sweetest joys.”
+2
+Page 18GO ON
+Session 1
+Read this article. Then answer questions 22 through 28.
+While wealthier women were saddled with long skirts and restrictive corsets, those
+who were less well off worked anonymously in mills and factories. All in all, the result
+was the same. Except in a few instances, the public image of America was male.
+Politicians, soldiers, business leaders, and even the leading athletes in the new sports of
+baseball and football were all men. But the bicycle changed that. Suddenly, women
+were leaving their homes to cycle and socialize on country roads and city streets.
+Bicycle racers such as Louise Armaindo and Frankie Nelson had their exploits splashed
+all over the papers. Bicycle manufacturers, intent on mining an untapped market,
+showed female models in their advertisements. anks to the wheel, women were
+starting to be seen and heard in public life.
+3
+It was not a stretch for some cyclists to see the possibility of a larger role for women
+in the world. When she conquered the wheel, Frances Willard was a former university
+president and the longtime president of the Woman’s Christian Temperance Union,
+which fought to prohibit the use of alcoholic beverages and to win women the right to
+vote. Willard saw parallels between learning to ride and learning to live. “I began to feel
+that myself plus the bicycle equaled myself plus the world, upon whose spinning wheel
+we must all learn to ride,” she wrote. “He who succeeds, or, to be more exact in handing
+over my experience, she who succeeds in gaining the mastery of [a bicycle], will gain
+the mastery of life.”
+4
+For decades, Willard, along with Elizabeth Cady Stanton, Susan B. Anthony, and
+many others, had been working toward increased political and economic rights for
+women. Now the bicycle brought a taste of independence to women on a very personal
+level, and some of them took the opportunity to express their discontent with old
+traditions and expectations. In August 1895, a cyclist named Ann Strong caused a stir
+when she compared the value of a bicycle to that of a husband in the
+Minneapolis
+Tribune. “I can’t see but that a wheel is just as good company as most husbands,” she
+declared. “I would as lief1 talk to one inanimate object as another; and I’d a great deal
+rather talk to one that can’t answer than one that won’t.” Strong then contrasted the joy
+of cycling with the challenges of raising a family. “You can make your wheel tidy over
+night,” she said, “and it never kicks off its shoes the very last minute, and never smears
+itself with molasses. When you are ready you can start. No little elbows are stuck in
+your ribs; there is no wiggling; screams at the cars or at the candy stores. You glide
+along, silently, smoothly, swily.”
+5
+Page 19Session 1
+GO ON
+_______________________
+1lief: happily
+Some stated the liberating effects of the bicycle with less sarcasm. “e bicycle has
+brought to women a healthful, wholesome means of securing a degree of freedom and
+independence that no amount of discussion regarding ‘women’s rights’ would ever
+have produced,” wrote the
+L.A.W. Bulletin and Good Roads magazine in 1898.
+Meanwhile,
+Munsey’s Magazine assessed the impact of the wheel on women in a
+special bicycle-themed issue. “If she has ridden her bicycle into new fields, becoming in
+the process a new creature, it has been gradually and unconsciously,” the editors wrote.
+6
+“She did not have to be born again in some mysterious fashion, becoming a strange
+creature, a ‘new woman.’ She is more like the ‘eternal feminine,’ who has taken on
+wings, and who is using them with an ever increasing delight in her new power.”
+Indeed, many bicycle companies at home and abroad did put wings on the women in
+their advertisements, emphasizing that they had taken flight.
+7
+Not all publications treated the emergence of the “new woman” with the same level
+of approval. Some mocked her, while others just seemed baffled by her. Her new way of
+dressing, in bloomers or divided skirts or skirts with shortened hems, certainly
+disturbed the old social order, but so did her confidence and daring. ese traits led
+commentators to worry that the differences between the sexes were being blurred, a
+fear that was reinforced as the four newest states—Wyoming, Colorado, Utah, and
+Idaho—granted women the right to vote in the 1890s. Would the bicycle help bring
+about a new kind of equality between men and women? Elizabeth Cady Stanton and
+her colleagues certainly hoped so. At any rate, the image of a female cyclist quickly
+became associated with efforts to win more rights for women.
+8
+Page 20GO ON
+Session 1
+As it relates to the information in the article, what does “With a Few Flat Tires Along the Way”
+in the title suggest?
+A Women rode bicycles along rough and unpaved roads.
+B Women encountered resistance to their efforts.
+C Women had a difficult time learning to ride bicycles.
+D Women were unused to dealing with mechanical issues.
+Read this sentence from paragraph 2.
+“At sixteen years of age, I was enwrapped in the long skirts that impeded every
+footstep,” remembered Frances Willard, who in 1895 wrote a best-selling account of
+how she learned to ride a bicycle at age 53.
+Which word from the sentence best helps the reader understand the meaning of “impeded”?
+A enwrapped
+B every
+C footstep
+D remembered
+22
+23
+Page 21Session 1
+GO ON
+Read this sentence from paragraph 3.
+But the bicycle changed that.
+How does the sentence develop an idea?
+A It marks a transition.
+B It introduces an example.
+C It refines a previous statement.
+D It provides evidence for a claim.
+What do the details in paragraph 3 reveal about the author’s point of view?
+A e author thinks that clothing restrictions were less of a burden than the
+necessity of hard work.
+B e author thinks that all women were treated unfairly regardless of
+economic status.
+C e author thinks that poor women had more freedom of dress even
+though they had to work hard.
+D e author thinks that the contrast between two classes of women had an
+effect on their advancement.
+24
+25
+Page 22GO ON
+Session 1
+What idea about women riding bicycles is emphasized in paragraphs 6 and 7?
+A Riding bicycles offered more than just freedom of movement.
+B Riding bicycles was a simple way to participate in a political movement.
+C Riding bicycles changed women’s fashion.
+D Riding bicycles was a popular subject in magazines.
+A distinction the author makes between Elizabeth Cady Stanton and Frances Willard is that
+only
+A Stanton wrote in favor of women riding bicycles
+B Willard was actually known to ride a bicycle
+C Stanton was actually criticized for riding a bicycle
+D Willard was a true spokeswoman for the bicycle
+Which quotation best expresses the central idea of the article?
+A “Young girls could play outside, but when they matured, their freedom of
+movement was greatly restricted.” (paragraph 2)
+B “Suddenly, women were leaving their homes to cycle and socialize on
+country roads and city streets.” (paragraph 3)
+C “anks to the wheel, women were starting to be seen and heard in public
+life.” (paragraph 3)
+D “It was not a stretch for some cyclists to see the possibility of a larger role
+for women in the world.” (paragraph 4)
+26
+27
+28
+Page 23Session 1
+STOP
+
+Grade 8
+English Language Arts Test
+Session 1
+v202
+Question Type Key Points Standard Strand Subscore Secondary Standard(s)
+1 Multiple Choice D 1 CCSS.ELA-Literacy.RL.8.3 Reading Standards for Literature Reading
+2 Multiple Choice D 1 CCSS.ELA-Literacy.RL.8.4 Reading Standards for Literature Reading
+3 Multiple Choice A 1 CCSS.ELA-Literacy.RL.8.3 Reading Standards for Literature Reading
+4 Multiple Choice C 1 CCSS.ELA-Literacy.RL.8.3 Reading Standards for Literature Reading
+5 Multiple Choice B 1 CCSS.ELA-Literacy.L.8.4 Language Standards Reading
+6 Multiple Choice D 1 CCSS.ELA-Literacy.RL.8.6 Reading Standards for Literature Reading
+7 Multiple Choice B 1 CCSS.ELA-Literacy.RL.8.2 Reading Standards for Literature Reading
+8 Multiple Choice B 1 CCSS.ELA-Literacy.RI.8.4 Reading Standards for Informational Text Reading
+9 Multiple Choice B 1 CCSS.ELA-Literacy.RI.8.8 Reading Standards for Informational Text Reading
+10 Multiple Choice D 1 CCSS.ELA-Literacy.RI.8.5 Reading Standards for Informational Text Reading
+11 Multiple Choice C 1 CCSS.ELA-Literacy.L.8.4 Language Standards Reading
+12 Multiple Choice C 1 CCSS.ELA-Literacy.RI.8.3 Reading Standards for Informational Text Reading
+13 Multiple Choice B 1 CCSS.ELA-Literacy.RI.8.2 Reading Standards for Informational Text Reading
+14 Multiple Choice D 1 CCSS.ELA-Literacy.RI.8.6 Reading Standards for Informational Text Reading
+15 Multiple Choice B 1 CCSS.ELA-Literacy.RL.8.4 Reading Standards for Literature Reading
+16 Multiple Choice B 1 CCSS.ELA-Literacy.RL.8.2 Reading Standards for Literature Reading
+17 Multiple Choice B 1 CCSS.ELA-Literacy.RL.8.3 Reading Standards for Literature Reading
+18 Multiple Choice C 1 CCSS.ELA-Literacy.RL.8.3 Reading Standards for Literature Reading
+19 Multiple Choice B 1 CCSS.ELA-Literacy.RL.8.4 Reading Standards for Literature Reading
+20 Multiple Choice C 1 CCSS.ELA-Literacy.RL.8.2 Reading Standards for Literature Reading
+21 Multiple Choice A 1 CCSS.ELA-Literacy.RL.8.6 Reading Standards for Literature Reading
+22 Multiple Choice B 1 CCSS.ELA-Literacy.RI.8.4 Reading Standards for Informational Text Reading
+23 Multiple Choice A 1 CCSS.ELA-Literacy.RI.8.4 Reading Standards for Informational Text Reading
+24 Multiple Choice A 1 CCSS.ELA-Literacy.RI.8.5 Reading Standards for Informational Text Reading
+25 Multiple Choice B 1 CCSS.ELA-Literacy.RI.8.6 Reading Standards for Informational Text Reading
+26 Multiple Choice A 1 CCSS.ELA-Literacy.RI.8.3 Reading Standards for Informational Text Reading
+27 Multiple Choice B 1 CCSS.ELA-Literacy.RI.8.3 Reading Standards for Informational Text Reading
+28 Multiple Choice C 1 CCSS.ELA-Literacy.RI.8.2 Reading Standards for Informational Text Reading
+This item map is intended to identify the primary analytic skills necessary to successfully answer each question on the 2021 operational ELA test.
+THE STATE EDUCATION DEPARTMENT
+THE UNIVERSITY OF THE STATE OF NEW YORK / ALBANY, NY 12234
+2021 English Language Arts Tests Map to the Standards
+Grade 8 Released Questions
+Session 1

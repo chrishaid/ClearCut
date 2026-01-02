@@ -1,0 +1,375 @@
+New York State administered the Mathematics Tests in May 2021
+and is now making the questions from Session 1 of these tests available
+for review and use. Only Session 1 was required in 2021.New York State Testing Program
+Grade 8
+Mathematics Test
+Released Questions
+2021
+THE STATE EDUCATION DEPARTMENT / THE UNIVERSITY OF THE STATE OF NEW YORK / ALBANY, NY 12234
+New York State Testing Program
+Grades 3–8 Mathematics
+Released Questions from 2021 Tests
+Background
+In 2013, New York State (NYS) began administering tests designed to assess student performance in
+accordance with the instructional shifts and rigor demanded by the new New York State P–12 Learning
+Standards in Mathematics. To help in this transition to new assessments, the New York State Education
+Department (NYSED) has been releasing an increasing number of test questions from the tests that were
+administered to students across the State in the spring. This year, SED is again releasing 2021 NYS
+Grades 3–8 English Language Arts and Mathematics test materials for review, discussion, and use.
+In February 2021, with the ongoing COVID-19 pandemic still forcing restrictions on all educational and
+learning activities statewide, NYSED submitted two federal waiver requests related to state assessment
+and accountability requirements. The waiver requests addressed the unique circumstances caused by the
+pandemic that have resulted in many students receiving some or all of their instruction remotely.
+Later that month, the United States Department of Education (USDE) informed states that it would not
+grant a blanket waiver for state assessments. However, the USDE agreed to uncouple state assessments
+from the Every Student Succeeds Act (ESSA) accountability requirements so that test results will be used
+solely as a measure of student learning. Additionally, it was decided that NYSED would administer only
+Session 1 of the Grades 3–8 ELA and Mathematics Tests for the Spring 2021 administration and that the
+tests would include previously administered questions.
+The decision to use previously administered test questions in this extraordinary year was based on
+guidance from nationally recognized experts in the assessment field and was recommended in a
+publication from the Council of Chief State School Officers to state education departments. Reusing test
+questions provided the benefit of having established scale scores and stable item parameters. Using
+previously administered test questions also ensured that it will be possible to develop new test forms for
+2022 and beyond. Although it was not the driver of the decision, the reuse of previously administered test
+questions provided an opportunity for cost savings during these unique circumstances where the
+instructional models used by schools varied throughout the State.
+For 2021, the entire Session 1 booklet is being released as this is all that students were required to take.
+Additionally, NYSED is providing a map that details what learning standards each released question
+measures, and the correct response to each question. These released materials will help students,
+families, educators, and the public better understand the tests and NYSED’s expectations for students.
+Understanding Math Questions
+Multiple-Choice Questions
+Multiple-choice questions are designed to assess the New York State P–12 Learning Standards for
+Mathematics. Mathematics multiple-choice questions will be used mainly to assess standard algorithms
+and conceptual standards. Multiple-choice questions incorporate both the grade-level standards and the
+“Standards for Mathematical Practices.” Many questions are framed within the context of real-world
+applications or require students to complete multiple steps. Likewise, many of these questions are linked
+to more than one standard, drawing on the simultaneous application of multiple skills and concepts.
+New York State P–12 Learning Standards Alignment
+The alignment to the New York State P–12 Learning Standards for Mathematics is intended to identify the
+primary analytic skills necessary to successfully answer each question. The released questions do not
+represent the full spectrum of the standards assessed on the State tests, nor do they represent the full
+spectrum of how the standards should be taught and assessed in the classroom. It should not be assumed
+that a particular standard will be measured by an identical question in future assessments. Specific
+criteria for writing test questions, as well as additional assessment information, are available at
+http://www.engageny.org/common-core-assessments.
+Released Questions
+Developed and published under contract with the New York State Education Department by Questar Assessment Inc., 5550 Upper 147th
+Street West, Minneapolis, MN 55124. Copyright © 2021 by the New York State Education Department.
+Session 1
+CONVERSIONS
+FORMULAS
+Grade 8 Mathematics Reference Sheet
+Parallelogram
+1 inch = 2.54 centimeters
+1 meter = 39.37 inches
+1 mile = 5,280 feet
+1 mile = 1,760 yards
+1 mile = 1.609 kilometers
+1 kilometer = 0.62 mile
+1 pound = 16 ounces
+1 pound = 0.454 kilogram
+1 kilogram = 2.2 pounds
+1 ton = 2,000 pounds
+1 cup = 8 fluid ounces
+1 pint = 2 cups
+1 quart = 2 pints
+1 gallon = 4 quarts
+1 gallon = 3.785 liters
+1 liter = 0.264 gallon
+1 liter = 1,000 cubic centimeters
+A = bh
+Triangle A = 1 bh
+2
+General Prisms V = Bh
+Circle
+Circle
+A = πr 2
+C = πd or C = 2πr
+Cylinder V = πr 2h
+Sphere V = 4 πr 3
+Cone V = 1 πr 2h
+Pythagorean Theorem a 2 + b 2 = c 2
+3
+3
+
+TIPS FOR TAKING THE TEST
+Here are some suggestions to help you do your best:
+• Read each question carefully and think about the answer before making your choice.
+• You have been provided with mathematics tools (a ruler, a protractor, and a calculator)
+and a reference sheet to use during the test. It is up to you to decide when each tool and
+the reference sheet will be helpful. You should use mathematics tools and the reference
+sheet whenever you think they will help you to answer the question.
+Session 1
+Page 1Session 1
+
+At a factory, the cost of making different numbers of toothbrushes is shown in the
+table below.
+A linear function models the cost based on the number of toothbrushes made. Which
+statement about the rate of change of this function is true?
+A The cost increases by $1.50 for each additional toothbrush made.
+B The cost increases by $4.50 for each additional toothbrush made.
+C The cost increases by $9.00 for each additional 3 toothbrushes made.
+D The cost increases by $18.00 for each additional 3 toothbrushes made.
+A company makes two different-sized ice cream cones. The smaller cones are 3.5 inches tall
+and have a diameter of 3 inches. The larger cones are 5.1 inches tall and have a diameter
+of 4.5 inches. About how much greater, to the nearest tenth of a cubic inch, is the volume
+of the larger cone than the volume of the smaller cone?
+A 18.8
+B 56.4
+C 75.2
+D 225.5
+3
+4
+Page 3Session 1
+GO ON
+Chris and Sam earn money shoveling snow, as described below.
+The amount of money Chris earns can be modeled by the equation ,
+where is the total amount of money, in dollars, earned in hours.
+The table below shows the relationship between the total amount of money
+earned, , in dollars, and the total amount of time worked, , in hours, for Sam.
+Which statement correctly compares the rates at which Chris and Sam earn money
+shoveling snow?
+A Sam earns more per hour than Chris.
+B Chris earns more per hour than Sam.
+C Sam earns more per hour than Chris.
+D Chris earns more per hour than Sam.
+Which equation represents a function of that is not linear?
+A
+B
+C
+D
+5
+6
+Page 4GO ON
+Session 1
+Which equation represents the line shown on the coordinate plane below?
+A
+B
+C
+D
+7
+Page 5Session 1
+GO ON
+The closest distance between Earth and Mars is approximately miles. The fastest
+rocket leaving Earth travels at an average speed of approximately miles per hour.
+At that rate, which expression could be used to determine the approximate number
+of hours it would take the rocket to travel that distance?
+A
+B
+C
+D
+8
+Page 6GO ON
+Session 1
+Triangle A and triangle B are graphed on the coordinate plane below.
+Which sequence of transformations will map triangle A onto its congruent image,
+triangle B ?
+A a reflection over the -axis, then a reflection over the -axis
+B a translation units down, then a reflection over the -axis
+C a reflection over the -axis, then a translation units to the left
+D a rotation clockwise about the origin, then a translation units to the left
+9
+Page 7Session 1
+GO ON
+Which system of equations has no solution?
+A
+B
+C
+D
+10
+Page 8GO ON
+Session 1
+A line is graphed on the coordinate plane below.
+Line will be graphed on the same coordinate plane to create
+a system of equations. What is the solution to that system of equations?
+A
+B
+C
+D
+11
+Page 9Session 1
+GO ON
+Linear function K passes through points and . What is the rate of change of
+function K ?
+A
+B
+C
+D
+12
+Page 10GO ON
+Session 1
+Rectangle is similar to rectangle , as shown on the
+coordinate plane below.
+Which sequence of transformations maps rectangle onto rectangle ?
+A
+a translation units to the left, then a dilation by a scale factor of with a
+center of dilation at the origin
+B
+a reflection over the -axis, then a dilation by a scale factor of with a
+center of dilation at the origin
+C
+a dilation by a scale factor of with a center of dilation at the origin, then a
+counterclockwise rotation about the origin
+D
+a counterclockwise rotation about the origin, then a dilation by a scale factor
+of with a center of dilation at the origin
+13
+Page 11Session 1
+GO ON
+Patty has a flower box in the shape of a rectangular prism with interior dimensions that
+are inches in length, inches in width, and inches in height. Patty will fill the
+flower box full of soil. How many cubic inches of soil will be in the flower box?
+A
+B
+C
+D
+On a coordinate plane, the graph of a line passes through the origin and the
+point . What is the equation of the line?
+A
+B
+C
+D
+14
+15
+Page 12GO ON
+Session 1
+Which statement about the solution to the equation shown below is true?
+A There is no solution.
+B There is only one solution, .
+C There is only one solution, .
+D There are an infinite number of solutions.
+A study was conducted to determine the relationship between the age, , in years, of a
+certain brand of motorcycle and its value, , in dollars. The equation
+best models the data. Based on the equation, what is the estimated value of a motorcycle
+that is years old?
+A
+B
+C
+D
+Which statement best describes the data in a scatter plot where the
+y-values are
+decreasing as the
+x-values are increasing?
+A The data can best be modeled by a vertical line.
+B The data can best be modeled by a horizontal line.
+C The data can best be modeled by a line with a positive slope.
+D The data can best be modeled by a line with a negative slope.
+16
+17
+18
+Page 13Session 1
+GO ON
+Which proportional relationship has the greatest rate of change?
+A
+B The value of increases by for
+every increase of in the value of .
+C
+D
+A flower vase is in the shape of a cylinder and has a diameter of inches and a height
+of inches. Which equation could be used to determine the volume, in cubic inches,
+of the vase?
+A
+B
+C
+D
+19
+20
+Page 14GO ON
+Session 1
+The planet Mercury is approximately miles away from the sun, and
+the planet Jupiter is approximately miles away. About how many
+times farther from the sun is planet Jupiter than planet Mercury?
+A
+B
+C
+D
+Which expression is equivalent to ?
+A
+B
+C
+D
+21
+22
+Page 15Session 1
+GO ON
+Linear functions M and P are shown below.
+In comparing the rates of change, which statement about Function M and Function P
+is true?
+A Their rates of change differ by 2.
+B Their rates of change differ by 4.
+C Function M has a greater rate of change than Function P.
+D Function M and Function P have the same rate of change.
+23
+Page 16GO ON
+Session 1
+The scatter plot below shows the average number of customers who visit a food truck
+per day, depending on the number of days the food truck stays in the same location.
+Which statement best describes the association between the number of days the food
+truck is in the same location and the number of customers who visit the food truck
+per day?
+A There is no association.
+B There is a nonlinear association.
+C There is a positive linear association.
+D There is a negative linear association.
+24
+Page 17Session 1
+GO ON
+The measures of the angles in triangle UVW are shown in the diagram below.
+What is the value of
+x ?
+A 21
+B 39
+C 45
+D 126
+25
+Page 18GO ON
+Session 1
+The graph of a function is shown on the coordinate plane below.
+Which statement correctly describes the function on a given interval?
+A The function is decreasing and nonlinear between and .
+B The function is increasing and linear between and .
+C The function is increasing and linear between and .
+D The function is decreasing and nonlinear between and .
+26
+Page 19Session 1
+STOP
+Grade 8
+Mathematics Test
+Session 1
+v202
+Question Type Key Points Standard Cluster Subscore Secondary Standard(s)
+1 Multiple Choice B 1 CCSS.Math.Content.8.F.A.3 Functions Functions
+2 Multiple Choice B 1 CCSS.Math.Content.8.EE.A.4 Expressions and Equations Expressions and Equations
+3 Multiple Choice A 1 CCSS.Math.Content.8.F.B.4 Functions Functions
+4 Multiple Choice A 1 CCSS.Math.Content.8.G.C.9 Geometry Geometry
+5 Multiple Choice B 1 CCSS.Math.Content.8.EE.B.5 Expressions and Equations Expressions and Equations
+6 Multiple Choice C 1 CCSS.Math.Content.8.F.A.3 Functions Functions
+7 Multiple Choice D 1 CCSS.Math.Content.8.EE.B.6 Expressions and Equations Expressions and Equations
+8 Multiple Choice C 1 CCSS.Math.Content.8.EE.A.4 Expressions and Equations Expressions and Equations
+9 Multiple Choice C 1 CCSS.Math.Content.8.G.A.2 Geometry Geometry
+10 Multiple Choice B 1 CCSS.Math.Content.8.EE.C.8b Expressions and Equations Expressions and Equations
+11 Multiple Choice D 1 CCSS.Math.Content.8.EE.C.8b Expressions and Equations Expressions and Equations
+12 Multiple Choice B 1 CCSS.Math.Content.8.F.B.4 Functions Functions
+13 Multiple Choice B 1 CCSS.Math.Content.8.G.A.4 Geometry Geometry
+14 Multiple Choice C 1 CCSS.Math.Content.7.G.B.6 Geometry Geometry
+15 Multiple Choice B 1 CCSS.Math.Content.8.EE.B.6 Expressions and Equations Expressions and Equations
+16 Multiple Choice C 1 CCSS.Math.Content.8.EE.C.7a Expressions and Equations Expressions and Equations
+17 Multiple Choice B 1 CCSS.Math.Content.8.SP.A.3 Statistics and Probability
+18 Multiple Choice D 1 CCSS.Math.Content.8.SP.A.2 Statistics and Probability
+19 Multiple Choice A 1 CCSS.Math.Content.8.EE.B.5 Expressions and Equations Expressions and Equations
+20 Multiple Choice D 1 CCSS.Math.Content.8.G.C.9 Geometry Geometry
+21 Multiple Choice C 1 CCSS.Math.Content.8.EE.A.3 Expressions and Equations Expressions and Equations
+22 Multiple Choice C 1 CCSS.Math.Content.8.EE.A.1 Expressions and Equations Expressions and Equations
+23 Multiple Choice A 1 CCSS.Math.Content.8.F.A.2 Functions Functions
+24 Multiple Choice C 1 CCSS.Math.Content.8.SP.A.1 Statistics and Probability
+25 Multiple Choice C 1 CCSS.Math.Content.8.G.A.5 Geometry Geometry
+26 Multiple Choice D 1 CCSS.Math.Content.8.F.B.5 Functions Functions
+This item map is intended to identify the primary analytic skills necessary to successfully answer each question. However, some questions measure proficiencies described in
+multiple standards, including a balanced combination of procedural and conceptual understanding.
+THE STATE EDUCATION DEPARTMENT
+THE UNIVERSITY OF THE STATE OF NEW YORK / ALBANY, NY 12234
+2021 Mathematics Tests Map to the Standards
+Grade 8 Released Questions
+Session 1

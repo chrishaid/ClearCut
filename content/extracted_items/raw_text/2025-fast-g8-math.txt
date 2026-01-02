@@ -1,0 +1,698 @@
+Grade 8 FAST Mathematics
+2025 Released Test Items
+2
+All trademarks and trade names found in this publication are the property
+of their respective owners and are not associated with the publishers
+of this publication.
+2025 Grade 8 FAST Mathematics Released Test Items
+3
+Introduction
+Section 1008.22(8), Florida Statutes (F.S.), requires the Department to
+publish each statewide, standardized assessment administered, excluding
+retakes, at least once on a triennial basis, with the initial publication
+occurring after the Spring 2024 test administration. The initial publication of
+assessments was required to include, at a minimum, the grade 3 Mathematics
+and English Language Arts (ELA) Reading assessments, the grade 10 ELA
+Reading assessment and the Algebra 1 End-of-Course (EOC) Assessment. Per
+statute, released content must have appeared on tests in the administration
+year immediately preceding release. Based on those requirements, below is
+a proposed timeline for the release of operational tests beginning with the
+2023–24 school year.
+June 2024 June 2025 June 2026
+Grade 3 Mathematics
+& ELA Reading
+Grade 5 Mathematics
+& ELA Reading
+Grade 4 Mathematics
+& ELA Reading
+Grade 6 Mathematics
+& ELA Reading
+Grade 8 Mathematics
+& ELA Reading
+Grade 7 Mathematics
+& ELA Reading
+Grade 8 Science Grade 5 Science Biology 1 EOC
+Grade 10 ELA Reading Grade 9 ELA Reading
+Algebra 1 EOC Geometry EOC
+Civics EOC U.S. History EOC
+Annually: Grades 4–10 Writing prompts and individual student responses
+The purpose of the released tests is to promote transparency in the statewide,
+standardized assessment program and to increase the comfort level of
+students and parents with the state assessments. Students, parents, and
+teachers should use the released tests to better understand the types of items
+on Florida’s K–12 statewide assessments.
+Each released test will include content that represents an operational test
+blueprint for each respective assessment. The released tests can also be used
+to illustrate the length of an operational test and the range of difficulties of the
+questions on that test.
+Each released test will include an answer key, the percentage of students
+that answered that item correctly, the item’s reporting category, and the item
+benchmark information.
+Released tests can be accessed through the Sample Items card on the
+Florida Statewide Assessments Portal.
+For more information about K–12 assessments, please visit
+https://www.fldoe.org/accountability/assessments/k-12-student-assessment/.
+For questions related to this document or released tests in general, please
+contact Assessment@fldoe.org.
+2025 Grade 8 FAST Mathematics Released Test Items
+42025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+1. Which expression is equivalent to (x4y5
+) 3?
+A x4y5·3
+B x4y5+3
+C x4·3y5·3
+D x4+3y5+3
+10786
+52025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+2. Which set of numbers could be possible side lengths, in units, of a
+right triangle?
+A 3, 4, 5
+B 5, 5, 5
+C 5, 5, 7
+D 5, 8, 10
+10787
+62025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+3. A graph of a line is shown.
+6
+4
+64
+2
+2–6
+–6
+–4
+–4
+–2
+–2
+y
+x
+0
+What is the equation of the line?
+A y = x – 2
+1
+3
+B y = x + 2
+1
+3
+C y = 3x – 2
+D y = 3x + 2
+10788
+72025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+4. Three values are shown.
+9, , 2
+3
+2
+π
+Identify the least and greatest values.
+9
+3
+2
+π 2
+Least A B C
+Greatest D E F
+10789
+82025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+5. A system of equations is represented by the lines shown on the graph.
+2–2–4–6–8 4 6 8
+–2
+–4
+–6
+–8
+2
+4
+6
+8
+0
+y
+x
+How many solutions does the system of equations have?
+A no solutions
+B one solution
+C two solutions
+D infinitely many solutions
+10790
+92025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+6. A swing set is shown, with dimensions in feet (ft).
+11 ft
+8 ft
+h
+11 ft
+What is the height, h, of the swing set?
+A 57 ft
+B 105 ft
+C 57 ft
+D 105 ft
+10791
+102025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+7. An expression is shown.
+75 ÷ 3 + 1
+3
+-2
+What is the value of the expression?
+14
+10792
+112025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+8. Which expression is equivalent to (7pq)(9p5q)?
+A 16p5q
+B 63p5q
+C 16p6q2
+D 63p6q2
+10793
+122025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+9. The two figures shown are congruent.
+A′
+B’
+D’
+C’
+A B
+D C
+Figure ABCD is transformed to create figure A’ B’ C’ D’. Vertices D and D’
+are located on the same point.
+Complete the sentence about the single transformation of figure ABCD.
+Figure ABCD can be rotated [A 90 B 180 C 270 D 360] degrees
+[A clockwise B counterclockwise] about point D to create
+figure A’ B’ C’ D’.
+10794
+132025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+10. Which value best approximates 68–3 + ?
+A 5.2
+B 8.1
+C 8.4
+D 11.2
+10795
+142025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+11. Select all the expressions with a value greater than 6.
+A 2π
+B 17
+C 40
+D 100
+3
+E 350
+3
+10796
+152025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+12. Which table shows y as a function of x?
+A
+10797
+x 1 2 3 4
+y 5 8 8 14
+x 1 2 1 2
+y 5 8 11 14
+x 2 2 3 4
+y 5 8 8 14
+x 2 2 2 2
+y 5 8 11 14
+B
+C
+D
+162025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+13. A fair coin is tossed twice.
+What is the probability that the coin lands tails up both times?
+A 25%
+B 33%
+C 50%
+D 75%
+10798
+172025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+14. The graph shows the distance, y, in feet, that Mackenzie is from her
+home after walking for x seconds.
+0
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+2 4 6 8 10 12 14 16 18 20
+y
+x
+Distance (feet)
+Time (seconds)
+Identify whether Mackenzie’s distance from home is constant, increasing,
+or decreasing over the given intervals.
+Constant Increasing Decreasing
+from x = 0 to x = 5 A B C
+from x = 5 to x = 15 D E F
+from x = 15 to x = 20 G H I
+10799
+182025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+15. Which value is equivalent to 5–3 ?
+A –125
+B 125
+1
+–
+C 125
+1
+D 125
+10800
+192025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+16. The table shows the number of cats and dogs that six students have.
+Number of Cats Number of Dogs
+0 1
+0 2
+0 4
+1 1
+3 0
+3 2
+Which scatter plot correctly displays the data?
+1044
+2
+4
+2
+0
+1
+3
+5
+1 3 5 x
+y
+4
+Number of Cats
+Number of Dogs
+2
+4
+2
+0
+1
+3
+5
+1 3 5 x
+y
+4
+Number of Cats
+Number of Dogs
+2
+4
+2
+0
+1
+3
+5
+1 3 5 x
+y
+4
+Number of Cats
+Number of Dogs
+2
+4
+2
+0
+1
+3
+5
+1 3 5 x
+y
+4
+Number of Cats
+Number of Dogs
+10801
+C
+D
+A
+B
+202025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+17. An equation is shown.
+x2 = 169
+What is a value of x?
+13
+10802
+212025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+18. Which scatter plot shows a line that appropriately fits the data?
+10803
+C
+D
+A
+B
+4 6 8 102
+10
+8
+6
+4
+2
+0
+y
+x
+4 6 8 102
+10
+8
+6
+4
+2
+0
+y
+x
+4 6 8 102
+10
+8
+6
+4
+2
+0
+y
+x
+4 6 8 102
+10
+8
+6
+4
+2
+0
+y
+x
+222025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+19. The right triangle shown has side lengths of x, y, and z units.
+x z
+y
+Which equation correctly relates the side lengths of the triangle?
+A x + y = z
+B 2x + 2y = 2z
+C x2 + y2 = z2
+D (x + y)2 = z2
+10804
+232025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+20. Triangle ABC is similar to triangle DEF. The sides of each triangle are
+measured in centimeters (cm), as shown.
+B
+C D8 cm
+6 cm4 cm
+A
+15 cm
+x cm F
+E
+10 cm
+Which equation can be used to find the value of x?
+A 6
+4
+x
+8
+=
+B 6
+4
+x
+10
+=
+C 8
+6
+x
+15
+=
+D 8
+6
+15
+x
+=
+10805
+242025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+21. An expression is shown.
+52 + 39
+4
+1
+What is the value of the expression?
+2
+10806
+252025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+22. An equation is shown.
+3
+1
+y = – x – 1
+Which graph represents this equation?
+10807
+y
+x
+42
+2
+0
+4
+4–
+2–
+4– 2–
+y
+x
+42
+2
+0
+4
+4–
+2–
+4– 2–
+y
+x
+42
+2
+0
+4
+4–
+2–
+4– 2–
+y
+x
+42
+2
+0
+4
+4–
+2–
+4– 2–
+A
+B
+C
+D
+262025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+8
+10
+4
+6
+2
+4 8 102 60
+y
+x
+23.Select all the scatter plots that show a line that appropriately fits the data.
+8
+10
+4
+6
+2
+4 8 102 60
+y
+x
+10808
+8
+10
+4
+6
+2
+4 8 102 60
+y
+x
+8
+10
+4
+6
+2
+4 8 102 60
+y
+x
+8
+10
+4
+6
+2
+4 8 102 60
+y
+x
+A
+B
+C
+D
+E
+272025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+24. Complete the equation to show the quotient in scientific notation.
+(8.4 × 109) ÷ (2.4 × 103) = × 10
+10809
+(8.4 × 109) ÷ (2.4 × 103) =
+× 10
+3.5
+6
+282025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+25. Charlie has a spinner with three equally sized sections. The sections are
+colored red (R), blue (B), and yellow (Y). He spins the spinner arrow
+2 times.
+What is the sample space for the experiment that has equally likely
+outcomes?
+A {R, B, Y}
+B {RR, RB, RY, BB, BY, YY}
+C {RB, RY, BR, BY, YR, YB}
+D {RR, RB, RY, BB, BR, BY, YY, YR, YB}
+10810
+292025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+26. Some points on a line are shown in the table.
+x 0 2 4
+y 0 –2 –4
+What is the slope of the line?
+A –2
+B –1
+C 0
+D 1
+10811
+302025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+27. What is the value of x in x3 = –125?
+–5
+10812
+x =
+312025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+28. Two side lengths of a triangle are 15 inches and 3 inches.
+What is a possible length, in inches, of the third side?
+13
+10813
+322025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+29. Select all the solutions to x3 = 64.
+A –8
+B –4
+C 4
+D 8
+E 64
+F 64
+3
+10814
+332025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+30. Triangle QSU and triangle RST are similar. The triangles are shown with
+side lengths in feet (ft).
+2 ft
+3.97 ft
+7.94 ft Q
+U
+R
+T
+S
+What is the length, in feet, of QU?
+4
+10815
+342025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+31. Match the equivalent expressions.
+3x2 9x4
+x2
+3x4
+A B
+3x2
+( )
+2
+C D
+3x5
+9x7
+E F
+10816
+352025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+32. A game center has an entrance fee and a fixed cost per game. When Sal
+visits the game center, he models his total cost, y, to play x games with
+the equation shown.
+y = 1.5x + 10
+What does the slope represent in this situation?
+A the cost to play each game
+B the cost of the entrance fee
+C the total number of games played
+D the total cost to visit the game center
+10817
+362025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+33. Which expression is equivalent to (15.4 + 7p)(5.6p)?
+A 15.4 + (7p)(5.6p)
+B (15.4)(5.6p) + 7p
+C (15.4)(5.6p) × (7p)(5.6p)
+D (15.4)(5.6p) + (7p)(5.6p)
+10818
+372025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+34. A figure is shown with three lines passing through point G.
+F
+E
+D
+C
+B
+A
+G 32°
+Match each angle to its measure.
+32º 58º 90º
+∠ AGB A B C
+∠ FGE D E F
+∠ AGF G H I
+10819
+382025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+35. An inequality is shown.
+5
+1
+x + >
+6
+1
+15
+8
+What is the solution to the inequality?
+A x < 2
+B x > 2
+10820
+C 18
+1
+x >
+D 18
+1
+x <
+392025 Grade 8 FAST Mathematics Released Test Items
+Grade 8 FAST Mathematics
+36. Triangle ABC is dilated to create triangle A’ B’ C’. The triangles, with side
+lengths in units, are shown.
+A B
+C
+A′
+C′
+B′4
+15
+9
+12
+5
+3
+What scale factor was used to dilate triangle ABC?
+3
+10821
+SECURITY STATEMENT
+All materials in this book are CONFIDENTIAL and must be kept secure at all times. Duplication,
+reproduction, and other unauthorized use of Florida Statewide Assessments test books and answer books are prohibited.
+Test security requirements and sanctions for security violations are established by Sections 1008.23 and 1008.24,
+Florida Statutes, and State Board of Education Rule 6A-10.042, FAC. These test security statutes and rule are reproduced in the
+Test Administration Manual.
+Office of Assessment
+Florida Department of Education, Tallahassee, Florida
+Copyright © 2025 State of Florida, Department of State

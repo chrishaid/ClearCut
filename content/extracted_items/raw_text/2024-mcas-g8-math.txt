@@ -1,0 +1,277 @@
+June 2024
+Massachusetts Department of
+Elementary and Secondary Education
+Release of Spring 2024
+MCAS Test Information
+from the
+Grade 8 Mathematics Test
+This document was prepared by the
+Massachusetts Department of Elementary and Secondary Education
+Russell D. Johnston
+Acting Commissioner
+The Massachusetts Department of Elementary and Secondary Education, an affirmative action employer,
+is committed to ensuring that all of its programs and facilities are accessible to all members of the public.
+We do not discriminate on the basis of age, color, disability, national origin, race, religion, sex, gender identity,
+or sexual orientation. Inquiries regarding the Department’s compliance with Title IX and other civil rights laws may be
+directed to the Human Resources Director, 135 Santilli Highway, Everett, MA 02149. Phone: 781-338-6105.
+© 2024 Massachusetts Department of Elementary and Secondary Education
+Permission is hereby granted to copy for non-commercial educational purposes any or all parts of
+this document with the exception of English Language Arts passages that are not designated as in
+the public domain. Permission to copy all other passages must be obtained from the copyright holder.
+Please credit the “Massachusetts Department of Elementary and Secondary Education.”
+Massachusetts Department of Elementary and Secondary Education
+135 Santilli Highway, Everett, MA 02149
+Phone 781-338-3000 TTY: N.E.T. Relay 800-439-2370
+www.doe.mass.edu
+1
+Overview of Grade 8 Mathematics Test
+The spring 2024 grade 8 Mathematics test was administered in two formats: a computer-based version and a paper-based
+version. Most students took the computer-based test. The paper-based test was offered as an accommodation for eligible
+students who were unable to use a computer. More information can be found on the MCAS Test Administration Resources page
+at www.doe.mass.edu/mcas/admin.html.
+Most of the operational items on the grade 8 Mathematics test were the same, regardless of whether a student took the computer-
+based version or the paper-based version. In places where a technology-enhanced item was used on the computer-based test, an
+adapted version of the item was created for use on the paper test. These adapted paper items were multiple-choice, multiple-select,
+or short-answer items that tested the same Mathematics content and assessed the same standard as the technology-enhanced item.
+The Department is not releasing items from the spring 2024 MCAS grades 3–8 tests. Released items from previous years’
+computer-based tests are available on the MCAS Resource Center website at mcas.pearsonsupport.com/released-items.
+Test Sessions and Content Overview
+The grade 8 Mathematics test was made up of two separate test sessions. Each session included selected-response, short-
+answer, and constructed-response questions. On the paper-based test, the selected-response questions were multiple-choice
+items and multiple-select items, in which students select the correct answer(s) from among several answer options.
+Standards and Reporting Categories
+The grade 8 Mathematics test was based on standards in the five domains for grade 8 in the Massachusetts Curriculum
+Framework for Mathematics (2017). The five domains are listed below.
+• The Number System
+• Expressions and Equations
+• Functions
+• Geometry
+• Statistics and Probability
+The Massachusetts Curriculum Framework for Mathematics is available on the Department website at
+www.doe.mass.edu/frameworks/current.html.
+Mathematics test results are reported under four MCAS reporting categories, which are based on the five framework domains
+listed above.
+The tables at the conclusion of this document provide the following information about each operational item: reporting
+category, standard(s) covered, item type, and item description.
+Reference Materials and Tools
+Each student taking the grade 8 Mathematics test was provided with a ruler and a grade 8 Mathematics Reference Sheet. A copy
+of the reference sheet can be found on the next page of this document.
+During Session 2, each student had sole access to a calculator. Calculator use was not allowed during Session 1.
+During both Mathematics test sessions, the use of authorized bilingual word-to-word dictionaries and glossaries was allowed
+for students who are currently or were ever reported as English learners. No other reference tools or materials were allowed.
+Massachusetts Comprehensive Assessment System
+Grade 8 Mathematics Reference Sheet
+Grade 8 Mathematics
+Spring 2024 Computer-Based Operational Items
+CBT
+Item No. Reporting Category Standard Item
+Type* Item Description
+1 The Number System and
+Expressions and Equations 8.NS.A.2 SR Determine between which pair of integers a square root of a given
+number lies.
+2 The Number System and
+Expressions and Equations 8.EE.C.8 SR Determine the coordinates of the solution of a system of equations.
+3 Functions 8.F.A.3 SR Determine which statement about a linear equation is true.
+4 Geometry 8.G.B.6 SR Given a right triangle, identify an equation that relates its side
+lengths.
+5 Statistics and Probability 8.SP.A.1 CR
+Given a set of data in a table, create a scatterplot, determine if there
+are outliers in the data, describe the association represented by the
+data, and make a prediction based on the data.
+6 The Number System and
+Expressions and Equations 8.EE.A.3 SR Convert a number in scientific notation to standard notation.
+7 Functions 8.F.A.2 SR Determine which equation of a line has a graph with the same
+y-intercept as the line represented by a table of values.
+8 The Number System and
+Expressions and Equations 8.EE.A.2 SA Complete the first two steps of the correct solution to find the value
+of x in an equation in the form x3 = p.
+9 The Number System and
+Expressions and Equations 8.NS.A.1 SR Identify numbers as rational or irrational.
+10 The Number System and
+Expressions and Equations 8.EE.B.5 SR Determine which graph represents a proportional relationship in a
+given context.
+11 The Number System and
+Expressions and Equations 8.NS.A.2 SA Use a number line to show the approximate value of an irrational
+number.
+12 The Number System and
+Expressions and Equations 8.EE.A.4 CR Compare, multiply, add, and divide numbers expressed in scientific
+notation, using a real-world context.
+13 The Number System and
+Expressions and Equations 8.EE.B.6 SR Determine which equation represents a line graphed on a coordinate
+plane.
+14 Geometry 8.G.A.1 SA Graph the image of a triangle after a reflection and compare the sides,
+angles, areas, and perimeters of the triangle and its image.
+15 The Number System and
+Expressions and Equations 8.EE.A.2 SA Evaluate the square root of a small perfect square in a real-world
+context.
+16 Functions 8.F.A.1 SR Identify which tables contain values that represent functions.
+17 The Number System and
+Expressions and Equations 8.NS.A.1 SA Convert a fraction to a decimal.
+18 The Number System and
+Expressions and Equations 8.EE.C.7 SR Solve a linear equation using the distributive property and combining
+like terms.
+19 Geometry 8.G.A.4 SR Identify a transformation that will result in an image that is similar,
+but not congruent, to the original figure.
+20 The Number System and
+Expressions and Equations 8.EE.A.3 SR Convert the product of two numbers expressed in standard notation
+into the form of a single digit multiplied by an integer power of 10.
+21 Statistics and Probability 8.SP.A.3 SR Determine which statement describes the slope of a graph in a given
+real-world context.
+22 Geometry 8.G.B.7 SR Determine the length of the hypotenuse, given a right triangle in a
+real-world scenario.
+23 Functions 8.F.A.2 SR Compare functions represented algebraically and in a table and
+interpret each function’s y-intercept.
+24 The Number System and
+Expressions and Equations 8.EE.B.5 SR Determine which equation represents a proportional relationship in a
+real-world context.
+3
+CBT
+Item No. Reporting Category Standard Item
+Type* Item Description
+25 Functions 8.F.B.4 CR
+Solve multi-step problems involving interpreting a given graph,
+finding the rate of change, and constructing a function based on a
+given real-world context.
+26 Statistics and Probability 8.SP.A.4 SR Determine a percentage to compare data in a two-way table.
+27 Geometry 8.G.C.9 SA Order three-dimensional shapes (cylinder, sphere and cone) according
+to their volumes.
+28 The Number System and
+Expressions and Equations 8.EE.C.7 SR Determine the number of solutions for two different one-variable
+equations.
+29 Functions 8.F.A.1 SR Identify which table contains values that represent y as a function
+of x.
+30 Geometry 8.G.A.3 SA Graph the image of a triangle on a coordinate plane after a sequence
+of transformations.
+31 The Number System and
+Expressions and Equations 8.EE.C.8 SR Determine the x-value in the solution of a linear system of equations.
+32 Geometry 8.G.A.5 CR Determine the measures of angles shown in a diagram consisting of
+parallel lines intersected by a transversal.
+33 Functions 8.F.B.5 SR Given a graph of a function, determine which statements about the
+function are true.
+34 The Number System and
+Expressions and Equations 8.EE.A.1 SA
+Use and apply properties of integer exponents to simplify a numerical
+expression and to identify an expression that is equivalent to a given
+expression.
+35 Statistics and Probability 8.SP.A.2 SR Describe the direction and strength of a linear relationship, given a
+scatter plot and line of best fit.
+36 Geometry 8.G.A.3 SR Determine the coordinates of a point on a figure after a dilation.
+37 Geometry 8.G.A.2 SR
+Determine the sequence of transformations that can be used to
+demonstrate the congruence of two triangles drawn on the coordinate
+plane.
+38 Statistics and Probability 8.SP.A.4 SR Use relative frequencies from a two-way frequency table to solve a
+real-world problem.
+39 Geometry 8.G.B.8 SR Determine the distance between two points on a coordinate plane
+using the Pythagorean Theorem.
+40 Functions 8.F.A.1 SR Determine if a table contains values that represent y as a function of x
+and identify how that relationship is shown in the table.
+* Mathematics item types are: selected-response (SR), short-answer (SA), and constructed-response (CR).
+4
+Grade 8 Mathematics
+Spring 2024 Paper-Based Operational Items
+PBT
+Item No. Reporting Category Standard Item
+Type* Item Description
+1 The Number System and
+Expressions and Equations 8.NS.A.2 SR Determine between which pair of integers a square root of a given
+number lies.
+2 The Number System and
+Expressions and Equations 8.EE.C.8 SR Determine the coordinates of the solution of a system of equations.
+3 Functions 8.F.A.3 SR Determine which statement about a linear equation is true.
+4 Geometry 8.G.B.6 SR Given a right triangle, identify an equation that relates its side
+lengths.
+5 Statistics and Probability 8.SP.A.1 CR
+Given a set of data in a table, create a scatterplot, determine if there
+are outliers in the data, describe the association represented by the
+data, and make a prediction based on the data.
+6 The Number System and
+Expressions and Equations 8.EE.A.3 SR Convert a number in scientific notation to standard notation.
+7 Functions 8.F.A.2 SR Determine which equation of a line has a graph with the same
+y-intercept as the line represented by a table of values.
+8 The Number System and
+Expressions and Equations 8.EE.A.2 SR Identify the first two steps of the correct solution to find the value of x
+in an equation in the form x3 = p.
+9 The Number System and
+Expressions and Equations 8.NS.A.1 SR Identify rational numbers.
+10 The Number System and
+Expressions and Equations 8.EE.B.5 SR Determine which graph represents a proportional relationship in a
+given context.
+11 The Number System and
+Expressions and Equations 8.NS.A.2 SR Determine which number line shows the approximate value of an
+irrational number.
+12 The Number System and
+Expressions and Equations 8.EE.A.4 CR Compare, multiply, add, and divide numbers expressed in scientific
+notation, using a real-world context.
+13 The Number System and
+Expressions and Equations 8.EE.B.6 SR Determine which equation represents a line graphed on a coordinate
+plane.
+14 Geometry 8.G.A.1 SR
+Identify the graph that shows the image of a triangle after a reflection
+and determine which statements about the sides, angles, areas, and
+perimeters of the triangle and its image are true.
+15 The Number System and
+Expressions and Equations 8.EE.A.2 SA Evaluate the square root of a small perfect square in a real-world
+context.
+16 Functions 8.F.A.1 SR Identify which tables contain values that represent functions.
+17 The Number System and
+Expressions and Equations 8.NS.A.1 SA Convert a fraction to a decimal.
+18 The Number System and
+Expressions and Equations 8.EE.C.7 SR Solve a linear equation using the distributive property and combining
+like terms.
+19 Geometry 8.G.A.4 SR Identify a transformation that will result in an image that is similar,
+but not congruent, to the original figure.
+20 The Number System and
+Expressions and Equations 8.EE.A.3 SR Convert the product of two numbers expressed in standard notation
+into the form of a single digit multiplied by an integer power of 10.
+21 Statistics and Probability 8.SP.A.3 SR Determine which statement describes the slope of a graph in a given
+real-world context.
+22 Geometry 8.G.B.7 SR Determine the length of the hypotenuse, given a right triangle in a
+real-world scenario.
+23 Functions 8.F.A.2 SR Compare functions represented algebraically and in a table and
+interpret each function’s y-intercept.
+24 The Number System and
+Expressions and Equations 8.EE.B.5 SR Determine which equation represents a proportional relationship in a
+real-world context.
+5
+PBT
+Item No. Reporting Category Standard Item
+Type* Item Description
+25 Functions 8.F.B.4 CR
+Solve multi-step problems involving interpreting a given graph,
+finding the rate of change, and constructing a function based on a
+given real-world context.
+26 Statistics and Probability 8.SP.A.4 SR Determine a percentage to compare data in a two-way table.
+27 Geometry 8.G.C.9 SR Order three-dimensional shapes (cylinder, sphere and cone) according
+to their volumes.
+28 The Number System and
+Expressions and Equations 8.EE.C.7 SR Determine the number of solutions for two different one-variable
+equations.
+29 Functions 8.F.A.1 SR Identify which table contains values that represent y as a function
+of x.
+30 Geometry 8.G.A.3 SR Determine which graph shows the image of a triangle on a coordinate
+plane after a sequence of transformations.
+31 The Number System and
+Expressions and Equations 8.EE.C.8 SR Determine the x-value in the solution of a linear system of equations.
+32 Geometry 8.G.A.5 CR Determine the measures of angles shown in a diagram consisting of
+parallel lines intersected by a transversal.
+33 Functions 8.F.B.5 SR Given a graph of a function, determine which statements about the
+function are true.
+34 The Number System and
+Expressions and Equations 8.EE.A.1 SR Use and apply properties of integer exponents to simplify a numerical
+expression.
+35 Statistics and Probability 8.SP.A.2 SR Describe the direction and strength of a linear relationship, given a
+scatter plot and line of best fit.
+36 Geometry 8.G.A.3 SR Determine the coordinates of a point on a figure after a dilation.
+37 Geometry 8.G.A.2 SR
+Determine the sequence of transformations that can be used to
+demonstrate the congruence of two triangles drawn on the coordinate
+plane.
+38 Statistics and Probability 8.SP.A.4 SR Use relative frequencies from a two-way frequency table to solve a
+real-world problem.
+39 Geometry 8.G.B.8 SR Determine the distance between two points on a coordinate plane
+using the Pythagorean Theorem.
+40 Functions 8.F.A.1 SR Determine if a table contains values that represent y as a function of x
+and identify how that relationship is shown in the table.
+* Mathematics item types are: selected-response (SR), short-answer (SA), and constructed-response (CR).
+6

@@ -1,0 +1,2073 @@
+Ohio’s State Tests
+ITEM RELEASE
+SPRING 2023
+GRADE 8
+MATHEMATICS
+i (2023)
+Table of Contents
+Content Summary and Answer Key ........................................................................... iii
+Depth of Knowledge (DOK) ....................................................................................... x
+Question 1: Question and Scoring Guidelines........................................................... 1
+Question 1: Sample Responses ................................................................................... 4
+Question 10: Question and Scoring Guidelines ......................................................... 9
+Question 10: Sample Response ................................................................................ 11
+Question 11: Question and Scoring Guidelines ....................................................... 12
+Question 11: Sample Responses ............................................................................... 15
+Question 12: Question and Scoring Guidelines....................................................... 20
+Question 12: Sample Response ................................................................................ 23
+Question 13: Question and Scoring Guidelines ....................................................... 24
+Question 13: Sample Responses ............................................................................... 27
+Question 14: Question and Scoring Guidelines ....................................................... 31
+Question 14: Sample Response ................................................................................ 35
+Question 19: Question and Scoring Guidelines ....................................................... 36
+Question 19: Sample Response ................................................................................ 38
+Question 20: Question and Scoring Guidelines ....................................................... 39
+Question 20: Sample Response ................................................................................ 42
+Question 25: Question and Scoring Guidelines ....................................................... 43
+Question 25: Sample Responses ............................................................................... 46
+Question 28: Question and Scoring Guidelines ....................................................... 50
+Question 28: Sample Response ................................................................................ 53
+Question 30: Question and Scoring Guidelines ....................................................... 54
+Question 30: Sample Response ................................................................................ 57
+Question 32: Question and Scoring Guidelines ....................................................... 58
+Question 32: Sample Responses ............................................................................... 61
+ii (2023)
+Question 33: Question and Scoring Guidelines ....................................................... 66
+Question 33: Sample Responses ............................................................................... 69
+Question 34: Question and Scoring Guidelines ....................................................... 78
+Question 34: Sample Response ................................................................................ 80
+Question 36: Question and Scoring Guidelines ....................................................... 81
+Question 36: Sample Response ................................................................................ 84
+Question 37: Question and Scoring Guidelines ....................................................... 85
+Question 37: Sample Responses ............................................................................... 88
+Question 40: Question and Scoring Guidelines ....................................................... 93
+Question 40: Sample Responses ............................................................................... 96
+Question 43: Question and Scoring Guidelines ..................................................... 101
+Question 43: Sample Responses ............................................................................. 104
+Question 45: Question and Scoring Guidelines ..................................................... 109
+Question 45: Sample Responses ............................................................................. 112
+Question 47: Question and Scoring Guidelines ..................................................... 116
+Question 47: Sample Response .............................................................................. 118
+Question 48: Question and Scoring Guidelines..................................................... 119
+Question 48: Sample Responses ............................................................................. 123
+Question 51: Question and Scoring Guidelines ..................................................... 130
+Question 51: Sample Response .............................................................................. 133
+iii (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Content Summary and Answer Key
+Question
+No.*
+Item
+Type
+Content
+Cluster
+Content
+Standard
+Depth of
+Knowledge
+Answer
+Key Points
+1 Equation
+Item
+Work with
+radicals and
+integer
+exponents.
+Use square root and cube
+root symbols to represent
+solutions to equations of the
+form x² = p and x³ = p, where
+p is a positive rational
+number. Evaluate square
+roots of small perfect squares
+and cube roots of small
+perfect cubes. Know that √2 is
+irrational. (8.EE.2)
+Level 1 --- 1 point
+10
+Multiple
+Choice
+Item
+Define,
+evaluate,
+and
+compare
+functions.
+Understand that a function is
+a rule that assigns to each
+input exactly one output. The
+graph of a function is the set
+of ordered pairs consisting of
+an input and the
+corresponding output.
+Function notation is not
+required in Grade 8. (8.F.1)
+Level 1 B 1 point
+11 Equation
+Item
+Work with
+radicals and
+integer
+exponents.
+Use numbers expressed in the
+form of a single digit times an
+integer power of 10 to
+estimate very large or very
+small quantities and to
+express how many times as
+much one is than the other.
+For example, estimate the
+population of the United
+States as 3 × 108; and the
+population of the world as
+7 × 109; and determine that
+the world population is more
+than 20 times larger. (8.EE.3)
+Level 2 --- 1 point
+12
+Multiple
+Choice
+Item
+Understand
+and apply
+the
+Pythagorean
+Theorem.
+Apply the Pythagorean
+Theorem to determine
+unknown side lengths in right
+triangles in real-world and
+mathematical problems in
+two and three dimensions.
+(8.G.7)
+Level 2 D 1 point
+* The question numbers denote each question’s place in the online test.
+Items are numbered sequentially on the practice site.
+iv (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Content Summary and Answer Key
+Question
+No.*
+Item
+Type
+Content
+Cluster
+Content
+Standard
+Depth of
+Knowledge
+Answer
+Key Points
+13 Matching
+Item
+Use functions
+to model
+relationships
+between
+quantities.
+Describe qualitatively the
+functional relationship
+between two quantities by
+analyzing a graph, e.g.,
+where the function is
+increasing or decreasing,
+linear or nonlinear. Sketch a
+graph that exhibits the
+qualitative features of a
+function that has been
+described verbally. (8.F.5)
+Level 3 --- 1 point
+14
+Multiple
+Choice
+Item
+Understand
+congruence
+and similarity
+using
+physical
+models,
+trans-
+parencies, or
+geometry
+software.
+Understand that a two-
+dimensional figure is similar to
+another if the second can be
+obtained from the first by a
+sequence of rotations,
+reflections, translations, and
+dilations; given two similar
+two-dimensional figures,
+describe a sequence that
+exhibits the similarity between
+them. (Include examples both
+with and without
+coordinates.) (8.G.4)
+Level 2 A 1 point
+19
+Multiple
+Choice
+Item
+Analyze and
+solve linear
+equations
+and pairs of
+simultaneous
+linear
+equations.
+Solve linear equations in one
+variable.
+a. Give examples of linear
+equations in one variable with
+one solution, infinitely many
+solutions, or no solutions. Show
+which of these possibilities is
+the case by successively
+transforming the given
+equation into simpler forms,
+until an equivalent equation
+of the form x = a, a = a, or
+a = b results (where a and b
+are different numbers).
+(8.EE.7)
+Level 2 A 1 point
+* The question numbers denote each question’s place in the online test.
+Items are numbered sequentially on the practice site.
+v (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Content Summary and Answer Key
+Question
+No.*
+Item
+Type
+Content
+Cluster
+Content
+Standard
+Depth of
+Knowledge
+Answer
+Key Points
+20
+Multiple
+Choice
+Item
+Understand
+congruence
+and similarity
+using
+physical
+models,
+trans-
+parencies, or
+geometry
+software.
+Understand that a two-
+dimensional figure is
+congruent to another if the
+second can be obtained
+from the first by a sequence
+of rotations, reflections, and
+translations; given two
+congruent figures, describe a
+sequence that exhibits the
+congruence between them.
+(Include examples both with
+and without coordinates.)
+(8.G.2)
+Level 2 D 1 point
+25 Matching
+Item
+Work with
+radicals and
+integer
+exponents.
+Understand, explain, and
+apply the properties of
+integer exponents to
+generate equivalent
+numerical expressions. For
+example,
+32 × 3-5 = 3-3 = 1/33 = 1/27.
+(8.EE.1)
+Level 1 --- 1 point
+28
+Multi-
+Select
+Item
+Understand
+congruence
+and similarity
+using
+physical
+models,
+trans-
+parencies, or
+geometry
+software.
+Verify experimentally the
+properties of rotations,
+reflections, and translations
+(include examples both with
+and without coordinates).
+a. Lines are taken to lines, and
+line segments are taken to
+line segments of the same
+length. (8.G.1)
+Level 1 A, D, E 1 point
+30
+Multiple
+Choice
+Item
+Investigate
+patterns of
+association in
+bivariate
+data.
+Understand that straight lines
+are widely used to model
+relationships between two
+quantitative variables. For
+scatter plots that suggest a
+linear association, informally
+fit a straight line, and
+informally assess the model fit
+by judging the closeness of
+the data points to the line.
+(GAISE Model, steps 3 and 4)
+(8.SP.2)
+Level 2 A 1 point
+* The question numbers denote each question’s place in the online test.
+Items are numbered sequentially on the practice site.
+vi (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Content Summary and Answer Key
+Question
+No.*
+Item
+Type
+Content
+Cluster
+Content
+Standard
+Depth of
+Knowledge
+Answer
+Key Points
+32 Equation
+Item
+Understand
+the
+connections
+between
+proportional
+relationships,
+lines, and
+linear
+equations.
+Use similar triangles to explain
+why the slope m is the same
+between any two distinct
+points on a non-vertical line in
+the coordinate plane; derive
+the equation y = mx for a line
+through the origin and the
+equation y = mx + b for a line
+intercepting the vertical axis
+at b. (8.EE.6)
+Level 2 --- 1 point
+33 Equation
+Item
+Understand
+congruence
+and similarity
+using
+physical
+models,
+trans-
+parencies, or
+geometry
+software.
+Describe the effect of
+dilations, translations,
+rotations, and reflections on
+two-dimensional figures using
+coordinates. (8.G.3)
+Level 2 --- 1 point
+34
+Multiple
+Choice
+Item
+Define,
+evaluate,
+and
+compare
+functions.
+Interpret the equation
+y = mx + b as defining a linear
+function, whose graph is a
+straight line; give examples of
+functions that are not linear.
+For example, the function
+A = s2 giving the area of a
+square as a function of its side
+length is not linear because its
+graph contains the points
+(1, 1), (2, 4), and (3, 9) which
+are not on a straight line.
+(8.F.3)
+Level 2 D 1 point
+* The question numbers denote each question’s place in the online test.
+Items are numbered sequentially on the practice site.
+vii (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Content Summary and Answer Key
+Question
+No.*
+Item
+Type
+Content
+Cluster
+Content
+Standard
+Depth of
+Knowledge
+Answer
+Key Points
+36
+Multiple
+Choice
+Item
+Define,
+evaluate,
+and
+compare
+functions.
+Compare properties of two
+functions each represented in
+a different way (algebraically,
+graphically, numerically in
+tables, or by verbal
+descriptions). For example,
+given a linear function
+represented by a table of
+values and a linear function
+represented by an algebraic
+expression, determine which
+function has the greater rate
+of change. (8.F.2)
+Level 2 D 1 point
+37 Equation
+Item
+Work with
+radicals and
+integer
+exponents.
+Perform operations with
+numbers expressed in
+scientific notation, including
+problems where both decimal
+notation and scientific
+notation are used. Use
+scientific notation and
+choose units of appropriate
+size for measurements of very
+large or very small quantities,
+e.g., use millimeters per year
+for seafloor spreading.
+Interpret scientific notation
+that has been generated by
+technology. (8.EE.4)
+Level 3 --- 1 point
+40 Equation
+Item
+Understand
+congruence
+and similarity
+using
+physical
+models,
+trans-
+parencies, or
+geometry
+software.
+Use informal arguments to
+establish facts about the
+angle sum and exterior angle
+of triangles, about the angles
+created when parallel lines
+are cut by a transversal, and
+the angle-angle criterion for
+similarity of triangles. For
+example, arrange three
+copies of the same triangle so
+that the sum of the three
+angles appears to form a line,
+and give an argument in
+terms of transversals why this is
+so. (8.G.5)
+Level 2 --- 1 point
+* The question numbers denote each question’s place in the online test.
+Items are numbered sequentially on the practice site.
+viii (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Content Summary and Answer Key
+Question
+No.*
+Item
+Type
+Content
+Cluster
+Content
+Standard
+Depth of
+Knowledge
+Answer
+Key Points
+43 Equation
+Item
+Use functions
+to model
+relationships
+between
+quantities.
+Construct a function to model
+a linear relationship between
+two quantities. Determine the
+rate of change and initial
+value of the function from a
+description of a relationship or
+from two (x, y) values,
+including reading these from
+a table or from a graph.
+Interpret the rate of change
+and initial value of a linear
+function in terms of the
+situation it models, and in
+terms of its graph or a table of
+values. (8.F.4)
+Level 2 --- 1 point
+45 Matching
+Item
+Know that
+there are
+numbers that
+are not
+rational, and
+approximate
+them by
+rational
+numbers.
+Use rational approximations of
+irrational numbers to
+compare the size of irrational
+numbers, locate them
+approximately on a number
+line diagram, and estimate
+the value of expressions, e.g.,
+π². For example, by truncating
+the decimal expansion of √2,
+show that √2 is between 1
+and 2, then between 1.4 and
+1.5, and explain how to
+continue on to get better
+approximations. (8.NS.2)
+Level 1 --- 1 point
+47
+Multiple
+Choice
+Item
+Solve real-
+world and
+mathe-
+matical
+problems
+involving
+volume of
+cylinders,
+cones, and
+spheres.
+Solve real-world and
+mathematical problems
+involving volumes of cones,
+cylinders, and spheres. (8.G.9)
+Level 2 B 1 point
+* The question numbers denote each question’s place in the online test.
+Items are numbered sequentially on the practice site.
+ix (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Content Summary and Answer Key
+Question
+No.*
+Item
+Type
+Content
+Cluster
+Content
+Standard
+Depth of
+Knowledge
+Answer
+Key Points
+48
+Inline
+Choice
+Item
+Understand
+the
+connections
+between
+proportional
+relationships,
+lines, and
+linear
+equations.
+Graph proportional
+relationships, interpreting the
+unit rate as the slope of the
+graph. Compare two different
+proportional relationships
+represented in different ways.
+For example, compare a
+distance-time graph to a
+distance-time equation to
+determine which of two
+moving objects has greater
+speed. (8.EE.5)
+Level 3 --- 1 point
+51
+Multiple
+Choice
+Item
+Investigate
+patterns of
+association in
+bivariate
+data.
+Construct and interpret
+scatter plots for bivariate
+measurement data to
+investigate patterns of
+association between two
+quantities. Describe patterns
+such as clustering; outliers;
+positive, negative, or no
+association; and linear
+association and nonlinear
+association. (GAISE Model,
+steps 3 and 4) (8.SP.1)
+Level 1 C 1 point
+* The question numbers denote each question’s place in the online test.
+Items are numbered sequentially on the practice site.
+x (2023)
+Depth of Knowledge (DOK)
+DOK refers to the complexity of thinking required to complete a task in a given item.
+Items with a DOK 1 designation focus on the recall of information, such as definitions
+and terms, and simple procedures. Items with a DOK 2 designation require students to
+make decisions, solve routine problems, perform calculations, or recognize patterns.
+Items with a DOK 3 designation feature higher-order cognitive tasks. These DOK 3 tasks
+include but are not limited to: critiquing a statement and forming a conclusion;
+explaining, justifying, or proving a statement; or approaching abstract, complex, open-
+ended, and non-routine problems. Each grade’s blueprint contains information about
+the number of points of opportunity students will encounter at each DOK level.
+Table 1: Math Descriptors – Applying Depth of Knowledge Levels for
+Mathematics (Webb, 2002) & NAEP 2002 Mathematics Levels of Complexity
+(M. Petit, Center for Assessment 2003, K. Hess, Center for Assessment, updated 2006)
+Level 1
+Recall
+Level 2
+Skills/Concepts
+Level 3
+Strategic Thinking
+Level 4*
+Extended Thinking
+a. Recall, observe, or
+recognize a fact,
+definition, term, or
+property
+b. Apply/compute a
+well-known
+algorithm (e.g., sum,
+quotient)
+c. Apply a formula
+d. Determine the area
+or perimeter of
+rectangles or
+triangles given a
+drawing and labels
+e. Identify a plane or
+three-dimensional
+figure
+f. Measure
+g. Perform a specified
+or routine procedure
+(e.g., apply rules for
+rounding)
+h. Evaluate an
+expression
+i. Solve a one-step
+word problem
+j. Retrieve information
+from a table or
+graph
+a. Classify plane and
+three-dimensional
+figures
+b. Interpret information
+from a simple graph
+c. Use models to
+represent
+mathematical
+concepts
+d. Solve a routine
+problem requiring
+multiple steps/
+decision points, or
+the application of
+multiple concepts
+e. Compare and/or
+contrast figures or
+statements
+f. Construct 2-
+dimensional patterns
+for 3-dimensional
+models, such as
+cylinders and cones
+g. Provide justifications
+for steps in a solution
+process
+h. Extend a pattern
+a. Interpret information
+from a complex
+graph
+b. Explain thinking
+when more than
+one response is
+possible
+c. Make and/or justify
+conjectures
+d. Use evidence to
+develop logical
+arguments for a
+concept
+e. Use concepts to
+solve non-routine
+problems
+f. Perform a procedure
+with multiple steps
+and multiple
+decision points
+g. Generalize a pattern
+h. Describe, compare,
+and contrast solution
+methods
+i. Formulate a
+mathematical
+model for a complex
+situation
+j. Provide
+mathematical
+justifications
+a. Relate
+mathematical
+concepts to other
+content areas
+b. Relate
+mathematical
+concepts to real-
+world applications
+in new situations
+c. Apply a
+mathematical
+model to illuminate
+a problem, situation
+d. Conduct a project
+that specifies a
+problem, identifies
+solution paths, solves
+the problem, and
+reports results
+e. Design a
+mathematical
+model to inform and
+solve a practical or
+abstract situation
+f. Develop
+generalizations of
+the results obtained
+and the strategies
+used and apply
+them to new
+problem situations
+Table 1 continued on next page.
+xi (2023)
+Level 1
+Recall
+Level 2
+Skills/Concepts
+Level 3
+Strategic Thinking
+Level 4*
+Extended Thinking
+k. Recall, identify, or
+make conversions
+between and
+among
+representations or
+numbers (fractions,
+decimals, and
+percents), or within
+and between
+customary and
+metric measures
+l. Locate numbers
+on a number line,
+or points on a
+coordinate grid
+m. Solve linear
+equations
+n. Represent math
+relationships in
+words, pictures, or
+symbols
+o. Read, write, and
+compare decimals
+in scientific notation
+i. Retrieve information
+from a table, graph,
+or figure and use it
+to solve a problem
+requiring multiple
+steps
+j. Translate between
+tables, graphs,
+words and symbolic
+notation
+k. Make direct
+translations between
+problem situations
+and symbolic
+notation
+l. Select a procedure
+according to criteria
+and perform it
+m. Specify and explain
+relationships
+between facts,
+terms, properties,
+or operations
+n. Compare, classify,
+organize, estimate,
+or order data
+k. Solve a multiple-
+step problem and
+provide support with
+a mathematical
+explanation that
+justifies the answer
+l. Solve 2-step linear
+equations/
+inequalities in one
+variable over the
+rational numbers,
+interpret solution(s)
+in the original
+context, and verify
+reasonableness of
+results
+m. Translate between
+a problem situation
+and symbolic
+notation that is not
+a direct translation
+n. Formulate an
+original problem,
+given a situation
+o. Analyze the
+similarities and
+differences between
+procedures
+p. Draw conclusion
+from observations
+or data, citing
+evidence
+g. Apply one
+approach among
+many to solve
+problems
+h. Apply understanding
+in a novel way,
+providing an
+argument/
+justification for
+the application
+NOTE: Level 4 involves
+such things as complex
+restructuring of data or
+establishing and
+evaluating criteria
+to solve problems.
+*Note: Ohio’s State Tests only assess and measure DOK Levels 1 – 3 in grades K – 12. Level 4 is
+included in this table for informational purposes only.
+Updated 2006 © Marge Petit & Karin K. Hess, National Center for Assessment, Dover, NH
+Permission to reproduce is given when authorship is fully cited khess@nciea.org
+1 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 1
+Question and Scoring Guidelines
+2 (2023)
+Question 1 39296
+Points Possible: 1
+Content Cluster: Work with radicals and integer exponents.
+Content Standard: Use square root and cube root symbols to
+represent solutions to equations of the form x² = p and x³ = p, where
+p is a positive rational number. Evaluate square roots of small
+perfect squares and cube roots of small perfect cubes. Know that √2
+is irrational. (8.EE.2)
+Depth of Knowledge: Level 1
+Modeling and Reasoning: No
+3 (2023)
+Scoring Guidelines
+For full credit (1 point), the student’s response satisfies the bullet below.
+• The student correctly identifies that a is equal to 6 or –6, providing
+evidence of the ability to use square root symbols to represent or solve
+equations in the form x2 = p.
+Exemplar Response
+• a = 6
+or
+• a = –6
+or
+• any equivalent values
+4 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 1
+Sample Responses
+5 (2023)
+Sample Response: 1 point
+Notes on Scoring
+This response earns full credit (1 point). The student may recognize
+the inverse operation of a square is the square root. The student may
+solve the equation by taking the positive square root of both sides of
+the equation, to get a = 6.
+6 (2023)
+Sample Response: 1 point
+Notes on Scoring
+This response earns full credit (1 point). The student may recognize
+the inverse operation of a square is the square root. The student may
+solve the equation by taking the positive square root of both sides of
+the equation, to get a = 6. Then the student may recognize a = –6 is
+also a solution because a negative number multiplied by a negative
+number is a positive number.
+7 (2023)
+Sample Response: 0 points
+Notes on Scoring
+This response earns no credit (0 points). The student may think the
+inverse operation of a square is division. The student may incorrectly
+solve by dividing both sides of the equation by 2, to get a = 18.
+8 (2023)
+Sample Response: 0 points
+Notes on Scoring
+This response earns no credit (0 points). The student may think
+squaring both sides of the equation will solve for a. The student may
+square 36, to get 1,296, but the student should have taken the
+square root of 36, so 1,296 is incorrect.
+9 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 10
+Question and Scoring Guidelines
+10 (2023)
+Question 10 42849
+Points Possible: 1
+Content Cluster: Define, evaluate, and compare functions.
+Content Standard: Understand that a function is a rule that assigns to
+each input exactly one output. The graph of a function is the set of
+ordered pairs consisting of an input and the corresponding output.
+Function notation is not required in Grade 8. (8.F.1)
+Depth of Knowledge: Level 1
+Modeling and Reasoning: No
+11 (2023)
+Scoring Guidelines
+Rationale for Option A: This is incorrect. The student may think that a set of
+ordered pairs is a function if all the x- and y-values are positive.
+Rationale for Option B: Key – The student correctly identifies that since all
+x-values (or first coordinates) in the ordered pairs correspond to exactly one
+y-value (or second coordinate) in the ordered pairs, the set of ordered pairs
+represents a function.
+Rationale for Option C: This is incorrect. The student may think that a set of
+ordered pairs is a function if all the x-values are positive.
+Rationale for Option D: This is incorrect. The student may think that a set of
+ordered pairs is a function if all the x-values are the same.
+Sample Response: 1 point
+12 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 11
+Question and Scoring Guidelines
+13 (2023)
+Question 11 29539
+Points Possible: 1
+Content Cluster: Work with radicals and integer exponents.
+Content Standard: Use numbers expressed in the form of a single
+digit times an integer power of 10 to estimate very large or very
+small quantities and to express how many times as much one is than
+the other. For example, estimate the population of the United States
+as 3 × 108; and the population of the world as 7 × 109; and
+determine that the world population is more than 20 times larger.
+(8.EE.3)
+Depth of Knowledge: Level 2
+Modeling and Reasoning: No
+14 (2023)
+Scoring Guidelines
+For this item, a full-credit response includes:
+• the correct value (1 point).
+Exemplar Response
+• 300,000
+or
+• 3 × 105 = 300,000
+or
+• any equivalent value
+15 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 11
+Sample Responses
+16 (2023)
+Sample Response: 1 point
+Notes on Scoring
+This response earns full credit (1 point). The student may recognize to
+determine how many times larger the weight of the boulder is than
+the weight of the pebble they should use division. The student may
+use the Laws of Exponents correctly and divide 9 × 103 by 3 × 10−2,
+to get 3 × 105. Then the student may express the answer as its
+numerical value: 300,000.
+17 (2023)
+Sample Response: 1 point
+Notes on Scoring
+This response earns full credit (1 point). The student may recognize to
+determine how many times larger the weight of the boulder is than
+the weight of the pebble they should use division. The student may
+use the Laws of Exponents correctly and divide 9 × 103 by 3 × 10−2,
+to get 3 × 105.
+18 (2023)
+Sample Response: 0 points
+Notes on Scoring
+This response earns no credit (0 points). The student may incorrectly
+think to determine how many times larger the weight of the boulder
+is than the weight of the pebble they should use multiplication. The
+student may use the Laws of Exponents correctly, but multiply 9 × 103
+by 3 × 10−2, to get 27 × 101. Then the student may express the
+answer as its numerical value, 270.
+19 (2023)
+Sample Response: 0 points
+Notes on Scoring
+This response earns no credit (0 points). The student may incorrectly
+think to determine how many times larger the weight of the boulder
+is than the weight of the pebble they should use multiplication. The
+student may use the Laws of Exponents incorrectly and multiply
+9 × 103 by 3 × 10−2, to get 27 × 105. Then the student may express
+27 × 105 incorrectly as the numerical value: 270,000.
+20 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 12
+Question and Scoring Guidelines
+21 (2023)
+Question 12 26566
+Points Possible: 1
+Content Cluster: Understand and apply the Pythagorean Theorem.
+Content Standard: Apply the Pythagorean Theorem to determine
+unknown side lengths in right triangles in real-world and
+mathematical problems in two and three dimensions. (8.G.7)
+Depth of Knowledge: Level 2
+Modeling and Reasoning: Yes
+22 (2023)
+Scoring Guidelines
+Rationale for Option A: This is incorrect. The student may correctly use the
+Pythagorean Theorem, but incorrectly calculate the diagonal of the base to
+get 5cm.
+Rationale for Option B: This is incorrect. The student may correctly use the
+Pythagorean Theorem, but incorrectly use 4 and 12 as the leg lengths, to get
+12.2cm.
+Rationale for Option C: This is incorrect. The student may correctly use the
+Pythagorean Theorem, but incorrectly use 3 and 12 as the leg lengths, to get
+12.4cm.
+Rationale for Option D: Key – The student recognizes that AB̅̅̅̅ is the hypotenuse
+of a triangle with one side length of 12cm and the other side length equal to
+the length of the diagonal of the base. The student understands that the
+diagonal of the base is the hypotenuse of a right triangle with legs 3cm and
+4cm and uses the Pythagorean Theorem to find the diagonal of the base is
+5cm. Then the student uses the Pythagorean Theorem again to calculate the
+hypotenuse of the triangle with 5cm and 12cm, finding the length of AB is
+13cm.
+23 (2023)
+Sample Response: 1 point
+24 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 13
+Question and Scoring Guidelines
+25 (2023)
+Question 13 37208
+Points Possible: 1
+Content Cluster: Use functions to model relationships between
+quantities.
+Content Standard: Describe qualitatively the functional relationship
+between two quantities by analyzing a graph, e.g., where the
+function is increasing or decreasing, linear or nonlinear. Sketch a
+graph that exhibits the qualitative features of a function that has
+been described verbally. (8.F.5)
+Depth of Knowledge: Level 3
+Modeling and Reasoning: Yes
+26 (2023)
+Scoring Guidelines
+For full credit (1 point), the student’s response satisfies the bullet below.
+• The student chooses the correct answer, providing evidence of the ability
+to use key features to identify the quantity that a graph could represent in
+a real-world context.
+Exemplar Response
+27 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 13
+Sample Responses
+28 (2023)
+Sample Response: 1 point
+Notes on Scoring
+This response earns full credit (1 point). The student may correctly
+identify the middle graph best represents the amount of gas in the
+gas tank as the value of y because as time increases the value of y
+shows a decrease and then an increase. The student may recognize
+this represents gas being used in the tank and then the gas tank
+being filled back up.
+The student may match the first graph to represent the distance
+from Columbus as the value of y because as time increases the
+distance away from the city where Kristie started increases, since
+she gets farther away.
+The student may match the last graph with the distance from
+Cincinnati as the value of y because as time increases the distance
+away from the city Kristie is traveling to decreases, since she gets
+closer.
+29 (2023)
+Sample Response: 0 points
+Notes on Scoring
+This response earns no credit (0 points). The student may have
+mistakenly matched the amount of gas in the gas tank with the first
+graph confusing increasing with decreasing for the value of y. The
+student may have incorrectly thought as x was increasing, the
+amount of gas in the gas tank was increasing.
+The student may have mistakenly matched the distance from
+Cincinnati with the second graph and did not realize that when the
+line increases that would indicate backtracking farther from where
+Kristie started.
+The student may have mistakenly matched the distance from
+Columbus with the last graph, confusing decreasing with increasing
+for the value of y. The student may have incorrectly thought as x
+was increasing, the distance from Columbus was also increasing.
+30 (2023)
+Sample Response: 0 points
+Notes on Scoring
+This response earns no credit (0 points). The student may have
+mistakenly matched the amount of gas in the gas tank with the first
+graph confusing increasing with decreasing for the value of y. The
+student may have incorrectly interpreted the graph as x was
+increasing, the amount of gas in the gas tank was decreasing.
+The student may have correctly matched the distance from
+Cincinnati with the last graph, since as time increases the distance
+away from the city Kristie is traveling to decreases, since she gets
+closer.
+The student may have mistakenly matched the distance from
+Columbus with the second graph, confusing the line moving off to
+the right with a car traveling. The student may have incorrectly
+thought as x was increasing, the distance from Columbus was
+increasing because the line gets further away from the y-axis.
+31 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 14
+Question and Scoring Guidelines
+32 (2023)
+Question 14 41935
+33 (2023)
+Points Possible: 1
+Content Cluster: Understand congruence and similarity using
+physical models, transparencies, or geometry software.
+Content Standard: Understand that a two-dimensional figure is similar
+to another if the second can be obtained from the first by a
+sequence of rotations, reflections, translations, and dilations; given
+two similar two-dimensional figures, describe a sequence that
+exhibits the similarity between them. (Include examples both with
+and without coordinates.) (8.G.4)
+Depth of Knowledge: Level 2
+Modeling and Reasoning: Yes
+34 (2023)
+Scoring Guidelines
+Rationale for Option A: Key – The student correctly finds the image of the
+parallelogram EFGH. The coordinates of the image of EFGH under the first
+transformation are 𝐸′(1, −4), 𝐹′(−2, −4), 𝐺′(−3, −2). Since the coordinates of the
+image of E’F’G’H’ under the second transformation are
+𝑃(3, −12), 𝑄(−6, −12)𝑅(−9, −6), 𝑆(0, −6), the second transformation is a dilation.
+Thus, the student calculates the scale factor by dividing the x-coordinate of
+the vertex P by the x-coordinate of the corresponding vertex E’ as 3 ÷ 1 = 3.
+Rationale for Option B: This is incorrect. The student may correctly identify the
+image of the parallelogram EFGH after the first transformation as
+𝐸′(1, −4), 𝐹′(−2, −4), 𝐺′(−3, −2). The student may then calculate the scale
+factor by dividing the x-coordinates of the vertices of the image of EFGH after
+the first transformation by the x-coordinates of the vertices of PQRS. Thus, the
+student calculates the scale factor as 1 ÷ 3 = 1
+3.
+Rationale for Option C: This is incorrect. The student may assume that after a
+rotation of 180° clockwise about the origin, the coordinates (𝑥, 𝑦) changes to
+(𝑥, −𝑦). The student may then calculate the scale factor by dividing the
+x-coordinate of the vertex P by the x-coordinate image of the vertex E after
+the rotation as 3 ÷ 1 = 3.
+Rationale for Option D: This is incorrect. The student may assume that after a
+rotation of 180° about the origin, the coordinates (𝑥, 𝑦) changes to (𝑥, −𝑦). The
+student may then calculate the scale factor by dividing the x-coordinate
+image of the vertex E after the rotation by the x-coordinate of the vertex P
+as 1 ÷ 3 = 1
+3.
+35 (2023)
+Sample Response: 1 point
+36 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 19
+Question and Scoring Guidelines
+37 (2023)
+Question 19 27984
+Points Possible: 1
+Content Cluster: Analyze and solve linear equations and pairs of
+simultaneous linear equations.
+Content Standard: Solve linear equations in one variable.
+a. Give examples of linear equations in one variable with one
+solution, infinitely many solutions, or no solutions. Show which of
+these possibilities is the case by successively transforming the given
+equation into simpler forms, until an equivalent equation of the form
+x = a, a = a, or a = b results (where a and b are different numbers).
+(8.EE.7)
+Depth of Knowledge: Level 2
+Modeling and Reasoning: No
+38 (2023)
+Scoring Guidelines
+Rationale for Option A: Key – The student correctly determines that having 9x
+on both sides of the equation and different y-intercepts means there are no
+solutions.
+Rationale for Option B: This is incorrect. The student may fail to distribute the
+negative sign of 3 when multiplying.
+Rationale for Option C: This is incorrect. The student may not know how to
+identify the number of solutions.
+Rationale for Option D: This is incorrect. The student may think that having 9x
+on both sides means there are infinitely many solutions.
+Sample Response: 1 point
+39 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 20
+Question and Scoring Guidelines
+40 (2023)
+Question 20 40380
+41 (2023)
+Scoring Guidelines
+Rationale for Option A: This is incorrect. The student may think that EFGH was
+reflected across the y-axis because E’F’G’H’ crossed over the y-axis but did
+not notice the orientation of the figure by comparing the vertices. The student
+may refer back to EFGH rather than the image and think the quadrilateral was
+translated to the right 5 units by comparing vertex G to vertex H’.
+Rationale for Option B: This is incorrect. The student may think that EFGH was
+reflected across the y-axis because E’F’G’H’ crossed over the y-axis but did
+not notice the orientation of the figure by comparing the vertices. The student
+may then recognize that the image E would map onto E’ if the image was
+translated 5 units down.
+Rationale for Option C: This is incorrect. The student may recognize that EFGH
+was rotated about the origin 90° clockwise but mistakenly refers back to EFGH
+rather than the image and thinks the quadrilateral was translated to the right
+5 units by comparing vertex G to vertex H’.
+Rationale for Option D: Key – The student may determine EFGH was rotated
+about the origin by comparing the orientation of the vertices of EFGH and
+E’F’G’H’, and rotates EFGH 90 degrees clockwise into Quadrant 1 with points
+at 𝐸(6,6), 𝐹(6,2), 𝐺(2,3), 𝐻(2,7). The student may then recognize that the image
+of EFGH can be translated downward 5 units to map onto E’F’G’H’ by
+comparing the y-coordinates of the image of EFGH and E’F’G’H’.
+Points Possible: 1
+Content Cluster: Understand congruence and similarity using
+physical models, transparencies, or geometry software.
+Content Standard: Understand that a two-dimensional figure is
+congruent to another if the second can be obtained from the first
+by a sequence of rotations, reflections, and translations; given two
+congruent figures, describe a sequence that exhibits the
+congruence between them. (Include examples both with and
+without coordinates.) (8.G.2)
+Depth of Knowledge: Level 2
+Modeling and Reasoning: Yes
+42 (2023)
+Sample Response: 1 point
+43 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 25
+Question and Scoring Guidelines
+44 (2023)
+Question 25 42810
+Points Possible: 1
+Content Cluster: Work with radicals and integer exponents.
+Content Standard: Understand, explain, and apply the properties of
+integer exponents to generate equivalent numerical expressions. For
+example, 32 × 3-5 = 3-3 = 1/33 = 1/27. (8.EE.1)
+Depth of Knowledge: Level 1
+Modeling and Reasoning: No
+45 (2023)
+Scoring Guidelines
+For full credit (1 point), the student’s response satisfies the bullet below.
+• The student understands that the exponents in (56)3 should be multiplied
+and the exponents in 56 · 53 should be added, providing evidence of the
+ability to apply the properties of integer exponents to generate
+equivalent numerical expressions.
+Exemplar Response
+46 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 25
+Sample Responses
+47 (2023)
+Sample Response: 1 point
+Notes on Scoring
+This response earns full credit (1 point). For the expression, (56)3, the
+student may correctly apply the properties of exponents. The
+student may multiply the exponents, 6 and 3, to get 518. For the
+expression, 56 · 53, the student may also correctly apply the
+properties of exponents. The student may add the exponents, 6 and
+3, to get 59.
+48 (2023)
+Sample Response: 0 points
+Notes on Scoring
+This response earns no credit (0 points). For the expression, (56)3, the
+student may incorrectly apply the properties of exponents. The
+student may add the exponents instead of multiply, to get 59. For
+the expression, 56 · 53, the student may also incorrectly apply the
+properties of exponents. The student may multiply the exponents
+instead of adding, to get 518.
+49 (2023)
+Sample Response: 0 points
+Notes on Scoring
+This response earns no credit (0 points). For the expression, (56)3, the
+student may correctly apply the properties of exponents. The
+student may multiply the exponents, 6 and 3, to get 518. For the
+expression, 56 · 53, the student may incorrectly apply the properties
+of exponents. The student may think to raise 6 to the power of 3 to
+get 5216.
+50 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 28
+Question and Scoring Guidelines
+51 (2023)
+Question 28 26475
+52 (2023)
+Scoring Guidelines
+Rationale for First Option: Key – The student correctly identifies congruent
+segments after a rotation.
+Rationale for Second Option: This is incorrect. The student may not recognize
+how the figure was rotated.
+Rationale for Third Option: This is incorrect. The student may choose one of the
+two longest sides.
+Rationale for Fourth Option: Key – The student correctly identifies congruent
+segments after a rotation.
+Rationale for Fifth Option: Key – The student correctly identifies congruent
+segments after a rotation.
+Points Possible: 1
+Content Cluster: Understand congruence and similarity using
+physical models, transparencies, or geometry software.
+Content Standard: Verify experimentally the properties of rotations,
+reflections, and translations (include examples both with and
+without coordinates).
+a. Lines are taken to lines, and line segments are taken to line
+segments of the same length. (8.G.1)
+Depth of Knowledge: Level 1
+Modeling and Reasoning: No
+53 (2023)
+Sample Response: 1 point
+54 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 30
+Question and Scoring Guidelines
+55 (2023)
+Question 30 40373
+56 (2023)
+Scoring Guidelines
+Rationale for Option A: Key – The student recognizes that most of the data is
+below the line, making the linear model not a good fit for the data.
+Rationale for Option B: This is incorrect. The student may recognize that the line
+does not fit the data well but may think that the line needs to go through more
+of the data points when this is not necessarily the case.
+Rationale for Option C: This is incorrect. The student may think any model that
+passes through a few data points must be a good fit for the data but fails to
+recognize that the majority of the data is below the line so it is not a good fit.
+Rationale for Option D: This is incorrect. The student may recognize that the
+slope of the line correctly follows the downward trend of the data with
+increasing x-values but does not recognize that the line should remain as close
+to as many of the data points as possible, usually with data points both above
+and below the line.
+Points Possible: 1
+Content Cluster: Investigate patterns of association in bivariate data.
+Content Standard: Understand that straight lines are widely used to
+model relationships between two quantitative variables. For scatter
+plots that suggest a linear association, informally fit a straight line,
+and informally assess the model fit by judging the closeness of the
+data points to the line. (GAISE Model, steps 3 and 4) (8.SP.2)
+Depth of Knowledge: Level 2
+Modeling and Reasoning: No
+57 (2023)
+Sample Response: 1 point
+58 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 32
+Question and Scoring Guidelines
+59 (2023)
+Question 32 39148
+Points Possible: 1
+Content Cluster: Understand the connections between proportional
+relationships, lines, and linear equations.
+Content Standard: Use similar triangles to explain why the slope m is
+the same between any two distinct points on a non-vertical line in
+the coordinate plane; derive the equation y = mx for a line through
+the origin and the equation y = mx + b for a line intercepting the
+vertical axis at b. (8.EE.6)
+Depth of Knowledge: Level 2
+Modeling and Reasoning: Yes
+60 (2023)
+Scoring Guidelines
+For full credit (1 point), the student’s response satisfies the bullet below.
+• The student identifies that the equation is y = 2x, providing evidence of the
+ability to derive the equation y = mx for a line through the origin.
+Exemplar Response
+• y = 2x
+61 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 32
+Sample Responses
+62 (2023)
+Sample Response: 1 point
+Notes on Scoring
+This response earns full credit (1 point). The student may calculate
+the rate of change, or slope, from the origin to the points (2, 4) and
+(3, 6) to determine the equation of the line. The student may
+calculate the rate of change to the first point, (2, 4), from the origin
+as 4
+2 or 2. Then the student may calculate the rate of change to the
+second point, (3, 6), from the origin as 6
+3 or 2. Since the rates of
+change from (0, 0) are equivalent, the student may determine the
+equation to be y = 2x.
+63 (2023)
+Sample Response: 1 point
+Notes on Scoring
+This response earns full credit (1 point). The student may calculate
+the rate of change, or slope, from the origin to the points (2, 4) and
+(3, 6) to determine the equation of the line. The student may
+calculate the rate of change to the first point, (2, 4), from the origin
+as 4
+2 or 2
+1. Then the student may calculate the rate of change to the
+second point, (3, 6), from the origin as 6
+3 or 2
+1. Since the rates of
+change from (0, 0) are equivalent, the student may determine the
+equation to be 𝑦 = 2
+1 𝑥.
+64 (2023)
+Sample Response: 0 points
+Notes on Scoring
+This response earns no credit (0 points). The student may calculate
+the rate of change, or slope, from the origin to the points (2, 4) and
+(3, 6) to determine the equation of the line. The student may
+incorrectly calculate the rate of change to the first point, (2, 4), from
+the origin as 2
+4 or 1
+2. Then the student may also incorrectly calculate
+the rate of change to the second point, (3, 6), from the origin as 3
+6 or
+1
+2. Since the rates of change from (0, 0) are equivalent, the student
+may incorrectly determine the equation to be 𝑦 = 1
+2 𝑥.
+65 (2023)
+Sample Response: 0 points
+Notes on Scoring
+This response earns no credit (0 points). The student may incorrectly
+find slope by first multiplying the coordinates of each point. The
+student may multiply 2 and 4 to get 8 and 3 and 6 to get 18. Then
+the student may subtract 18 and 8 to incorrectly determine 10 as the
+slope of the line. Finally, the student may incorrectly enter the
+equation of the line as y = 10x.
+66 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 33
+Question and Scoring Guidelines
+67 (2023)
+Question 33 42805
+68 (2023)
+Scoring Guidelines
+For full credit (1 point), the student’s response satisfies the bullet below.
+• The student correctly determines the effect of the transformations on
+ABCD and calculates the value of k as 1 or 4, providing evidence of the
+ability to describe the effect of translations and rotations on two-
+dimensional figures using coordinates.
+Exemplar Response
+• 1
+or
+• 4
+or
+• any equivalent values
+Points Possible: 1
+Content Cluster: Understand congruence and similarity using
+physical models, transparencies, or geometry software.
+Content Standard: Describe the effect of dilations, translations,
+rotations, and reflections on two-dimensional figures using
+coordinates. (8.G.3)
+Depth of Knowledge: Level 2
+Modeling and Reasoning: Yes
+69 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 33
+Sample Responses
+70 (2023)
+Sample Response: 1 point
+71 (2023)
+Notes on Scoring
+This response earns full credit (1 point). The student may correctly
+determine, after a 90 degrees counterclockwise rotation about the
+origin, the vertices of the rotated rectangle would be at (-1, 1),
+(-1, 2), (-4, 2) and (-4,1). After this rotation, the student may
+recognize the right side of the rectangle is parallel to the y-axis. The
+student may then determine that translating the rectangle to the
+right by 1 unit would put the right side of the rectangle on the y-axis.
+72 (2023)
+Sample Response: 1 point
+73 (2023)
+Notes on Scoring
+This response earns full credit (1 point). The student may correctly
+determine, after a 90 degrees counterclockwise rotation about the
+origin, the vertices of the rotated rectangle would be at (-1, 1),
+(-1, 2), (-4, 2) and (-4,1). After this rotation, the student may
+recognize the left side of the rectangle is parallel to the y-axis. The
+student may then determine that translating the rectangle to the
+right by 4 units would put the left side of the rectangle on the y-axis.
+74 (2023)
+Sample Response: 0 points
+75 (2023)
+Notes on Scoring
+This response earns no credit (0 points). The student may incorrectly
+think a 90 degrees rotation counterclockwise about the origin (0, 0)
+is the same as reflecting the shape across the line y = x, since y = x
+also passes through (0,0). The student may incorrectly determine the
+vertices of the rectangle to be (-1, -1), (-2, -1), (-1, -4) and (-2, -4). The
+student may recognize the left side of the rectangle is parallel to the
+y-axis. The student may then recognize by translating the rectangle
+to the right by 2 units would put the left side of the rectangle on the
+y-axis.
+76 (2023)
+Sample Response: 0 points
+77 (2023)
+Notes on Scoring
+This response earns no credit (0 points). The student may correctly
+recognize a 90 degrees rotation counterclockwise will rotate the
+shape to its side, but incorrectly think the vertex closest to the origin
+must be on the origin. So, the student may incorrectly determine the
+vertices of the rectangle to be (0, 0), (0, 1), (-3, 0) and (-3, 1). The
+student may recognize the right side of the rectangle is already on
+the y-axis. The student may then recognize by translating the
+rectangle to the right by 3 units would put the left side of the
+rectangle on the y-axis.
+78 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 34
+Question and Scoring Guidelines
+79 (2023)
+Question 34 37928
+Points Possible: 1
+Content Cluster: Define, evaluate, and compare functions.
+Content Standard: Interpret the equation y = mx + b as defining a
+linear function, whose graph is a straight line; give examples of
+functions that are not linear. For example, the function A = s2 giving
+the area of a square as a function of its side length is not linear
+because its graph contains the points (1, 1), (2, 4), and (3, 9) which
+are not on a straight line. (8.F.3)
+Depth of Knowledge: Level 2
+Modeling and Reasoning: Yes
+80 (2023)
+Scoring Guidelines
+Rationale for Option A: This is incorrect. The student may identify that the
+graph passes through the origin, but does not consider that the line cannot
+pass through all three points since the slope of a line going through the first
+two points is 2, but the slope of a line going through the second two points is 3.
+Rationale for Option B: This is incorrect. The student may mistakenly believe
+that a linear function must have a nonzero y-intercept and therefore not pass
+through the origin.
+Rationale for Option C: This is incorrect. The student may think that since the
+x-coordinate increases by 1 for each point, then a line can be drawn that
+intersects all three points. However, to determine whether three or more points
+are collinear, the slope of a line connecting each adjacent pair of points must
+be the same. For the three given points, slope of a line connecting the first two
+points is 2, but the slope of a line connecting the last two points is 3.
+Rationale for Option D: Key – The student correctly recognizes that the
+function that passes through the given points is not a linear function since the
+slope of a line connecting the first two points is 2, but the slope of a line
+connecting the last two points is 3.
+Sample Response: 1 point
+81 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 36
+Question and Scoring Guidelines
+82 (2023)
+Question 36 26461
+83 (2023)
+Scoring Guidelines
+Rationale for Option A: This is incorrect. The student may misinterpret the
+starting temperature of one of the liquids and may have used just the
+coordinates of one point to calculate Liquid B, such as (12, 60), 60 divided by
+12 equals 5.
+Rationale for Option B: This is incorrect. The student may use just the
+coordinates of one point to calculate Liquid B, such as (12, 60), 60 divided by
+12 equals 5.
+Rationale for Option C: This is incorrect. The student may misinterpret the
+starting temperature of one of the liquids.
+Rationale for Option D: Key – The student correctly compares the rates of 3.5
+and 10/3 and the starting temperatures of 18 and 20 degrees.
+Points Possible: 1
+Content Cluster: Define, evaluate, and compare functions.
+Content Standard: Compare properties of two functions each
+represented in a different way (algebraically, graphically,
+numerically in tables, or by verbal descriptions). For example, given
+a linear function represented by a table of values and a linear
+function represented by an algebraic expression, determine which
+function has the greater rate of change. (8.F.2)
+Depth of Knowledge: Level 2
+Modeling and Reasoning: Yes
+84 (2023)
+Sample Response: 1 point
+85 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 37
+Question and Scoring Guidelines
+86 (2023)
+Question 37 33961
+Points Possible: 1
+Content Cluster: Work with radicals and integer exponents.
+Content Standard: Perform operations with numbers expressed in
+scientific notation, including problems where both decimal notation
+and scientific notation are used. Use scientific notation and choose
+units of appropriate size for measurements of very large or very small
+quantities, e.g., use millimeters per year for seafloor spreading.
+Interpret scientific notation that has been generated by technology.
+(8.EE.4)
+Depth of Knowledge: Level 3
+Modeling and Reasoning: Yes
+87 (2023)
+Scoring Guidelines
+For this item, a full-credit response includes:
+• two correct values (1 point).
+Exemplar Response
+• p = 2, q = 3
+or
+• any values of p and q such that p x 10q = 2,000
+88 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 37
+Sample Responses
+89 (2023)
+Sample Response: 1 point
+Notes on Scoring
+This response earns full credit (1 point). The student may correctly
+identify that 7.5 multiplied by p must equal 1.5. The student may
+divide 1.5 by 7.5 to get 0.2. Next the student may correctly identify
+that the sum of the exponents 4 and q must equal 8. Therefore, the
+student may calculate the value of q by subtracting 8 and 4 to get
+4. Next, the student may determine 0.2 ∙ 104 as the second factor on
+the left side of the equation. This means that p = 0.2 and q = 4.
+Finally, the student may prefer that 0.2 be a whole number to be in
+standard scientific notation and correctly determine that
+0.2 ∙ 104 = 2 ∙ 103. This means that p = 2 and q = 3 will work in this
+equation.
+90 (2023)
+Sample Response: 1 point
+Notes on Scoring
+This response earns full credit (1 point). The student may correctly
+identify that 7.5 multiplied by p must equal 1.5. The student may
+divide 1.5 by 7.5 to get 0.2. Next the student may correctly identify
+that the sum of the exponents 4 and q must equal 8. Therefore, the
+student may calculate the value of q by subtracting 8 and 4 to get
+4. Next, the student may determine 0.2 ∙ 104 as the second factor on
+the left side of the equation. This means that p = 0.2 and q = 4.
+91 (2023)
+Sample Response: 0 points
+Notes on Scoring
+This response earns no credit (0 points). The student may incorrectly
+identify that 7.5 added to p results in 1.5. The student may subtract
+7.5 from 1.5 to get –6. Next the student may correctly identify that
+the sum of the exponents 4 and q should equal 8. Therefore, the
+student may calculate the value of q by subtracting 8 and 4 to get
+4. Finally, the student may determine −6 ∙ 104 as the second factor,
+where p = –6 and q = 4.
+92 (2023)
+Sample Response: 0 points
+Notes on Scoring
+This response earns no credit (0 points). The student may incorrectly
+identify that p should be subtracted from 7.5 to get 1.5. The student
+may subtract 1.5 from 7.5 to get 6. Next the student may correctly
+identify that the sum of the exponents 4 and q, when added should
+be 8. Therefore, the student may calculate the value of q by
+subtracting 8 and 4 to get 4. Finally, the student may determine
+6 x 104 as the second factor, where p = 6 and q = 4.
+93 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 40
+Question and Scoring Guidelines
+94 (2023)
+Question 40 29589
+95 (2023)
+Scoring Guidelines
+For this item, a full-credit response includes:
+• a correct equation (1 point).
+Exemplar Response
+• x + y
+or
+• any equivalent expression
+Points Possible: 1
+Content Cluster: Understand congruence and similarity using
+physical models, transparencies, or geometry software.
+Content Standard: Use informal arguments to establish facts about
+the angle sum and exterior angle of triangles, about the angles
+created when parallel lines are cut by a transversal, and the angle-
+angle criterion for similarity of triangles. For example, arrange three
+copies of the same triangle so that the sum of the three angles
+appears to form a line, and give an argument in terms of
+transversals why this is so. (8.G.5)
+Depth of Knowledge: Level 2
+Modeling and Reasoning: Yes
+96 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 40
+Sample Responses
+97 (2023)
+Sample Response: 1 point
+Notes on Scoring
+This response earns full credit (1 point). The student may correctly
+determine the exterior angle, z, is equal to the sum of the measures
+of the two opposite interior angles of the triangle, x and y. The
+student may enter x + y to demonstrate their understanding of the
+exterior angle theorem, which states the exterior angle of a triangle
+is equal to the sum of the two opposite interior angles.
+98 (2023)
+Sample Response: 1 point
+Notes on Scoring
+This response earns full credit (1 point). The student may correctly
+determine the exterior angle, z, is equal to the sum of the measures
+of the two opposite interior angles of the triangle, x and y. The
+student may enter y + x to demonstrate their understanding of the
+exterior angle theorem.
+99 (2023)
+Sample Response: 0 points
+Notes on Scoring
+This response earns no credit (0 points). The student may incorrectly
+determine the exterior angle, z, is equal to the measure of the
+unlabeled angle in the triangle. Therefore, the student may
+incorrectly think y + x + z = 180. The student may then solve this
+equation for z, and incorrectly determine z = 180 – x – y.
+100 (2023)
+Sample Response: 0 points
+Notes on Scoring
+This response earns no credit (0 points). The student may incorrectly
+determine the exterior angle, z, is equal to two times the sum of the
+two opposite interior angles. Therefore, the student may incorrectly
+think z = 2(x + y).
+101 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 43
+Question and Scoring Guidelines
+102 (2023)
+Question 43 37164
+Points Possible: 1
+Content Cluster: Use functions to model relationships between
+quantities.
+Content Standard: Construct a function to model a linear
+relationship between two quantities. Determine the rate of change
+and initial value of the function from a description of a relationship
+or from two (x, y) values, including reading these from a table or
+from a graph. Interpret the rate of change and initial value of a
+linear function in terms of the situation it models, and in terms of its
+graph or a table of values. (8.F.4)
+Depth of Knowledge: Level 2
+Modeling and Reasoning: Yes
+103 (2023)
+Scoring Guidelines
+For full credit (1 point), the student’s response satisfies the bullet below.
+• The student determines that 30 bottles of water are received from the
+supplier each day, providing evidence of the ability to determine the rate
+of change of a function from a description of a relationship.
+Exemplar Response
+• 30
+or
+• any equivalent value
+104 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 43
+Sample Responses
+105 (2023)
+Sample Response: 1 point
+Notes on Scoring
+This response earns full credit (1 point). The student may first think to
+calculate the number of water bottles delivered over the 3 days. So,
+the student may subtract 20, the amount the store already had,
+from 110 to get 90. The student may correctly identify 90 as the
+amount of water bottles delivered to the store over 3 days. Then the
+student may divide 90 by the 3 to get 30, the rate of change in the
+store’s bottled water supply for 1 day.
+106 (2023)
+Sample Response: 1 point
+Notes on Scoring
+This response earns full credit (1 point). The student may first think to
+calculate the number of water bottles delivered over the 3 days. So,
+the student may subtract 20, the amount the store already had,
+from 110 to get 90. The student may correctly identify 90 as the
+amount of water bottles delivered to the store over 3 days. Then the
+student may divide 90 by the 3 to get 30, the rate of change in the
+store’s bottled water supply for 1 day. The student may think that
+rates of change must always be written as a fraction and enter 30
+1 .
+107 (2023)
+Sample Response: 0 points
+Notes on Scoring
+This response earns no credit (0 points). The student may incorrectly
+interpret the first two sentences as 20 being the daily rate of water
+bottles delivered to the store instead of the amount of water bottles
+the store has to begin with.
+108 (2023)
+Sample Response: 0 points
+Notes on Scoring
+This response earns no credit (0 points). The student may disregard
+3 days and incorrectly think to find the rate of change the total
+number of water bottles, 110, should be divided by 20 bottles of
+water. The student may incorrectly identify 5.5 as the rate of change
+in the store’s bottled water supply for 1 day.
+109 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 45
+Question and Scoring Guidelines
+110 (2023)
+Question 45 42952
+Points Possible: 1
+Content Cluster: Know that there are numbers that are not rational,
+and approximate them by rational numbers.
+Content Standard: Use rational approximations of irrational numbers
+to compare the size of irrational numbers, locate them
+approximately on a number line diagram, and estimate the value of
+expressions, e.g., π². For example, by truncating the decimal
+expansion of √2, show that √2 is between 1 and 2, then between 1.4
+and 1.5, and explain how to continue on to get better
+approximations. (8.NS.2)
+Depth of Knowledge: Level 1
+Modeling and Reasoning: No
+111 (2023)
+Scoring Guidelines
+For full credit (1 point), the student’s response satisfies the bullet below.
+• The student matches the radicals with the correct intervals, providing
+evidence of the ability to approximate irrational numbers by rational
+numbers.
+Exemplar Response
+112 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 45
+Sample Responses
+113 (2023)
+Sample Response: 1 point
+Notes on Scoring
+This response earns full credit (1 point). The student may understand
+the relationship between the square of a number and the square
+root. The student may then find the perfect squares for 7, 8, 9, and
+10 as 49, 64, 81, and 100 respectively. Next the student may
+determine since 80 is less than 9 squared and more than 8 squared,
+the value of √80 must lie between 8 and 9. Then the student may
+determine since 85 and 90 are more than 9 squared and less than 10
+squared, the value √85 and √90 must both lie between 9 and 10.
+114 (2023)
+Sample Response: 0 points
+Notes on Scoring
+This response earns no credit (0 points). The student may correctly
+calculate 9 squared as 81 and 10 squared as 100. Then the student
+may determine the value of √90 to be between 9 and 10, since 90 is
+between 81 and 100. Next the student may notice the other two
+expressions, √85 and √80, are each less than the √90. Then the
+student may incorrectly assume the value of each must be
+consecutively less in the table, matching the value of √85 as being
+between 8 and 9 and the value of √80 as being between 7 and 8.
+115 (2023)
+Sample Response: 0 points
+Notes on Scoring
+This response earns no credit (0 points). The student may correctly
+calculate 9 squared as 81 and 10 squared as 100. Then the student
+may determine the value of √90 to be between 9 and 10, since 90 is
+between 81 and 100. The student may also correctly calculate 8
+squared as 64. The student may determine the value of √80 to be
+between 8 and 9, since 80 is between 64 and 81. Finally, the student
+may incorrectly assume the last expression, √85, must be between 7
+and 8 because it is the only range in the table without a match.
+116 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 47
+Question and Scoring Guidelines
+117 (2023)
+Question 47 26569
+Points Possible: 1
+Content Cluster: Solve real-world and mathematical problems
+involving volume of cylinders, cones, and spheres.
+Content Standard: Solve real-world and mathematical problems
+involving volumes of cones, cylinders, and spheres. (8.G.9)
+Depth of Knowledge: Level 2
+Modeling and Reasoning: Yes
+118 (2023)
+Scoring Guidelines
+Rationale for Option A: This is incorrect. The student may use the formula for
+circumference, instead of area, of the base.
+Rationale for Option B: Key – The student correctly finds the area of the base,
+then multiplies it by the height.
+Rationale for Option C: This is incorrect. The student may use the diameter,
+instead of the radius, and the formula for circumference, instead of area, of
+the base.
+Rationale for Option D: This is incorrect. The student may use the diameter
+instead of the radius to find the area of the base.
+Sample Response: 1 point
+119 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 48
+Question and Scoring Guidelines
+120 (2023)
+Question 48 42900
+121 (2023)
+Drop Down Choices
+Points Possible: 1
+Content Cluster: Understand the connections between proportional
+relationships, lines, and linear equations.
+Content Standard: Graph proportional relationships, interpreting the
+unit rate as the slope of the graph. Compare two different
+proportional relationships represented in different ways. For
+example, compare a distance-time graph to a distance-time
+equation to determine which of two moving objects has greater
+speed. (8.EE.5)
+Depth of Knowledge: Level 3
+Modeling and Reasoning: Yes
+122 (2023)
+Scoring Guidelines
+For full credit (1 point), the student’s response satisfies the bullet below.
+• The student correctly completes the statement, providing evidence of the
+ability to compare two different proportional relationships represented in
+different ways.
+Exemplar Response
+• The sample of hydrogen peroxide has a greater mass because it has the
+greater unit rate.
+123 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 48
+Sample Responses
+124 (2023)
+Sample Response: 1 point
+125 (2023)
+Notes on Scoring
+This response earns full credit (1 point). The student may correctly
+determine the liquid whose equation has a greater unit rate will also
+have a greater mass. The student may identify the unit rate of
+ammonia from the equation as 0.674. Then the student may use the
+graph to estimate the unit rate of hydrogen peroxide as the change
+in grams, y, over the change in milliliters, x. The student may
+determine the line starts at the origin and estimate the change in
+y-values as 10 and the change in x-values as 10. Next, the student
+may use these estimates to determine a unit rate of 1 for hydrogen
+peroxide, which is greater than 0.674.
+126 (2023)
+Sample Response: 0 points
+127 (2023)
+Notes on Scoring
+This response earns no credit (0 points). The student may identify the
+unit rate of ammonia from the equation as 0.674. Then the student
+may use the graph to estimate the unit rate of hydrogen peroxide
+as the change in grams, y, over the change in milliliters, x. The
+student may determine the line starts at the origin and estimate the
+change in y-values as 10 and the change in x-values as 10. Next, the
+student may use these estimates to determine a unit rate of 1 for
+hydrogen peroxide, which is greater than 0.674. However, the
+student may not have realized that we are comparing the same
+volume, 10 mL, of both hydrogen peroxide and ammonia.
+128 (2023)
+Sample Response: 0 points
+129 (2023)
+Notes on Scoring
+This response earns no credit (0 points). The student may correctly
+determine the equation with the greater unit rate will also be the
+equation for the liquid with the greater mass. The student may
+correctly determine the unit rate of ammonia from the equation as
+0.674. Then the student may incorrectly calculate the unit rate for
+the graph of the line. The student may incorrectly think the slope of
+the line is 1 over 10, or 0.1 since the liquid is measured in 10 mL
+increments. Therefore, incorrectly choosing ammonia as the liquid
+with the greater mass.
+130 (2023)
+Grade 8 Math
+Spring 2023 Item Release
+Question 51
+Question and Scoring Guidelines
+131 (2023)
+Question 51 37160
+132 (2023)
+Scoring Guidelines
+Rationale for Option A: This is incorrect. The student may think that the points
+on the graph have an association that does not represent a line exactly but
+misses that there does not need to be a perfect line for there to be a linear
+association.
+Rationale for Option B: This is incorrect. The student may think that since the
+data starts out on the lower part of the graph that the association must be
+negative.
+Rationale for Option C: Key – The student correctly determines that the graph
+shows a positive linear association since the points are grouped around a line
+and the y-values of the points tend to increase as the x-values increase.
+Rationale for Option D: This is incorrect. The student may think that there was
+no association between the number of computers sold and the number of
+printers sold because there is not a perfect linear association.
+Points Possible: 1
+Content Cluster: Investigate patterns of association in bivariate data.
+Content Standard: Construct and interpret scatter plots for bivariate
+measurement data to investigate patterns of association between
+two quantities. Describe patterns such as clustering; outliers; positive,
+negative, or no association; and linear association and nonlinear
+association. (GAISE Model, steps 3 and 4) (8.SP.1)
+Depth of Knowledge: Level 1
+Modeling and Reasoning: No
+133 (2023)
+Sample Response: 1 point
